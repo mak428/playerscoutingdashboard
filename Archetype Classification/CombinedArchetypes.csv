@@ -1,0 +1,2457 @@
+,Unnamed: 0,Player,Pos,Season,Age,Team,Comp,Ideal Archetype
+0,0,Alisson,GK,2023-2024,30.0,Liverpool,Premier League,Modern GK
+1,1,Alphonse Areola,GK,2023-2024,30.0,West Ham,Premier League,Classic GK
+2,2,Simone Aresti,GK,2023-2024,37.0,Cagliari,Serie A,Modern GK
+3,3,Noah Atubolu,GK,2023-2024,21.0,Freiburg,Bundesliga,Classic GK
+4,4,Oliver Baumann,GK,2023-2024,33.0,Hoffenheim,Bundesliga,Classic GK
+5,5,Alaa Bellaarouch,GK,2023-2024,21.0,Strasbourg,Ligue 1,Modern GK
+6,6,Etrit Berisha,GK,2023-2024,34.0,Empoli,Serie A,Modern GK
+7,7,Marco Bizot,GK,2023-2024,32.0,Brest,Ligue 1,Classic GK
+8,8,Janis Blaswich,GK,2023-2024,32.0,RB Leipzig,Bundesliga,Modern GK
+9,9,Marcin Bułka,GK,2023-2024,23.0,Nice,Ligue 1,Sweeper Keeper
+10,10,Elia Caprile,GK,2023-2024,21.0,Empoli,Serie A,Sweeper Keeper
+11,11,Marco Carnesecchi,GK,2023-2024,23.0,Atalanta,Serie A,Classic GK
+12,12,Koen Casteels,GK,2023-2024,31.0,Wolfsburg,Bundesliga,Classic GK
+13,13,Lucas Chevalier,GK,2023-2024,21.0,Lille,Ligue 1,Sweeper Keeper
+14,14,Oliver Christensen,GK,2023-2024,24.0,Fiorentina,Serie A,Modern GK
+15,15,Andrea Consigli,GK,2023-2024,36.0,Sassuolo,Serie A,Classic GK
+16,16,Benoît Costil,GK,2023-2024,36.0,Salernitana,Serie A,Modern GK
+17,17,Alessio Cragno,GK,2023-2024,29.0,Sassuolo,Serie A,Modern GK
+18,18,Finn Dahmen,GK,2023-2024,25.0,Augsburg,Bundesliga,Sweeper Keeper
+19,19,Rémy Descamps,GK,2023-2024,27.0,Nantes,Ligue 1,Modern GK
+20,20,Arthur Desmas,GK,2023-2024,29.0,Le Havre,Ligue 1,Sweeper Keeper
+21,21,Michele Di Gregorio,GK,2023-2024,26.0,Monza,Serie A,Classic GK
+22,22,Mory Diaw,GK,2023-2024,30.0,Clermont Foot,Ligue 1,Sweeper Keeper
+23,23,Stole Dimitrievski,GK,2023-2024,29.0,Rayo Vallecano,La Liga,Classic GK
+24,24,Yehvann Diouf,GK,2023-2024,23.0,Reims,Ligue 1,Sweeper Keeper
+25,25,Marko Dmitrović,GK,2023-2024,31.0,Sevilla,La Liga,Modern GK
+26,26,Gianluigi Donnarumma,GK,2023-2024,24.0,Paris S-G,Ligue 1,Modern GK
+27,27,Martin Dúbravka,GK,2023-2024,34.0,Newcastle Utd,Premier League,Sweeper Keeper
+28,28,Ederson,GK,2023-2024,29.0,Manchester City,Premier League,Sweeper Keeper
+29,29,Łukasz Fabiański,GK,2023-2024,38.0,West Ham,Premier League,Modern GK
+30,30,Wladimiro Falcone,GK,2023-2024,28.0,Lecce,Serie A,Modern GK
+31,31,Aitor Fernández,GK,2023-2024,32.0,Osasuna,La Liga,Modern GK
+32,32,André Ferreira,GK,2023-2024,27.0,Granada,La Liga,Modern GK
+33,33,Mark Flekken,GK,2023-2024,30.0,Brentford,Premier League,Classic GK
+34,34,Wes Foderingham,GK,2023-2024,32.0,Sheffield Utd,Premier League,Classic GK
+35,35,Paulo Gazzaniga,GK,2023-2024,31.0,Girona,La Liga,Sweeper Keeper
+36,36,Luca Gemello,GK,2023-2024,23.0,Torino,Serie A,Modern GK
+37,37,Mathieu Gorgelin,GK,2023-2024,32.0,Le Havre,Ligue 1,Modern GK
+38,38,Vicente Guaita,GK,2023-2024,36.0,Celta Vigo,La Liga,Classic GK
+39,39,Dean Henderson,GK,2023-2024,26.0,Crystal Palace,Premier League,Modern GK
+40,40,Sergio Herrera,GK,2023-2024,30.0,Osasuna,La Liga,Classic GK
+41,41,Sam Johnstone,GK,2023-2024,30.0,Crystal Palace,Premier League,Classic GK
+42,42,Filip Jørgensen,GK,2023-2024,21.0,Villarreal,La Liga,Sweeper Keeper
+43,43,Thomas Kaminski,GK,2023-2024,30.0,Luton Town,Premier League,Classic GK
+44,44,Gregor Kobel,GK,2023-2024,25.0,Dortmund,Bundesliga,Modern GK
+45,45,Philipp Köhn,GK,2023-2024,25.0,Monaco,Ligue 1,Sweeper Keeper
+46,46,Alban Lafont,GK,2023-2024,24.0,Nantes,Ligue 1,Sweeper Keeper
+47,47,Benjamin Lecomte,GK,2023-2024,32.0,Montpellier,Ligue 1,Sweeper Keeper
+48,48,Jeremías Ledesma,GK,2023-2024,30.0,Cádiz,La Liga,Classic GK
+49,49,Bernd Leno,GK,2023-2024,31.0,Fulham,Premier League,Classic GK
+50,50,Anthony Lopes,GK,2023-2024,32.0,Lyon,Ligue 1,Sweeper Keeper
+51,51,Pau López,GK,2023-2024,28.0,Marseille,Ligue 1,Modern GK
+52,52,Andriy Lunin,GK,2023-2024,24.0,Real Madrid,La Liga,Sweeper Keeper
+53,53,Mike Maignan,GK,2023-2024,28.0,Milan,Serie A,Sweeper Keeper
+54,54,Giorgi Mamardashvili,GK,2023-2024,22.0,Valencia,La Liga,Classic GK
+55,55,Steve Mandanda,GK,2023-2024,38.0,Rennes,Ligue 1,Sweeper Keeper
+56,56,Diego Mariño,GK,2023-2024,33.0,Almería,La Liga,Modern GK
+57,57,Unai Marrero,GK,2023-2024,21.0,Real Sociedad,La Liga,Modern GK
+58,58,Emiliano Martínez,GK,2023-2024,30.0,Aston Villa,Premier League,Sweeper Keeper
+59,59,Josep Martinez,GK,2023-2024,25.0,Genoa,Serie A,Sweeper Keeper
+60,60,Marc Martínez,GK,2023-2024,33.0,Granada,La Liga,Modern GK
+61,61,Luís Maximiano,GK,2023-2024,24.0,Almería,La Liga,Classic GK
+62,62,Alex Meret,GK,2023-2024,26.0,Napoli,Serie A,Modern GK
+63,63,Vanja Milinković-Savić,GK,2023-2024,26.0,Torino,Serie A,Classic GK
+64,64,Lorenzo Montipò,GK,2023-2024,27.0,Hellas Verona,Serie A,Classic GK
+65,65,Kevin Müller,GK,2023-2024,32.0,Heidenheim,Bundesliga,Classic GK
+66,66,Arijanet Muric,GK,2023-2024,24.0,Burnley,Premier League,Sweeper Keeper
+67,67,Juan Musso,GK,2023-2024,29.0,Atalanta,Serie A,Modern GK
+68,68,Yvon Mvogo,GK,2023-2024,29.0,Lorient,Ligue 1,Modern GK
+69,69,Keylor Navas,GK,2023-2024,36.0,Paris S-G,Ligue 1,Modern GK
+70,70,Massamba Ndiaye,GK,2023-2024,21.0,Clermont Foot,Ligue 1,Modern GK
+71,71,Neto,GK,2023-2024,34.0,Bournemouth,Premier League,Classic GK
+72,72,Manuel Neuer,GK,2023-2024,37.0,Bayern Munich,Bundesliga,Modern GK
+73,73,Moritz Nicolas,GK,2023-2024,25.0,Gladbach,Bundesliga,Modern GK
+74,74,Alexander Nübel,GK,2023-2024,26.0,Stuttgart,Bundesliga,Sweeper Keeper
+75,75,Ørjan Nyland,GK,2023-2024,32.0,Sevilla,La Liga,Classic GK
+76,76,Jan Oblak,GK,2023-2024,30.0,Atlético Madrid,La Liga,Sweeper Keeper
+77,77,Guillermo Ochoa,GK,2023-2024,38.0,Salernitana,Serie A,Modern GK
+78,78,Maduka Okoye,GK,2023-2024,23.0,Udinese,Serie A,Modern GK
+79,79,Robin Olsen,GK,2023-2024,33.0,Aston Villa,Premier League,Modern GK
+80,80,Jonas Omlin,GK,2023-2024,29.0,Gladbach,Bundesliga,Modern GK
+81,81,André Onana,GK,2023-2024,27.0,Manchester Utd,Premier League,Sweeper Keeper
+82,82,Alexandre Oukidja,GK,2023-2024,35.0,Metz,Ligue 1,Classic GK
+83,83,Rui Patrício,GK,2023-2024,35.0,Roma,Serie A,Modern GK
+84,84,Jiří Pavlenka,GK,2023-2024,31.0,Werder Bremen,Bundesliga,Modern GK
+85,85,Đorđe Petrović,GK,2023-2024,23.0,Chelsea,Premier League,Modern GK
+86,86,Jordan Pickford,GK,2023-2024,29.0,Everton,Premier League,Classic GK
+87,87,Ivan Provedel,GK,2023-2024,29.0,Lazio,Serie A,Modern GK
+88,88,Predrag Rajković,GK,2023-2024,27.0,Mallorca,La Liga,Classic GK
+89,89,Federico Ravaglia,GK,2023-2024,23.0,Bologna,Serie A,Modern GK
+90,90,David Raya,GK,2023-2024,27.0,Arsenal,Premier League,Sweeper Keeper
+91,91,Álex Remiro,GK,2023-2024,28.0,Real Sociedad,La Liga,Classic GK
+92,92,Guillaume Restes,GK,2023-2024,18.0,Toulouse,Ligue 1,Modern GK
+93,93,Manuel Riemann,GK,2023-2024,34.0,Bochum,Bundesliga,Sweeper Keeper
+94,94,Frederik Rønnow,GK,2023-2024,30.0,Union Berlin,Bundesliga,Sweeper Keeper
+95,95,José Sá,GK,2023-2024,30.0,Wolves,Premier League,Sweeper Keeper
+96,96,Brice Samba,GK,2023-2024,29.0,Lens,Ligue 1,Sweeper Keeper
+97,97,Robert Sánchez,GK,2023-2024,25.0,Chelsea,Premier League,Sweeper Keeper
+98,98,Marcel Schuhen,GK,2023-2024,30.0,Darmstadt 98,Bundesliga,Classic GK
+99,99,Marvin Schwäbe,GK,2023-2024,28.0,Köln,Bundesliga,Modern GK
+100,100,Simone Scuffet,GK,2023-2024,27.0,Cagliari,Serie A,Classic GK
+101,101,Matz Sels,GK,2023-2024,31.0,Nott'ham Forest,Premier League,Modern GK
+102,102,Rui Silva,GK,2023-2024,29.0,Betis,La Liga,Sweeper Keeper
+103,103,Marco Silvestri,GK,2023-2024,32.0,Udinese,Serie A,Modern GK
+104,104,Unai Simón,GK,2023-2024,26.0,Athletic Club,La Liga,Classic GK
+105,105,Antonio Sivera,GK,2023-2024,26.0,Alavés,La Liga,Classic GK
+106,106,Łukasz Skorupski,GK,2023-2024,32.0,Bologna,Serie A,Modern GK
+107,107,Yann Sommer,GK,2023-2024,34.0,Inter,Serie A,Modern GK
+108,108,David Soria,GK,2023-2024,30.0,Getafe,La Liga,Classic GK
+109,109,Alessandro Sorrentino,GK,2023-2024,21.0,Monza,Serie A,Modern GK
+110,110,Marco Sportiello,GK,2023-2024,31.0,Milan,Serie A,Modern GK
+111,111,Jason Steele,GK,2023-2024,32.0,Brighton,Premier League,Modern GK
+112,112,Mile Svilar,GK,2023-2024,23.0,Roma,Serie A,Modern GK
+113,113,Wojciech Szczęsny,GK,2023-2024,33.0,Juventus,Serie A,Modern GK
+114,114,Marc-André ter Stegen,GK,2023-2024,31.0,Barcelona,La Liga,Modern GK
+115,115,Pietro Terracciano,GK,2023-2024,33.0,Fiorentina,Serie A,Modern GK
+116,116,James Trafford,GK,2023-2024,20.0,Burnley,Premier League,Classic GK
+117,117,Kevin Trapp,GK,2023-2024,33.0,Eint Frankfurt,Bundesliga,Modern GK
+118,118,Mark Travers,GK,2023-2024,24.0,Bournemouth,Premier League,Modern GK
+119,119,Stefano Turati,GK,2023-2024,21.0,Frosinone,Serie A,Modern GK
+120,120,Matt Turner,GK,2023-2024,29.0,Nott'ham Forest,Premier League,Sweeper Keeper
+121,121,Sven Ulreich,GK,2023-2024,34.0,Bayern Munich,Bundesliga,Modern GK
+122,122,Álvaro Vallés,GK,2023-2024,26.0,Las Palmas,La Liga,Sweeper Keeper
+123,123,Bart Verbruggen,GK,2023-2024,20.0,Brighton,Premier League,Modern GK
+124,124,Guglielmo Vicario,GK,2023-2024,26.0,Tottenham,Premier League,Sweeper Keeper
+125,125,Iván Villar,GK,2023-2024,26.0,Celta Vigo,La Liga,Modern GK
+126,126,Odisseas Vlachodimos,GK,2023-2024,29.0,Nott'ham Forest,Premier League,Modern GK
+127,127,Robin Zentner,GK,2023-2024,28.0,Mainz 05,Bundesliga,Sweeper Keeper
+128,128,Michael Zetterer,GK,2023-2024,28.0,Werder Bremen,Bundesliga,Sweeper Keeper
+0,1,Yunis Abdelhamid,CB,2023-2024,35.0,Reims,Ligue 1,Libero
+1,2,Nabil Aberdin,CB,2023-2024,20.0,Getafe,La Liga,Ball Playing Center Back
+2,4,Abdel Abqar,CB,2023-2024,24.0,Alavés,La Liga,Libero
+3,5,Francesco Acerbi,CB,2023-2024,35.0,Inter,Serie A,Libero
+4,8,Tosin Adarabioyo,CB,2023-2024,25.0,Fulham,Premier League,Libero
+5,9,Nathaniel Adjei,CB,2023-2024,20.0,Lorient,Ligue 1,Ball Playing Center Back
+6,10,Adryelson,CB,2023-2024,25.0,Lyon,Ligue 1,Ball Playing Center Back
+7,11,Emmanuel Agbadou,CB,2023-2024,26.0,Reims,Ligue 1,Libero
+8,13,Nayef Aguerd,CB,2023-2024,27.0,West Ham,Premier League,Libero
+9,15,Anel Ahmedhodžić,CB,2023-2024,24.0,Sheffield Utd,Premier League,Libero
+10,16,Joseph Aidoo,CB,2023-2024,27.0,Celta Vigo,La Liga,Ball Playing Center Back
+11,19,Kristoffer Ajer,CB,2023-2024,25.0,Brentford,Premier League,Ball Playing Center Back
+12,20,Manuel Akanji,CB,2023-2024,28.0,Manchester City,Premier League,Libero
+13,21,Nathan Aké,CB,2023-2024,28.0,Manchester City,Premier League,Libero
+14,23,Kevin Akpoguma,CB,2023-2024,28.0,Hoffenheim,Bundesliga,Ball Playing Center Back
+15,24,David Alaba,CB,2023-2024,31.0,Real Madrid,La Liga,Ball Playing Center Back
+16,25,Raúl Albiol,CB,2023-2024,37.0,Villarreal,La Liga,Libero
+17,26,Omar Alderete,CB,2023-2024,26.0,Getafe,La Liga,Libero
+18,31,Gastón Álvarez,CB,2023-2024,23.0,Getafe,La Liga,Libero
+19,33,Yeray Álvarez,CB,2023-2024,28.0,Athletic Club,La Liga,Ball Playing Center Back
+20,36,Bruno Amione,CB,2023-2024,21.0,Hellas Verona,Serie A,Ball Playing Center Back
+21,38,Joachim Andersen,CB,2023-2024,27.0,Crystal Palace,Premier League,Libero
+22,39,Miguel Ángel Rubio,CB,2023-2024,25.0,Granada,La Liga,Ball Playing Center Back
+23,42,Waldemar Anton,CB,2023-2024,27.0,Stuttgart,Bundesliga,Libero
+24,45,Ronald Araújo,CB,2023-2024,24.0,Barcelona,La Liga,Libero
+25,53,Yann Aurel Bisseck,CB,2023-2024,22.0,Inter,Serie A,Ball Playing Center Back
+26,55,César Azpilicueta,CB,2023-2024,33.0,Atlético Madrid,La Liga,Libero
+27,57,Srđan Babić,CB,2023-2024,27.0,Almería,La Liga,Ball Playing Center Back
+28,59,Loïc Bade,CB,2023-2024,23.0,Sevilla,La Liga,Libero
+29,61,Benoît Badiashile,CB,2023-2024,22.0,Chelsea,Premier League,Libero
+30,62,Eric Bailly,CB,2023-2024,29.0,Villarreal,La Liga,Ball Playing Center Back
+31,67,Leonardo Balerdi,CB,2023-2024,24.0,Marseille,Ligue 1,Libero
+32,70,Mattia Bani,CB,2023-2024,29.0,Genoa,Serie A,Libero
+33,73,Davide Bartesaghi,CB,2023-2024,17.0,Milan,Serie A,Ball Playing Center Back
+34,74,Marc Bartra,CB,2023-2024,32.0,Betis,La Liga,Ball Playing Center Back
+35,75,Federico Baschirotto,CB,2023-2024,26.0,Lecce,Serie A,Libero
+36,76,Steven Baseya,CB,2023-2024,18.0,Strasbourg,Ligue 1,Ball Playing Center Back
+37,77,Chris Basham,CB,2023-2024,35.0,Sheffield Utd,Premier League,Ball Playing Center Back
+38,78,Calvin Bassey,CB,2023-2024,23.0,Fulham,Premier League,Libero
+39,79,Alessandro Bastoni,CB,2023-2024,24.0,Inter,Serie A,Libero
+40,81,Maximilian Bauer,CB,2023-2024,23.0,Augsburg,Bundesliga,Ball Playing Center Back
+41,84,Amari'i Bell,CB,2023-2024,29.0,Luton Town,Premier League,Libero
+42,85,Stefan Bell,CB,2023-2024,31.0,Mainz 05,Bundesliga,Ball Playing Center Back
+43,88,Jeanuël Belocian,CB,2023-2024,18.0,Rennes,Ligue 1,Libero
+44,90,Lucas Beraldo,CB,2023-2024,19.0,Paris S-G,Ligue 1,Libero
+45,95,Sam Beukema,CB,2023-2024,24.0,Bologna,Serie A,Libero
+46,96,Jordan Beyer,CB,2023-2024,23.0,Burnley,Premier League,Libero
+47,97,Jaka Bijol,CB,2023-2024,24.0,Udinese,Serie A,Libero
+48,99,Davide Biraschi,CB,2023-2024,29.0,Genoa,Serie A,Ball Playing Center Back
+49,101,Hendry Blank,CB,2023-2024,18.0,Dortmund,Bundesliga,Ball Playing Center Back
+50,102,Daley Blind,CB,2023-2024,33.0,Girona,La Liga,Libero
+51,103,Jérôme Boateng,CB,2023-2024,34.0,Salernitana,Serie A,Ball Playing Center Back
+52,106,Willy Boly,CB,2023-2024,32.0,Nott'ham Forest,Premier League,Ball Playing Center Back
+53,107,Giovanni Bonfanti,CB,2023-2024,20.0,Atalanta,Serie A,Ball Playing Center Back
+54,108,Kevin Bonifazi,CB,2023-2024,27.0,Bologna,Serie A,Ball Playing Center Back
+55,109,Leonardo Bonucci,CB,2023-2024,36.0,Union Berlin,Bundesliga,Ball Playing Center Back
+56,111,Sebastiaan Bornauw,CB,2023-2024,24.0,Wolfsburg,Bundesliga,Ball Playing Center Back
+57,112,Adri Bosch,CB,2023-2024,22.0,Granada,La Liga,Ball Playing Center Back
+58,113,Sven Botman,CB,2023-2024,23.0,Newcastle Utd,Premier League,Libero
+59,116,Juan Brandáriz,CB,2023-2024,24.0,Almería,La Liga,Libero
+60,117,Jarrad Branthwaite,CB,2023-2024,21.0,Everton,Premier League,Libero
+61,118,Lilian Brassier,CB,2023-2024,23.0,Brest,Ligue 1,Libero
+62,120,Gleison Bremer,CB,2023-2024,26.0,Juventus,Serie A,Libero
+63,121,Dylan Bronn,CB,2023-2024,28.0,Salernitana,Serie A,Ball Playing Center Back
+64,122,John Brooks,CB,2023-2024,30.0,Hoffenheim,Bundesliga,Libero
+65,125,Santiago Bueno,CB,2023-2024,24.0,Wolves,Premier League,Ball Playing Center Back
+66,127,Alessandro Buongiorno,CB,2023-2024,24.0,Torino,Serie A,Libero
+67,128,Reece Burke,CB,2023-2024,26.0,Luton Town,Premier League,Ball Playing Center Back
+68,137,Mattia Caldara,CB,2023-2024,29.0,Milan,Serie A,Ball Playing Center Back
+69,138,Luca Caldirola,CB,2023-2024,32.0,Monza,Serie A,Libero
+70,139,Duje Ćaleta-Car,CB,2023-2024,26.0,Lyon,Ligue 1,Libero
+71,142,Fali Candé,CB,2023-2024,25.0,Metz,Ligue 1,Libero
+72,143,Andrea Carboni,CB,2023-2024,22.0,Monza,Serie A,Libero
+73,147,Diego Carlos,CB,2023-2024,30.0,Aston Villa,Premier League,Libero
+74,152,Nicolò Casale,CB,2023-2024,25.0,Lazio,Serie A,Libero
+75,153,Kaelan Casey,CB,2023-2024,18.0,West Ham,Premier League,Central Defender
+76,156,Jean-Charles Castelletto,CB,2023-2024,28.0,Nantes,Ligue 1,Libero
+77,157,Catena,CB,2023-2024,28.0,Osasuna,La Liga,Libero
+78,158,Maximiliano Caufriez,CB,2023-2024,26.0,Clermont Foot,Ligue 1,Libero
+79,162,Julian Chabot,CB,2023-2024,25.0,Köln,Bundesliga,Libero
+80,163,El Chadaille Bitshiabu,CB,2023-2024,18.0,RB Leipzig,Bundesliga,Ball Playing Center Back
+81,164,Trevoh Chalobah,CB,2023-2024,24.0,Chelsea,Premier League,Ball Playing Center Back
+82,165,Brendan Chardonnet,CB,2023-2024,28.0,Brest,Ligue 1,Libero
+83,168,Fabio Chiarodia,CB,2023-2024,18.0,Gladbach,Bundesliga,Ball Playing Center Back
+84,170,Andreas Christensen,CB,2023-2024,27.0,Barcelona,La Liga,Libero
+85,171,Víctor Chust,CB,2023-2024,23.0,Cádiz,La Liga,Libero
+86,172,Giorgio Cittadini,CB,2023-2024,21.0,Frosinone,Serie A,Ball Playing Center Back
+87,177,Saúl Coco,CB,2023-2024,24.0,Las Palmas,La Liga,Libero
+88,180,Nathan Collins,CB,2023-2024,22.0,Brentford,Premier League,Libero
+89,182,Levi Colwill,CB,2023-2024,20.0,Chelsea,Premier League,Central Defender
+90,183,Eray Cömert,CB,2023-2024,25.0,Nantes,Ligue 1,Central Defender
+91,185,Copete,CB,2023-2024,23.0,Mallorca,La Liga,Central Defender
+92,186,Diego Coppola,CB,2023-2024,19.0,Hellas Verona,Serie A,Central Defender
+93,191,Logan Costa,CB,2023-2024,22.0,Toulouse,Ligue 1,Central Defender
+94,194,Nicolas Cozza,CB,2023-2024,24.0,Wolfsburg,Bundesliga,Central Defender
+95,198,Pau Cubarsí,CB,2023-2024,16.0,Barcelona,La Liga,Central Defender
+96,200,Jorge Cuenca,CB,2023-2024,23.0,Villarreal,La Liga,Central Defender
+97,201,Eric Curbelo,CB,2023-2024,29.0,Las Palmas,La Liga,Central Defender
+98,204,Ameen Al-Dakhil,CB,2023-2024,21.0,Burnley,Premier League,Central Defender
+99,206,Flavius Daniliuc,CB,2023-2024,22.0,Salernitana,Serie A,Central Defender
+100,207,Danilo,CB,2023-2024,32.0,Juventus,Serie A,Central Defender
+101,208,Kevin Danso,CB,2023-2024,24.0,Lens,Ligue 1,Central Defender
+102,209,Dante,CB,2023-2024,39.0,Nice,Ligue 1,Central Defender
+103,210,Achraf Dari,CB,2023-2024,24.0,Brest,Ligue 1,Central Defender
+104,212,Juan David Cabal,CB,2023-2024,22.0,Hellas Verona,Serie A,Central Defender
+105,215,Paweł Dawidowicz,CB,2023-2024,28.0,Hellas Verona,Serie A,Central Defender
+106,216,Craig Dawson,CB,2023-2024,33.0,Wolves,Premier League,Central Defender
+107,220,Koni De Winter,CB,2023-2024,21.0,Genoa,Serie A,Central Defender
+108,223,Alessandro Dellavalle,CB,2023-2024,19.0,Torino,Serie A,Central Defender
+109,225,Sepp van den Berg,CB,2023-2024,21.0,Mainz 05,Bundesliga,Central Defender
+110,229,Mouctar Diakhaby,CB,2023-2024,26.0,Valencia,La Liga,Central Defender
+111,230,Bafodé Diakité,CB,2023-2024,22.0,Lille,Ligue 1,Central Defender
+112,232,Moussa Diarra,CB,2023-2024,22.0,Toulouse,Ligue 1,Central Defender
+113,233,Rúben Dias,CB,2023-2024,26.0,Manchester City,Premier League,Central Defender
+114,235,Víctor Díaz,CB,2023-2024,35.0,Granada,La Liga,Central Defender
+115,236,Eric Dier,CB,2023-2024,29.0,Bayern Munich,Bundesliga,Central Defender
+116,239,Sinaly Diomande,CB,2023-2024,22.0,Lyon,Ligue 1,Central Defender
+117,240,Issa Diop,CB,2023-2024,26.0,Fulham,Premier League,Central Defender
+118,241,Axel Disasi,CB,2023-2024,25.0,Chelsea,Premier League,Central Defender
+119,243,Djené,CB,2023-2024,31.0,Getafe,La Liga,Central Defender
+120,244,Koffi Djidji,CB,2023-2024,30.0,Torino,Serie A,Central Defender
+121,245,Berat Djimsiti,CB,2023-2024,30.0,Atalanta,Serie A,Central Defender
+122,247,Danilho Doekhi,CB,2023-2024,25.0,Union Berlin,Bundesliga,Central Defender
+123,250,Carlos Dominguez,CB,2023-2024,22.0,Celta Vigo,La Liga,Central Defender
+124,251,Giulio Donati,CB,2023-2024,33.0,Monza,Serie A,Central Defender
+125,253,Alberto Dossena,CB,2023-2024,24.0,Cagliari,Serie A,Central Defender
+126,256,Radu Drăgușin,CB,2023-2024,21.0,Tottenham,Premier League,Central Defender
+127,257,Tim Drexler,CB,2023-2024,18.0,Hoffenheim,Bundesliga,Central Defender
+128,258,Domingos Duarte,CB,2023-2024,28.0,Getafe,La Liga,Central Defender
+129,262,Lewis Dunk,CB,2023-2024,31.0,Brighton,Premier League,Central Defender
+130,263,Jean-Kevin Duverne,CB,2023-2024,26.0,Nantes,Ligue 1,Central Defender
+131,264,Enzo Ebosse,CB,2023-2024,24.0,Udinese,Serie A,Central Defender
+132,266,John Egan,CB,2023-2024,30.0,Sheffield Utd,Premier League,Central Defender
+133,268,Hjalmar Ekdal,CB,2023-2024,24.0,Burnley,Premier League,Central Defender
+134,269,Aritz Elustondo,CB,2023-2024,29.0,Real Sociedad,La Liga,Central Defender
+135,270,Nico Elvedi,CB,2023-2024,26.0,Gladbach,Bundesliga,Central Defender
+136,272,Martin Erlic,CB,2023-2024,25.0,Sassuolo,Serie A,Central Defender
+137,274,Bernardo Espinosa,CB,2023-2024,34.0,Girona,La Liga,Central Defender
+138,275,Maxime Estève,CB,2023-2024,21.0,Burnley,Premier League,Central Defender
+139,277,Jonny Evans,CB,2023-2024,35.0,Manchester Utd,Premier League,Central Defender
+140,278,Fali,CB,2023-2024,29.0,Cádiz,La Liga,Central Defender
+141,280,Federico Fazio,CB,2023-2024,36.0,Salernitana,Serie A,Central Defender
+142,281,Felipe,CB,2023-2024,34.0,Nott'ham Forest,Premier League,Central Defender
+143,282,Luiz Felipe,CB,2023-2024,26.0,Betis,La Liga,Central Defender
+144,283,Ohis Felix Uduokhai,CB,2023-2024,25.0,Augsburg,Bundesliga,Central Defender
+145,285,Edimilson Fernandes,CB,2023-2024,27.0,Mainz 05,Bundesliga,Central Defender
+146,286,João Ferreira,CB,2023-2024,22.0,Udinese,Serie A,Central Defender
+147,295,Marco Friedl,CB,2023-2024,25.0,Werder Bremen,Bundesliga,Central Defender
+148,296,Marvin Friedrich,CB,2023-2024,27.0,Gladbach,Bundesliga,Central Defender
+149,298,Matteo Gabbia,CB,2023-2024,23.0,Milan,Serie A,Central Defender
+150,302,David García,CB,2023-2024,29.0,Osasuna,La Liga,Central Defender
+151,303,Eric García,CB,2023-2024,22.0,Barcelona,La Liga,Central Defender
+152,306,Unai García,CB,2023-2024,31.0,Osasuna,La Liga,Central Defender
+153,307,Federico Gatti,CB,2023-2024,25.0,Juventus,Serie A,Central Defender
+154,308,Federico Gattoni,CB,2023-2024,24.0,Sevilla,La Liga,Central Defender
+155,310,Lautaro Gianetti,CB,2023-2024,29.0,Udinese,Serie A,Central Defender
+156,311,Samuel Gigot,CB,2023-2024,29.0,Marseille,Ligue 1,Central Defender
+157,313,Alfie Gilchrist,CB,2023-2024,19.0,Chelsea,Premier League,Central Defender
+158,314,Benedikt Gimber,CB,2023-2024,26.0,Heidenheim,Bundesliga,Central Defender
+159,315,Matthias Ginter,CB,2023-2024,29.0,Freiburg,Bundesliga,Central Defender
+160,316,Klaus Gjasula,CB,2023-2024,33.0,Darmstadt 98,Bundesliga,Central Defender
+161,317,Ben Godfrey,CB,2023-2024,25.0,Everton,Premier League,Central Defender
+162,318,Edoardo Goldaniga,CB,2023-2024,29.0,Cagliari,Serie A,Central Defender
+163,319,Toti Gomes,CB,2023-2024,24.0,Wolves,Premier League,Central Defender
+164,320,Joe Gomez,CB,2023-2024,26.0,Liverpool,Premier League,Ball Playing Center Back
+165,321,Édgar González,CB,2023-2024,26.0,Almería,La Liga,Central Defender
+166,325,Jeffrey Gouweleeuw,CB,2023-2024,32.0,Augsburg,Bundesliga,Central Defender
+167,326,Jonathan Gradit,CB,2023-2024,30.0,Lens,Ligue 1,Central Defender
+168,327,Florian Grillitsch,CB,2023-2024,27.0,Hoffenheim,Bundesliga,Central Defender
+169,329,Christian Groß,CB,2023-2024,34.0,Werder Bremen,Bundesliga,Central Defender
+170,330,Nemanja Gudelj,CB,2023-2024,31.0,Sevilla,La Liga,Central Defender
+171,333,Marc Guéhi,CB,2023-2024,23.0,Crystal Palace,Premier League,Central Defender
+172,335,Axel Guessand,CB,2023-2024,18.0,Udinese,Serie A,Central Defender
+173,336,Josuha Guilavogui,CB,2023-2024,32.0,Mainz 05,Bundesliga,Central Defender
+174,338,Manuel Gulde,CB,2023-2024,32.0,Freiburg,Bundesliga,Central Defender
+175,345,Norbert Gyömbér,CB,2023-2024,31.0,Salernitana,Serie A,Central Defender
+176,351,Andreas Hanche-Olsen,CB,2023-2024,26.0,Mainz 05,Bundesliga,Central Defender
+177,352,Makoto Hasebe,CB,2023-2024,39.0,Eint Frankfurt,Bundesliga,Central Defender
+178,355,Pantelis Hatzidiakos,CB,2023-2024,26.0,Cagliari,Serie A,Central Defender
+179,356,Jan Paul van Hecke,CB,2023-2024,23.0,Brighton,Premier League,Libero
+180,361,Christophe Hérelle,CB,2023-2024,30.0,Metz,Ligue 1,Central Defender
+181,362,Mario Hermoso,CB,2023-2024,28.0,Atlético Madrid,La Liga,Central Defender
+182,364,Aridane Hernández,CB,2023-2024,34.0,Rayo Vallecano,La Liga,Central Defender
+183,365,Lucas Hernández,CB,2023-2024,27.0,Paris S-G,Ligue 1,Central Defender
+184,366,Luis Hernández,CB,2023-2024,34.0,Cádiz,La Liga,Central Defender
+185,368,Yarek Hernandis,CB,2023-2024,18.0,Valencia,La Liga,Central Defender
+186,369,Jorge Herrando,CB,2023-2024,22.0,Osasuna,La Liga,Central Defender
+187,370,Juan Herzog,CB,2023-2024,20.0,Las Palmas,La Liga,Central Defender
+188,372,Isak Hien,CB,2023-2024,24.0,Atalanta,Serie A,Central Defender
+189,374,Piero Hincapié,CB,2023-2024,21.0,Leverkusen,Bundesliga,Central Defender
+190,376,Mason Holgate,CB,2023-2024,26.0,Sheffield Utd,Premier League,Central Defender
+191,378,Timo Hübers,CB,2023-2024,27.0,Köln,Bundesliga,Central Defender
+192,379,Dean Huijsen,CB,2023-2024,18.0,Roma,Serie A,Central Defender
+193,380,Mats Hummels,CB,2023-2024,34.0,Dortmund,Bundesliga,Central Defender
+194,384,Igor,CB,2023-2024,25.0,Brighton,Premier League,Central Defender
+195,386,Thomas Isherwood,CB,2023-2024,25.0,Darmstadt 98,Bundesliga,Central Defender
+196,388,Ardian Ismajli,CB,2023-2024,26.0,Empoli,Serie A,Central Defender
+197,389,Ko Itakura,CB,2023-2024,26.0,Gladbach,Bundesliga,Central Defender
+198,390,Hiroki Ito,CB,2023-2024,24.0,Stuttgart,Bundesliga,Central Defender
+199,392,Armando Izzo,CB,2023-2024,31.0,Monza,Serie A,Central Defender
+200,394,Paul Jaeckel,CB,2023-2024,25.0,Union Berlin,Bundesliga,Central Defender
+201,397,Tony Jantschke,CB,2023-2024,33.0,Gladbach,Bundesliga,Central Defender
+202,398,Moritz Jenz,CB,2023-2024,24.0,Wolfsburg,Bundesliga,Central Defender
+203,399,Juan Jesus,CB,2023-2024,32.0,Napoli,Serie A,Central Defender
+204,403,Joseph Johnson,CB,2023-2024,17.0,Luton Town,Premier League,Central Defender
+205,405,Juanpe,CB,2023-2024,32.0,Girona,La Liga,Central Defender
+206,406,Mads Juel Andersen,CB,2023-2024,25.0,Luton Town,Premier League,Central Defender
+207,407,Christopher Jullien,CB,2023-2024,30.0,Montpellier,Ligue 1,Central Defender
+208,408,Anthony Jung,CB,2023-2024,31.0,Werder Bremen,Bundesliga,Central Defender
+209,411,Ozan Kabak,CB,2023-2024,23.0,Hoffenheim,Bundesliga,Central Defender
+210,412,Christian Kabasele,CB,2023-2024,32.0,Udinese,Serie A,Central Defender
+211,415,Kaiky,CB,2023-2024,19.0,Almería,La Liga,Central Defender
+212,417,Pierre Kalulu,CB,2023-2024,23.0,Milan,Serie A,Central Defender
+213,420,Willy Kambwala,CB,2023-2024,18.0,Manchester Utd,Premier League,Central Defender
+214,425,Michael Keane,CB,2023-2024,30.0,Everton,Premier League,Central Defender
+215,426,Kévin Keben Biakolo,CB,2023-2024,19.0,Toulouse,Ligue 1,Central Defender
+216,427,Thilo Kehrer,CB,2023-2024,26.0,Monaco,Ligue 1,Central Defender
+217,428,Yannik Keitel,CB,2023-2024,23.0,Freiburg,Bundesliga,Central Defender
+218,429,Lloyd Kelly,CB,2023-2024,24.0,Bournemouth,Premier League,Central Defender
+219,431,Abdukodir Khusanov,CB,2023-2024,19.0,Lens,Ligue 1,Central Defender
+220,432,Luca Kilian,CB,2023-2024,23.0,Köln,Bundesliga,Central Defender
+221,433,Max Kilman,CB,2023-2024,26.0,Wolves,Premier League,Central Defender
+222,435,Simon Kjær,CB,2023-2024,34.0,Milan,Serie A,Central Defender
+223,436,Christoph Klarer,CB,2023-2024,23.0,Darmstadt 98,Bundesliga,Central Defender
+224,438,Robin Knoche,CB,2023-2024,31.0,Union Berlin,Bundesliga,Central Defender
+225,439,Robin Koch,CB,2023-2024,27.0,Eint Frankfurt,Bundesliga,Central Defender
+226,440,Dominik Kohr,CB,2023-2024,29.0,Mainz 05,Bundesliga,Central Defender
+227,443,Ibrahima Konaté,CB,2023-2024,24.0,Liverpool,Premier League,Central Defender
+228,445,Ezri Konsa,CB,2023-2024,25.0,Aston Villa,Premier League,Central Defender
+229,446,Odilon Kossonou,CB,2023-2024,22.0,Leverkusen,Bundesliga,Central Defender
+230,450,Jules Koundé,CB,2023-2024,24.0,Barcelona,La Liga,Central Defender
+231,451,Boubakar Kouyaté,CB,2023-2024,26.0,Montpellier,Ligue 1,Central Defender
+232,455,Thomas Kristensen,CB,2023-2024,21.0,Udinese,Serie A,Central Defender
+233,458,Marash Kumbulla,CB,2023-2024,23.0,Sassuolo,Serie A,Central Defender
+234,461,Maxence Lacroix,CB,2023-2024,23.0,Wolfsburg,Bundesliga,Central Defender
+235,462,Yoel Lago,CB,2023-2024,19.0,Celta Vigo,La Liga,Central Defender
+236,467,Aymeric Laporte,CB,2023-2024,29.0,Manchester City,Premier League,Central Defender
+237,468,Julien Laporte,CB,2023-2024,29.0,Lorient,Ligue 1,Central Defender
+238,469,Jamaal Lascelles,CB,2023-2024,29.0,Newcastle Utd,Premier League,Central Defender
+239,474,Julien Le Cardinal,CB,2023-2024,25.0,Brest,Ligue 1,Central Defender
+240,476,Robin Le Normand,CB,2023-2024,26.0,Real Sociedad,La Liga,Central Defender
+241,477,Diogo Leite,CB,2023-2024,24.0,Union Berlin,Bundesliga,Central Defender
+242,478,Maxim Leitsch,CB,2023-2024,25.0,Mainz 05,Bundesliga,Central Defender
+243,479,Florian Lejeune,CB,2023-2024,32.0,Rayo Vallecano,La Liga,Central Defender
+244,480,Stefan Lekovic,CB,2023-2024,19.0,Villarreal,La Liga,Central Defender
+245,483,Ruben Lendinez,CB,2023-2024,20.0,Valencia,La Liga,Central Defender
+246,484,Clément Lenglet,CB,2023-2024,28.0,Aston Villa,Premier League,Central Defender
+247,487,Philipp Lienhart,CB,2023-2024,27.0,Freiburg,Bundesliga,Central Defender
+248,488,Matthijs de Ligt,CB,2023-2024,23.0,Bayern Munich,Bundesliga,Central Defender
+249,489,Victor Lindelöf,CB,2023-2024,29.0,Manchester Utd,Premier League,Central Defender
+250,493,Diego Llorente,CB,2023-2024,29.0,Roma,Serie A,Central Defender
+251,494,Gautier Lloris,CB,2023-2024,28.0,Le Havre,Ligue 1,Central Defender
+252,496,Tom Lockyer,CB,2023-2024,28.0,Luton Town,Premier League,Central Defender
+253,498,Noah Loosli,CB,2023-2024,26.0,Bochum,Bundesliga,Central Defender
+254,499,David López,CB,2023-2024,33.0,Girona,La Liga,Central Defender
+255,502,Matteo Lovato,CB,2023-2024,23.0,Sassuolo,Serie A,Central Defender
+256,503,Dejan Lovren,CB,2023-2024,34.0,Lyon,Ligue 1,Central Defender
+257,506,Jhon Lucumí,CB,2023-2024,25.0,Bologna,Serie A,Central Defender
+258,508,José Luis Palomino,CB,2023-2024,33.0,Atalanta,Serie A,Central Defender
+259,509,Castello Lukeba,CB,2023-2024,20.0,RB Leipzig,Bundesliga,Central Defender
+260,510,Sebastiano Luperto,CB,2023-2024,26.0,Empoli,Serie A,Central Defender
+261,511,Mateus Lusuardi,CB,2023-2024,19.0,Frosinone,Serie A,Central Defender
+262,516,Gabriel Magalhães,CB,2023-2024,25.0,Arsenal,Premier League,Central Defender
+263,517,Soungoutou Magassa,CB,2023-2024,19.0,Monaco,Ligue 1,Central Defender
+264,518,Matej Maglica,CB,2023-2024,24.0,Darmstadt 98,Bundesliga,Central Defender
+265,519,Giangiacomo Magnani,CB,2023-2024,27.0,Hellas Verona,Serie A,Central Defender
+266,520,Harry Maguire,CB,2023-2024,30.0,Manchester Utd,Premier League,Central Defender
+267,521,Patrick Mainka,CB,2023-2024,28.0,Heidenheim,Bundesliga,Central Defender
+268,524,Julián Malatini,CB,2023-2024,22.0,Werder Bremen,Bundesliga,Central Defender
+269,526,Gianluca Mancini,CB,2023-2024,27.0,Roma,Serie A,Classic Center Back
+270,527,Reinildo Mandava,CB,2023-2024,29.0,Atlético Madrid,La Liga,Classic Center Back
+271,528,Aïssa Mandi,CB,2023-2024,31.0,Villarreal,La Liga,Classic Center Back
+272,529,Kostas Manolas,CB,2023-2024,32.0,Salernitana,Serie A,Central Defender
+273,532,Marcão,CB,2023-2024,27.0,Sevilla,La Liga,Central Defender
+274,534,Gian Marco Ferrari,CB,2023-2024,31.0,Sassuolo,Serie A,Classic Center Back
+275,536,Pablo Marí,CB,2023-2024,29.0,Monza,Serie A,Classic Center Back
+276,537,José María Giménez,CB,2023-2024,28.0,Atlético Madrid,La Liga,Classic Center Back
+277,538,Rafa Marín,CB,2023-2024,21.0,Alavés,La Liga,Classic Center Back
+278,539,Guillermo Maripán,CB,2023-2024,29.0,Monaco,Ligue 1,Classic Center Back
+279,540,Mika Màrmol,CB,2023-2024,21.0,Las Palmas,La Liga,Classic Center Back
+280,541,Marquinhos,CB,2023-2024,29.0,Paris S-G,Ligue 1,Classic Center Back
+281,543,Jon Martin,CB,2023-2024,17.0,Real Sociedad,La Liga,Central Defender
+282,545,Iñigo Martínez,CB,2023-2024,32.0,Barcelona,La Liga,Classic Center Back
+283,546,Lisandro Martínez,CB,2023-2024,25.0,Manchester Utd,Premier League,Central Defender
+284,547,Lucas Martínez Quarta,CB,2023-2024,27.0,Fiorentina,Serie A,Classic Center Back
+285,549,Adam Masina,CB,2023-2024,29.0,Torino,Serie A,Classic Center Back
+286,550,Erhan Mašović,CB,2023-2024,24.0,Bochum,Bundesliga,Classic Center Back
+287,552,Joël Matip,CB,2023-2024,31.0,Liverpool,Premier League,Classic Center Back
+288,553,Chrislain Matsima,CB,2023-2024,21.0,Monaco,Ligue 1,Classic Center Back
+289,554,Alan Matturro,CB,2023-2024,18.0,Genoa,Serie A,Central Defender
+290,555,Konstantinos Mavropanos,CB,2023-2024,25.0,West Ham,Premier League,Classic Center Back
+291,556,Christian Mawissa,CB,2023-2024,18.0,Toulouse,Ligue 1,Classic Center Back
+292,562,Mamadou Mbaye,CB,2023-2024,25.0,Cádiz,La Liga,Central Defender
+293,563,Chancel Mbemba,CB,2023-2024,28.0,Marseille,Ligue 1,Classic Center Back
+294,564,Scott McKenna,CB,2023-2024,26.0,Nott'ham Forest,Premier League,Central Defender
+295,565,Facundo Medina,CB,2023-2024,24.0,Lens,Ligue 1,Classic Center Back
+296,567,Bamo Meïté,CB,2023-2024,21.0,Marseille,Ligue 1,Classic Center Back
+297,572,Antoine Mendy,CB,2023-2024,19.0,Nice,Ligue 1,Central Defender
+298,575,Formose Mendy,CB,2023-2024,22.0,Lorient,Ligue 1,Classic Center Back
+299,576,Teden Mengi,CB,2023-2024,21.0,Luton Town,Premier League,Classic Center Back
+300,577,Chris Mepham,CB,2023-2024,25.0,Bournemouth,Premier League,Central Defender
+301,578,Jorge Meré,CB,2023-2024,26.0,Cádiz,La Liga,Central Defender
+302,581,Bastien Meupiyou,CB,2023-2024,17.0,Nantes,Ligue 1,Central Defender
+303,582,Nikola Milenković,CB,2023-2024,25.0,Fiorentina,Serie A,Classic Center Back
+304,583,Éder Militão,CB,2023-2024,25.0,Real Madrid,La Liga,Central Defender
+305,584,Kim Min-jae,CB,2023-2024,26.0,Bayern Munich,Bundesliga,Classic Center Back
+306,585,Yerry Mina,CB,2023-2024,28.0,Cagliari,Serie A,Classic Center Back
+307,587,Tyrone Mings,CB,2023-2024,30.0,Aston Villa,Premier League,Central Defender
+308,588,Óscar Mingueza,CB,2023-2024,24.0,Celta Vigo,La Liga,Classic Center Back
+309,589,Ignasi Miquel,CB,2023-2024,30.0,Granada,La Liga,Classic Center Back
+310,591,Kevin Miranda,CB,2023-2024,20.0,Sassuolo,Serie A,Central Defender
+311,594,Stefan Mitrović,CB,2023-2024,33.0,Getafe,La Liga,Central Defender
+312,599,Ilario Monterisi,CB,2023-2024,21.0,Frosinone,Serie A,Classic Center Back
+313,600,César Montes,CB,2023-2024,26.0,Almería,La Liga,Classic Center Back
+314,606,Cristhian Mosquera,CB,2023-2024,19.0,Valencia,La Liga,Classic Center Back
+315,607,Yerson Mosquera,CB,2023-2024,22.0,Valencia,2 Comps,Classic Center Back
+316,608,Loris Mouyokolo,CB,2023-2024,22.0,Lorient,Ligue 1,Central Defender
+317,609,Nordi Mukiele,CB,2023-2024,25.0,Paris S-G,Ligue 1,Central Defender
+318,610,Jannik Müller,CB,2023-2024,29.0,Darmstadt 98,Bundesliga,Classic Center Back
+319,611,Abdul Mumin,CB,2023-2024,25.0,Rayo Vallecano,La Liga,Classic Center Back
+320,614,Murillo,CB,2023-2024,21.0,Nott'ham Forest,Premier League,Classic Center Back
+321,618,Evan N'Dicka,CB,2023-2024,23.0,Roma,Serie A,Classic Center Back
+322,620,Nacho,CB,2023-2024,33.0,Real Madrid,La Liga,Classic Center Back
+323,621,Matija Nastasić,CB,2023-2024,30.0,Mallorca,La Liga,Classic Center Back
+324,622,Natan,CB,2023-2024,22.0,Napoli,Serie A,Classic Center Back
+325,627,Moussa Niakhate,CB,2023-2024,27.0,Nott'ham Forest,Premier League,Classic Center Back
+326,628,Tanguy Nianzou,CB,2023-2024,21.0,Sevilla,La Liga,Central Defender
+327,629,Rasmus Nicolaisen,CB,2023-2024,26.0,Toulouse,Ligue 1,Classic Center Back
+328,632,Kasim Nuhu,CB,2023-2024,28.0,Hoffenheim,Bundesliga,Central Defender
+329,633,Unai Núñez,CB,2023-2024,26.0,Celta Vigo,La Liga,Classic Center Back
+330,635,Gerzino Nyamsi,CB,2023-2024,26.0,Strasbourg,Ligue 1,Classic Center Back
+331,636,Jake O'Brien,CB,2023-2024,22.0,Lyon,Ligue 1,Classic Center Back
+332,637,Dara O'Shea,CB,2023-2024,24.0,Burnley,Premier League,Classic Center Back
+333,638,Adam Obert,CB,2023-2024,20.0,Cagliari,Serie A,Central Defender
+334,642,Angelo Ogbonna,CB,2023-2024,35.0,West Ham,Premier League,Central Defender
+335,643,Florent Ogier,CB,2023-2024,34.0,Clermont Foot,Ligue 1,Classic Center Back
+336,644,Caleb Okoli,CB,2023-2024,22.0,Frosinone,Serie A,Classic Center Back
+337,645,Joseph Okumu,CB,2023-2024,26.0,Reims,Ligue 1,Classic Center Back
+338,647,Warmed Omari,CB,2023-2024,23.0,Rennes,Ligue 1,Classic Center Back
+339,648,Becir Omeragic,CB,2023-2024,21.0,Montpellier,Ligue 1,Classic Center Back
+340,649,Andrew Omobamidele,CB,2023-2024,21.0,Nott'ham Forest,Premier League,Central Defender
+341,651,Willi Orban,CB,2023-2024,30.0,RB Leipzig,Bundesliga,Classic Center Back
+342,652,Ivan Ordets,CB,2023-2024,31.0,Bochum,Bundesliga,Classic Center Back
+343,654,Gabriel Osho,CB,2023-2024,24.0,Luton Town,Premier League,Classic Center Back
+344,656,Aiham Ousou,CB,2023-2024,23.0,Cádiz,La Liga,Central Defender
+345,658,Cenk Özkacar,CB,2023-2024,22.0,Valencia,La Liga,Classic Center Back
+346,659,Jon Pacheco,CB,2023-2024,22.0,Real Sociedad,La Liga,Classic Center Back
+347,660,Willian Pacho,CB,2023-2024,21.0,Eint Frankfurt,Bundesliga,Classic Center Back
+348,661,Nicolas Pallois,CB,2023-2024,35.0,Nantes,Ligue 1,Classic Center Back
+349,663,Antonios Papadopoulos,CB,2023-2024,23.0,Dortmund,Bundesliga,Central Defender
+350,664,Sokratis Papastathopoulos,CB,2023-2024,35.0,Betis,La Liga,Classic Center Back
+351,666,Aitor Paredes,CB,2023-2024,23.0,Athletic Club,La Liga,Classic Center Back
+352,668,Triantafyllos Pasaridīs,CB,2023-2024,27.0,Salernitana,Serie A,Central Defender
+353,670,Patric,CB,2023-2024,30.0,Lazio,Serie A,Classic Center Back
+354,672,Gabriel Paulista,CB,2023-2024,32.0,Valencia,La Liga,Classic Center Back
+355,673,Benjamin Pavard,CB,2023-2024,27.0,Inter,Serie A,Classic Center Back
+356,679,Marco Pellegrino,CB,2023-2024,22.0,Salernitana,Serie A,Central Defender
+357,680,Andy Pelmard,CB,2023-2024,23.0,Clermont Foot,Ligue 1,Classic Center Back
+358,681,Aurélien Pelon,CB,2023-2024,19.0,Lorient,Ligue 1,Central Defender
+359,683,Danilo Pereira,CB,2023-2024,31.0,Paris S-G,Ligue 1,Classic Center Back
+360,685,Nehuén Pérez,CB,2023-2024,23.0,Udinese,La Liga,Classic Center Back
+361,687,Lucas Perrin,CB,2023-2024,24.0,Strasbourg,Ligue 1,Classic Center Back
+362,688,Germán Pezzella,CB,2023-2024,32.0,Betis,La Liga,Classic Center Back
+363,690,Patric Pfeiffer,CB,2023-2024,23.0,Augsburg,Bundesliga,Central Defender
+364,691,Kamil Piątkowski,CB,2023-2024,23.0,Granada,La Liga,Central Defender
+365,692,Amos Pieper,CB,2023-2024,25.0,Werder Bremen,Bundesliga,Central Defender
+366,693,Niccolò Pierozzi,CB,2023-2024,21.0,Salernitana,Serie A,Central Defender
+367,695,Ethan Pinnock,CB,2023-2024,30.0,Brentford,Premier League,Ball Playing Center Back
+368,696,Lorenzo Pirola,CB,2023-2024,21.0,Salernitana,Serie A,Ball Playing Center Back
+369,697,Marin Pongračić,CB,2023-2024,25.0,Lecce,Serie A,Ball Playing Center Back
+370,702,Jarell Quansah,CB,2023-2024,20.0,Liverpool,Premier League,Ball Playing Center Back
+371,703,Aleksandar Radovanović,CB,2023-2024,29.0,Almería,La Liga,Ball Playing Center Back
+372,704,Antonio Raillo,CB,2023-2024,31.0,Mallorca,La Liga,Ball Playing Center Back
+373,705,Sergio Ramos,CB,2023-2024,37.0,Sevilla,La Liga,Ball Playing Center Back
+374,706,Luca Ranieri,CB,2023-2024,24.0,Fiorentina,Serie A,Ball Playing Center Back
+375,709,Tim Ream,CB,2023-2024,35.0,Fulham,Premier League,Ball Playing Center Back
+376,711,Chadi Riad,CB,2023-2024,20.0,Betis,La Liga,Ball Playing Center Back
+377,712,Alexsandro Ribeiro,CB,2023-2024,23.0,Lille,Ligue 1,Ball Playing Center Back
+378,713,Chris Richards,CB,2023-2024,23.0,Crystal Palace,Premier League,Ball Playing Center Back
+379,715,Clemens Riedel,CB,2023-2024,20.0,Darmstadt 98,Bundesliga,Ball Playing Center Back
+380,721,Jack Robinson,CB,2023-2024,29.0,Sheffield Utd,Premier League,Ball Playing Center Back
+381,725,Alessio Romagnoli,CB,2023-2024,28.0,Lazio,Serie A,Ball Playing Center Back
+382,726,Simone Romagnoli,CB,2023-2024,33.0,Frosinone,Serie A,Ball Playing Center Back
+383,728,Cristian Romero,CB,2023-2024,25.0,Tottenham,Premier League,Ball Playing Center Back
+384,731,Anthony Rouault,CB,2023-2024,22.0,Toulouse,Ligue 1,Ball Playing Center Back
+385,732,Jérôme Roussillon,CB,2023-2024,30.0,Union Berlin,Bundesliga,Ball Playing Center Back
+386,733,Amir Rrahmani,CB,2023-2024,29.0,Napoli,Serie A,Ball Playing Center Back
+387,734,Ruan,CB,2023-2024,24.0,Sassuolo,Serie A,Ball Playing Center Back
+388,735,Antonio Rüdiger,CB,2023-2024,30.0,Real Madrid,La Liga,Ball Playing Center Back
+389,736,Daniele Rugani,CB,2023-2024,29.0,Juventus,Serie A,Ball Playing Center Back
+390,737,Matteo Ruggeri,CB,2023-2024,21.0,Atalanta,Serie A,Ball Playing Center Back
+391,743,Falaye Sacko,CB,2023-2024,28.0,Montpellier,Ligue 1,Ball Playing Center Back
+392,744,Modibo Sagnan,CB,2023-2024,24.0,Montpellier,Ligue 1,Ball Playing Center Back
+393,746,Mamadou Sakho,CB,2023-2024,33.0,Montpellier,Ligue 1,Ball Playing Center Back
+394,747,Kike Salas,CB,2023-2024,21.0,Sevilla,La Liga,Ball Playing Center Back
+395,748,William Saliba,CB,2023-2024,22.0,Arsenal,Premier League,Ball Playing Center Back
+396,749,Mohammed Salisu,CB,2023-2024,24.0,Monaco,Ligue 1,Ball Playing Center Back
+397,750,Yoann Salmier,CB,2023-2024,30.0,Le Havre,Ligue 1,Ball Playing Center Back
+398,753,Davinson Sánchez,CB,2023-2024,27.0,Tottenham,Premier League,Ball Playing Center Back
+399,757,Sadibou Sané,CB,2023-2024,19.0,Metz,Ligue 1,Ball Playing Center Back
+400,758,Arouna Sangante,CB,2023-2024,21.0,Le Havre,Ligue 1,Ball Playing Center Back
+401,760,Paco Sanz,CB,2023-2024,18.0,Almería,La Liga,Ball Playing Center Back
+402,762,Mamadou Sarr,CB,2023-2024,17.0,Lyon,Ligue 1,Ball Playing Center Back
+403,763,Stefan Savić,CB,2023-2024,32.0,Atlético Madrid,La Liga,Ball Playing Center Back
+404,764,Saba Sazonov,CB,2023-2024,21.0,Torino,Serie A,Ball Playing Center Back
+405,766,Giorgio Scalvini,CB,2023-2024,19.0,Atalanta,Serie A,Ball Playing Center Back
+406,767,Fabian Schär,CB,2023-2024,31.0,Newcastle Utd,Premier League,Ball Playing Center Back
+407,768,Keven Schlotterbeck,CB,2023-2024,26.0,Bochum,Bundesliga,Ball Playing Center Back
+408,769,Nico Schlotterbeck,CB,2023-2024,23.0,Dortmund,Bundesliga,Ball Playing Center Back
+409,770,Kenneth Schmidt,CB,2023-2024,21.0,Freiburg,Bundesliga,Ball Playing Center Back
+410,772,Perr Schuurs,CB,2023-2024,23.0,Torino,Serie A,Ball Playing Center Back
+411,773,Aleksandar Sedlar,CB,2023-2024,31.0,Alavés,La Liga,Ball Playing Center Back
+412,774,Alidu Seidu,CB,2023-2024,23.0,Clermont Foot,Ligue 1,Ball Playing Center Back
+413,777,Marcos Senesi,CB,2023-2024,26.0,Bournemouth,Premier League,Ball Playing Center Back
+414,779,Tim Siersleben,CB,2023-2024,23.0,Heidenheim,Bundesliga,Ball Playing Center Back
+415,782,Thiago Silva,CB,2023-2024,38.0,Chelsea,Premier League,Ball Playing Center Back
+416,783,Mohamed Simakan,CB,2023-2024,23.0,RB Leipzig,Bundesliga,Ball Playing Center Back
+417,784,Jan-Carlo Simic,CB,2023-2024,18.0,Milan,Serie A,Ball Playing Center Back
+418,785,Wilfried Singo,CB,2023-2024,22.0,Monaco,Ligue 1,Ball Playing Center Back
+419,787,Jailson Siqueira,CB,2023-2024,27.0,Celta Vigo,La Liga,Ball Playing Center Back
+420,788,Leo Skiri Østigård,CB,2023-2024,23.0,Napoli,Serie A,Ball Playing Center Back
+421,789,Milan Škriniar,CB,2023-2024,28.0,Paris S-G,Ligue 1,Ball Playing Center Back
+422,790,Chris Smalling,CB,2023-2024,33.0,Roma,Serie A,Ball Playing Center Back
+423,792,Hrvoje Smolčić,CB,2023-2024,22.0,Eint Frankfurt,Bundesliga,Ball Playing Center Back
+424,797,Saidou Sow,CB,2023-2024,21.0,Strasbourg,Ligue 1,Ball Playing Center Back
+425,798,Çağlar Söyüncü,CB,2023-2024,27.0,Atlético Madrid,La Liga,Ball Playing Center Back
+426,801,Josip Stanišić,CB,2023-2024,23.0,Leverkusen,Bundesliga,Ball Playing Center Back
+427,802,Carl Starfelt,CB,2023-2024,28.0,Celta Vigo,La Liga,Ball Playing Center Back
+428,803,Niklas Stark,CB,2023-2024,28.0,Werder Bremen,Bundesliga,Ball Playing Center Back
+429,805,Leonidas Stergiou,CB,2023-2024,21.0,Stuttgart,Bundesliga,Ball Playing Center Back
+430,806,John Stones,CB,2023-2024,29.0,Manchester City,Premier League,Ball Playing Center Back
+431,810,Niklas Süle,CB,2023-2024,27.0,Dortmund,Bundesliga,Ball Playing Center Back
+432,811,Abakar Sylla,CB,2023-2024,20.0,Strasbourg,Ligue 1,Ball Playing Center Back
+433,814,Attila Szalai,CB,2023-2024,25.0,Freiburg,Bundesliga,Ball Playing Center Back
+434,816,Jonathan Tah,CB,2023-2024,27.0,Leverkusen,Bundesliga,Ball Playing Center Back
+435,817,Montassar Talbi,CB,2023-2024,25.0,Lorient,Ligue 1,Ball Playing Center Back
+436,818,Adrien Tameze,CB,2023-2024,29.0,Torino,Serie A,Ball Playing Center Back
+437,819,Edmond Tapsoba,CB,2023-2024,24.0,Leverkusen,Bundesliga,Ball Playing Center Back
+438,821,James Tarkowski,CB,2023-2024,30.0,Everton,Premier League,Ball Playing Center Back
+439,822,César Tárrega,CB,2023-2024,21.0,Valencia,La Liga,Ball Playing Center Back
+440,828,Nahuel Tenaglia,CB,2023-2024,27.0,Alavés,La Liga,Ball Playing Center Back
+441,831,Arthur Theate,CB,2023-2024,23.0,Rennes,Ligue 1,Ball Playing Center Back
+442,832,Malick Thiaw,CB,2023-2024,21.0,Milan,Serie A,Ball Playing Center Back
+443,835,Antonio Tikvić,CB,2023-2024,19.0,Udinese,Serie A,Central Defender
+444,836,Jurriën Timber,CB,2023-2024,22.0,Arsenal,Premier League,Ball Playing Center Back
+445,837,Jean-Clair Todibo,CB,2023-2024,23.0,Nice,Ligue 1,Ball Playing Center Back
+446,840,Rafael Tolói,CB,2023-2024,32.0,Atalanta,Serie A,Ball Playing Center Back
+447,842,James Tomkins,CB,2023-2024,34.0,Crystal Palace,Premier League,Ball Playing Center Back
+448,843,Fikayo Tomori,CB,2023-2024,25.0,Milan,Serie A,Ball Playing Center Back
+449,844,Raúl Torrente,CB,2023-2024,21.0,Granada,La Liga,Ball Playing Center Back
+450,845,Pau Torres,CB,2023-2024,26.0,Aston Villa,Premier League,Ball Playing Center Back
+451,846,Ahmed Touba,CB,2023-2024,25.0,Lecce,Serie A,Ball Playing Center Back
+452,847,Souleymane Touré,CB,2023-2024,20.0,Lorient,Ligue 1,Ball Playing Center Back
+453,849,Ismaël Traoré,CB,2023-2024,36.0,Metz,Ligue 1,Ball Playing Center Back
+454,854,Auston Trusty,CB,2023-2024,24.0,Sheffield Utd,Premier League,Ball Playing Center Back
+455,856,Tuta,CB,2023-2024,24.0,Eint Frankfurt,Bundesliga,Ball Playing Center Back
+456,860,Samuel Umtiti,CB,2023-2024,29.0,Lille,Ligue 1,Ball Playing Center Back
+457,861,Dayot Upamecano,CB,2023-2024,24.0,Bayern Munich,Bundesliga,Ball Playing Center Back
+458,864,Martin Valjent,CB,2023-2024,27.0,Mallorca,La Liga,Ball Playing Center Back
+459,865,Jesús Vallejo,CB,2023-2024,26.0,Granada,La Liga,Central Defender
+460,866,Siebe Van Der Heyden,CB,2023-2024,25.0,Mallorca,La Liga,Central Defender
+461,867,Virgil van Dijk,CB,2023-2024,32.0,Liverpool,Premier League,Classic Center Back
+462,869,Raphaël Varane,CB,2023-2024,30.0,Manchester Utd,Premier League,Classic Center Back
+463,870,Johan Vásquez,CB,2023-2024,24.0,Genoa,Serie A,Classic Center Back
+464,874,Miloš Veljković,CB,2023-2024,27.0,Werder Bremen,Bundesliga,Classic Center Back
+465,876,Micky van de Ven,CB,2023-2024,22.0,Tottenham,Premier League,Classic Center Back
+466,881,Ricardo Visus,CB,2023-2024,22.0,Betis,La Liga,Central Defender
+467,882,Mattia Viti,CB,2023-2024,21.0,Sassuolo,Serie A,Central Defender
+468,884,Daniel Vivian,CB,2023-2024,24.0,Athletic Club,La Liga,Classic Center Back
+469,885,Alessandro Vogliacco,CB,2023-2024,24.0,Genoa,Serie A,Central Defender
+470,886,Kevin Vogt,CB,2023-2024,31.0,Union Berlin,Bundesliga,Classic Center Back
+471,888,Stefan de Vrij,CB,2023-2024,31.0,Inter,Serie A,Classic Center Back
+472,890,Sebastian Walukiewicz,CB,2023-2024,23.0,Empoli,Serie A,Classic Center Back
+473,899,Mateusz Wieteska,CB,2023-2024,26.0,Cagliari,Serie A,Central Defender
+474,902,Axel Witsel,CB,2023-2024,34.0,Atlético Madrid,La Liga,Classic Center Back
+475,904,Maximilian Wöber,CB,2023-2024,25.0,Gladbach,Bundesliga,Classic Center Back
+476,906,Christopher Wooh,CB,2023-2024,21.0,Rennes,Ligue 1,Classic Center Back
+477,907,Joe Worrall,CB,2023-2024,26.0,Nott'ham Forest,Premier League,Central Defender
+478,908,Antal Yaakobishvili,CB,2023-2024,19.0,Girona,La Liga,Central Defender
+479,910,Leny Yoro,CB,2023-2024,17.0,Lille,Ligue 1,Classic Center Back
+480,912,Etienne Youte Kinkoue,CB,2023-2024,21.0,Le Havre,Ligue 1,Classic Center Back
+481,913,Illia Zabarnyi,CB,2023-2024,20.0,Bournemouth,Premier League,Classic Center Back
+482,914,Dan-Axel Zagadou,CB,2023-2024,24.0,Stuttgart,Bundesliga,Classic Center Back
+483,923,Cedric Zesiger,CB,2023-2024,25.0,Wolfsburg,Bundesliga,Classic Center Back
+484,924,Nathan Zeze,CB,2023-2024,18.0,Nantes,Ligue 1,Central Defender
+485,925,David Zima,CB,2023-2024,22.0,Torino,Serie A,Central Defender
+486,926,Christoph Zimmermann,CB,2023-2024,30.0,Darmstadt 98,Bundesliga,Central Defender
+487,930,Kurt Zouma,CB,2023-2024,28.0,West Ham,Premier League,Classic Center Back
+488,0,Max Aarons,RB,2023-2024,23.0,Bournemouth,Premier League,Wing Back
+489,3,Abner,LB,2023-2024,23.0,Betis,La Liga,Wing Back
+490,6,Joshua Acheampong,RB,2023-2024,17.0,Chelsea,Premier League,Wing Back
+491,7,Marcos Acuña,LWB,2023-2024,31.0,Sevilla,La Liga,Inverted Wing Back
+492,12,Felix Agu,LWB,2023-2024,23.0,Werder Bremen,Bundesliga,Inverted Wing Back
+493,14,Ruben Aguilar,RWB,2023-2024,30.0,Lens,Ligue 1,Inverted Wing Back
+494,17,Ola Aina,LB,2023-2024,26.0,Nott'ham Forest,Premier League,Inverted Wing Back
+495,18,Rayan Aït-Nouri,LB,2023-2024,22.0,Wolves,Premier League,Inverted Wing Back
+496,22,Sergio Akieme,LB,2023-2024,25.0,Reims,Ligue 1,Inverted Wing Back
+497,27,Trent Alexander-Arnold,RB,2023-2024,24.0,Liverpool,Premier League,Inverted Wing Back
+498,28,Jim Allevinah,LB,2023-2024,28.0,Clermont Foot,Ligue 1,Inverted Wing Back
+499,29,Marcos Alonso,LB,2023-2024,32.0,Barcelona,La Liga,Wing Back
+500,30,Adrià Altimira,RB,2023-2024,22.0,Villarreal,La Liga,Wing Back
+501,32,Hugo Álvarez,LB,2023-2024,20.0,Celta Vigo,La Liga,Wing Back
+502,34,Jordan Amavi,LB,2023-2024,29.0,Brest,Ligue 1,Wing Back
+503,35,Kelvin Amian,RB,2023-2024,25.0,Nantes,Ligue 1,Wing Back
+504,37,Michael Amir Murillo,RB,2023-2024,27.0,Marseille,Ligue 1,Wing Back
+505,40,Angeliño,LB,2023-2024,26.0,Roma,Serie A,Wing Back
+506,41,Fabrizio Angileri,LB,2023-2024,29.0,Getafe,La Liga,Wing Back
+507,43,Jon Aramburu,RB,2023-2024,21.0,Real Sociedad,La Liga,Wing Back
+508,44,Julian Araujo,RB,2023-2024,21.0,Las Palmas,La Liga,Inverted Wing Back
+509,46,Jesús Areso,RB,2023-2024,24.0,Osasuna,La Liga,Inverted Wing Back
+510,47,Yoël Armougom,LB,2023-2024,25.0,Clermont Foot,Ligue 1,Wing Back
+511,48,Arthur,LWB,2023-2024,20.0,Leverkusen,Bundesliga,Wing Back
+512,49,Lorenz Assignon,RB,2023-2024,23.0,Rennes,Ligue 1,Inverted Wing Back
+513,50,Youcef Atal,RB,2023-2024,27.0,Nice,Ligue 1,Wing Back
+514,51,Tommaso Augello,LB,2023-2024,28.0,Cagliari,Serie A,Inverted Wing Back
+515,52,Carlos Augusto,LB,2023-2024,24.0,Inter,Serie A,Inverted Wing Back
+516,54,Serge Aurier,RB,2023-2024,30.0,Nott'ham Forest,Premier League,Wing Back
+517,56,Paulo Azzi,LB,2023-2024,29.0,Cagliari,Serie A,Inverted Wing Back
+518,58,Aliou Badara Baldé,RB,2023-2024,20.0,Nice,Ligue 1,Wing Back
+519,60,Matthias Bader,RB,2023-2024,26.0,Darmstadt 98,Bundesliga,Inverted Wing Back
+520,63,Mitchel Bakker,LB,2023-2024,23.0,Atalanta,Serie A,Wing Back
+521,64,Ridle Baku,RB,2023-2024,25.0,Wolfsburg,Bundesliga,Inverted Wing Back
+522,65,Alejandro Balde,LB,2023-2024,19.0,Barcelona,La Liga,Inverted Wing Back
+523,66,George Baldock,RB,2023-2024,30.0,Sheffield Utd,Premier League,Wing Back
+524,68,Iván Balliu,RB,2023-2024,31.0,Rayo Vallecano,La Liga,Inverted Wing Back
+525,69,Fodé Ballo-Touré,RB,2023-2024,26.0,Fulham,Premier League,Wing Back
+526,71,Valentín Barco,LB,2023-2024,19.0,Brighton,Premier League,Wing Back
+527,72,Melvin Bard,LB,2023-2024,22.0,Nice,Ligue 1,Inverted Wing Back
+528,80,Simone Bastoni,LB,2023-2024,26.0,Empoli,Serie A,Wing Back
+529,82,Elias Baum,RB,2023-2024,17.0,Eint Frankfurt,Bundesliga,Wing Back
+530,83,Owen Beck,LB,2023-2024,20.0,Liverpool,Premier League,Wing Back
+531,86,Raoul Bellanova,RB,2023-2024,23.0,Torino,Serie A,Inverted Wing Back
+532,87,Héctor Bellerín,RB,2023-2024,28.0,Betis,La Liga,Inverted Wing Back
+533,89,Ramy Bensebaini,LB,2023-2024,28.0,Dortmund,Bundesliga,Wing Back
+534,91,Yuri Berchiche,LB,2023-2024,33.0,Athletic Club,La Liga,Inverted Wing Back
+535,92,Bartosz Bereszyński,RB,2023-2024,31.0,Empoli,Serie A,Inverted Wing Back
+536,93,Bernardo,LB,2023-2024,28.0,Bochum,Bundesliga,Inverted Wing Back
+537,94,Victor Bernth Kristiansen,LB,2023-2024,20.0,Bologna,Serie A,Inverted Wing Back
+538,98,Cristiano Biraghi,LB,2023-2024,30.0,Fiorentina,Serie A,Inverted Wing Back
+539,100,Samuele Birindelli,RB,2023-2024,24.0,Monza,Serie A,Inverted Wing Back
+540,104,Sacha Boey,RB,2023-2024,22.0,Bayern Munich,Bundesliga,Wing Back
+541,105,Jayden Bogle,RB,2023-2024,23.0,Sheffield Utd,Premier League,Inverted Wing Back
+542,110,Neto Borges,LWB,2023-2024,26.0,Clermont Foot,Ligue 1,Inverted Wing Back
+543,114,Domagoj Bradarić,LWB,2023-2024,23.0,Salernitana,Serie A,Inverted Wing Back
+544,115,Conor Bradley,RB,2023-2024,20.0,Liverpool,Premier League,Inverted Wing Back
+545,119,Brau,LB,2023-2024,21.0,Granada,La Liga,Wing Back
+546,123,Tajon Buchanan,RB,2023-2024,24.0,Inter,Serie A,Wing Back
+547,124,Hugo Bueno,LB,2023-2024,20.0,Wolves,Premier League,Wing Back
+548,126,Marius Bülter,LWB,2023-2024,30.0,Hoffenheim,Bundesliga,Inverted Wing Back
+549,129,Dan Burn,LB,2023-2024,31.0,Newcastle Utd,Premier League,Inverted Wing Back
+550,130,Marnon Busch,RB,2023-2024,28.0,Heidenheim,Bundesliga,Wing Back
+551,131,Pablo Busto,RB,2023-2024,17.0,Betis,La Liga,Wing Back
+552,132,Aurélio Buta,RWB,2023-2024,26.0,Eint Frankfurt,Bundesliga,Inverted Wing Back
+553,133,Liberato Cacace,LB,2023-2024,22.0,Empoli,Serie A,Inverted Wing Back
+554,134,Anthony Caci,LWB,2023-2024,26.0,Mainz 05,Bundesliga,Inverted Wing Back
+555,135,Davide Calabria,RB,2023-2024,26.0,Milan,Serie A,Inverted Wing Back
+556,136,Riccardo Calafiori,LB,2023-2024,21.0,Bologna,Serie A,Inverted Wing Back
+557,140,Andrea Cambiaso,LB,2023-2024,23.0,Juventus,Serie A,Inverted Wing Back
+558,141,João Cancelo,RB,2023-2024,29.0,Barcelona,La Liga,Inverted Wing Back
+559,144,Isaac Carcelen,RB,2023-2024,30.0,Cádiz,La Liga,Inverted Wing Back
+560,145,Sergi Cardona,LB,2023-2024,24.0,Las Palmas,La Liga,Inverted Wing Back
+561,146,Igor Carioca,RB,2023-2024,26.0,Lorient,Ligue 1,Wing Back
+562,148,Carmona,RWB,2023-2024,21.0,Getafe,La Liga,Wing Back
+563,149,Rasmus Carstensen,RB,2023-2024,22.0,Köln,Bundesliga,Inverted Wing Back
+564,150,Antonin Cartillier,LB,2023-2024,19.0,Monaco,Ligue 1,Wing Back
+565,151,Dani Carvajal,RB,2023-2024,31.0,Real Madrid,La Liga,Inverted Wing Back
+566,154,Matty Cash,RB,2023-2024,25.0,Aston Villa,Premier League,Inverted Wing Back
+567,155,Timothy Castagne,RB,2023-2024,27.0,Fulham,Premier League,Inverted Wing Back
+568,159,Zeki Çelik,RB,2023-2024,26.0,Roma,Serie A,Wing Back
+569,160,Álex Centelles,LB,2023-2024,25.0,Almería,La Liga,Wing Back
+570,161,Fabien Centonze,RB,2023-2024,27.0,Nantes,2 Comps,Wing Back
+571,166,Pep Chavarría,LB,2023-2024,25.0,Rayo Vallecano,La Liga,Wing Back
+572,167,Jhoanner Chávez,LWB,2023-2024,21.0,Lens,Ligue 1,Wing Back
+573,169,Ben Chilwell,LB,2023-2024,26.0,Chelsea,Premier League,Wing Back
+574,173,Patrick Ciurria,RWB,2023-2024,28.0,Monza,Serie A,Inverted Wing Back
+575,174,Jonathan Clauss,RB,2023-2024,30.0,Marseille,Ligue 1,Inverted Wing Back
+576,175,Nathaniel Clyne,RB,2023-2024,32.0,Crystal Palace,Premier League,Wing Back
+577,176,Marcus Coco,RWB,2023-2024,27.0,Nantes,Ligue 1,Inverted Wing Back
+578,178,Séamus Coleman,RB,2023-2024,34.0,Everton,Premier League,Wing Back
+579,179,Maxime Colin,RB,2023-2024,31.0,Metz,Ligue 1,Inverted Wing Back
+580,181,Nnamdi Collins,RB,2023-2024,19.0,Eint Frankfurt,Bundesliga,Wing Back
+581,184,Pietro Comuzzo,RB,2023-2024,18.0,Fiorentina,Serie A,Wing Back
+582,187,Tommaso Corazza,RB,2023-2024,19.0,Bologna,Serie A,Wing Back
+583,188,Thierry Correia,RB,2023-2024,24.0,Valencia,La Liga,Full Back
+584,189,Danny da Costa,RWB,2023-2024,30.0,Mainz 05,Bundesliga,Wing Back
+585,190,Jaume Costa,LWB,2023-2024,35.0,Mallorca,La Liga,Wing Back
+586,192,Vladimír Coufal,RB,2023-2024,30.0,West Ham,Premier League,Full Back
+587,193,Yan Couto,RWB,2023-2024,21.0,Girona,La Liga,Full Back
+588,195,Aaron Cresswell,LB,2023-2024,33.0,West Ham,Premier League,Wing Back
+589,196,Juan Cruz Armada,LB,2023-2024,31.0,Osasuna,La Liga,Wing Back
+590,197,Juan Cuadrado,RB,2023-2024,35.0,Inter,Serie A,Wing Back
+591,199,Marc Cucurella,LB,2023-2024,25.0,Chelsea,Premier League,Full Back
+592,202,Sam Curtis,RB,2023-2024,17.0,Sheffield Utd,Premier League,Wing Back
+593,203,Danilo D'Ambrosio,RB,2023-2024,34.0,Monza,Serie A,Full Back
+594,205,Diogo Dalot,RB,2023-2024,24.0,Manchester Utd,Premier League,Full Back
+595,211,Matteo Darmian,RB,2023-2024,33.0,Inter,Serie A,Full Back
+596,213,Alphonso Davies,LB,2023-2024,22.0,Bayern Munich,Bundesliga,Full Back
+597,214,Ben Davies,LB,2023-2024,30.0,Tottenham,Premier League,Wing Back
+598,217,Mattia De Sciglio,RB,2023-2024,30.0,Juventus,Serie A,Wing Back
+599,218,Lorenzo De Silvestri,RB,2023-2024,35.0,Bologna,Serie A,Wing Back
+600,219,Thibault De Smet,LB,2023-2024,25.0,Reims,Ligue 1,Full Back
+601,221,Thomas Delaine,LB,2023-2024,31.0,Strasbourg,Ligue 1,Wing Back
+602,222,Hannes Delcroix,LB,2023-2024,24.0,Burnley,Premier League,Wing Back
+603,224,Olivier Deman,LWB,2023-2024,23.0,Werder Bremen,Bundesliga,Wing Back
+604,226,Mikkel Desler,RB,2023-2024,28.0,Toulouse,Ligue 1,Wing Back
+605,227,Giovanni Di Lorenzo,RB,2023-2024,29.0,Napoli,Serie A,Full Back
+606,228,Alessandro Di Pardo,RB,2023-2024,24.0,Cagliari,Serie A,Wing Back
+607,231,Ibrahim Diakité,RWB,2023-2024,19.0,Reims,Ligue 1,Wing Back
+608,234,Krépin Diatta,RB,2023-2024,24.0,Monaco,Ligue 1,Wing Back
+609,237,Lucas Digne,LB,2023-2024,30.0,Aston Villa,Premier League,Full Back
+610,238,Federico Dimarco,LB,2023-2024,25.0,Inter,Serie A,Wing Back
+611,246,Dodô,RB,2023-2024,24.0,Fiorentina,Serie A,Wing Back
+612,248,Matt Doherty,RB,2023-2024,31.0,Wolves,Premier League,Wing Back
+613,249,Josh Doig,LB,2023-2024,21.0,Sassuolo,Serie A,Wing Back
+614,252,Patrick Dorgu,LB,2023-2024,18.0,Lecce,Serie A,Wing Back
+615,254,Guela Doué,RB,2023-2024,20.0,Rennes,Ligue 1,Wing Back
+616,255,Alfie Doughty,LWB,2023-2024,23.0,Luton Town,Premier League,Full Back
+617,259,Rubén Duarte,LB,2023-2024,27.0,Alavés,La Liga,Wing Back
+618,260,Denzel Dumfries,RB,2023-2024,27.0,Inter,Serie A,Wing Back
+619,261,Paul Dummett,LB,2023-2024,31.0,Newcastle Utd,Premier League,Wing Back
+620,267,Kingsley Ehizibue,RWB,2023-2024,28.0,Udinese,Serie A,Wing Back
+621,271,Emerson,LB,2023-2024,24.0,Tottenham,Premier League,Wing Back
+622,273,Alfonso Espino,LB,2023-2024,31.0,Rayo Vallecano,La Liga,Full Back
+623,276,Pervis Estupiñán,LB,2023-2024,25.0,Brighton,Premier League,Wing Back
+624,279,Davide Faraoni,RWB,2023-2024,31.0,Hellas Verona,Serie A,Wing Back
+625,284,Kiko Femenía,RB,2023-2024,32.0,Villarreal,La Liga,Wing Back
+626,287,Max Finkgräfe,LB,2023-2024,19.0,Köln,Bundesliga,Full Back
+627,288,Alessandro Florenzi,RB,2023-2024,32.0,Milan,Serie A,Full Back
+628,289,Jonas Föhrenbach,LB,2023-2024,27.0,Heidenheim,Bundesliga,Full Back
+629,290,Thomas Foket,RB,2023-2024,28.0,Reims,Ligue 1,Wing Back
+630,291,Héctor Fort,RB,2023-2024,16.0,Barcelona,La Liga,Wing Back
+631,292,Dimitri Foulquier,RB,2023-2024,30.0,Valencia,La Liga,Wing Back
+632,293,Juan Foyth,RB,2023-2024,25.0,Villarreal,La Liga,Wing Back
+633,294,Przemysław Frankowski,RWB,2023-2024,28.0,Lens,Ligue 1,Full Back
+634,297,Jeremie Frimpong,RWB,2023-2024,22.0,Leverkusen,Bundesliga,Wing Back
+635,299,Javi Galán,LB,2023-2024,28.0,Atlético Madrid,La Liga,Wing Back
+636,300,Antonino Gallo,LB,2023-2024,23.0,Lecce,Serie A,Full Back
+637,301,Cristian Gamboa,RB,2023-2024,33.0,Bochum,Bundesliga,Wing Back
+638,304,Fran Garcia,LB,2023-2024,23.0,Real Madrid,La Liga,Wing Back
+639,305,Ulisses Garcia,LB,2023-2024,27.0,Marseille,Ligue 1,Wing Back
+640,309,Valentin Gendrey,RB,2023-2024,23.0,Lecce,Serie A,Full Back
+641,322,Giovanni González,RWB,2023-2024,28.0,Mallorca,La Liga,Full Back
+642,323,Andoni Gorosabel,RB,2023-2024,26.0,Alavés,La Liga,Full Back
+643,324,Robin Gosens,LWB,2023-2024,29.0,Union Berlin,Bundesliga,Full Back
+644,328,Álex Grimaldo,LWB,2023-2024,27.0,Leverkusen,Bundesliga,Full Back
+645,331,Gabriel Gudmundsson,LB,2023-2024,24.0,Lille,Ligue 1,Wing Back
+646,332,Axel Gueguin,LWB,2023-2024,18.0,Montpellier,Ligue 1,Wing Back
+647,334,Raphaël Guerreiro,LB,2023-2024,29.0,Bayern Munich,Bundesliga,Wing Back
+648,337,Frederic Guilbert,LB,2023-2024,28.0,Strasbourg,Ligue 1,Full Back
+649,339,Robert Gumny,RB,2023-2024,25.0,Augsburg,Bundesliga,Wing Back
+650,340,Christian Günter,LB,2023-2024,30.0,Freiburg,Bundesliga,Wing Back
+651,341,Malo Gusto,RB,2023-2024,20.0,Chelsea,Premier League,Full Back
+652,342,Miguel Gutiérrez,LB,2023-2024,22.0,Girona,La Liga,Wing Back
+653,343,Joško Gvardiol,LB,2023-2024,21.0,Manchester City,Premier League,Full Back
+654,344,Emmanuel Gyasi,RWB,2023-2024,29.0,Empoli,Serie A,Wing Back
+655,346,Jaouen Hadjam,LB,2023-2024,20.0,Nantes,Ligue 1,Wing Back
+656,347,Massadio Haïdara,LWB,2023-2024,30.0,Lens,Ligue 1,Wing Back
+657,348,Oualid El Hajjam,RB,2023-2024,32.0,Le Havre,Ligue 1,Wing Back
+658,349,Achraf Hakimi,RB,2023-2024,24.0,Paris S-G,Ligue 1,Wing Back
+659,350,Lewis Hall,LB,2023-2024,18.0,Newcastle Utd,Premier League,Wing Back
+660,353,Daiki Hashioka,RWB,2023-2024,24.0,Luton Town,Premier League,Wing Back
+661,354,Hans Hateboer,RB,2023-2024,29.0,Atalanta,Serie A,Wing Back
+662,357,Dominique Heintz,LB,2023-2024,29.0,Köln,Bundesliga,Wing Back
+663,358,Benjamin Henrichs,RB,2023-2024,26.0,RB Leipzig,Bundesliga,Inverted Wing Back
+664,359,Henrique,LWB,2023-2024,29.0,Lyon,Ligue 1,Wing Back
+665,360,Rico Henry,LB,2023-2024,26.0,Brentford,Premier League,Wing Back
+666,363,Javi Hernández,LB,2023-2024,25.0,Cádiz,La Liga,Inverted Wing Back
+667,367,Theo Hernández,LB,2023-2024,25.0,Milan,Serie A,Inverted Wing Back
+668,371,Aaron Hickey,RWB,2023-2024,21.0,Brentford,Premier League,Wing Back
+669,373,James Hill,RB,2023-2024,21.0,Bournemouth,Premier League,Wing Back
+670,375,Jack Hinshelwood,RB,2023-2024,18.0,Brighton,Premier League,Wing Back
+671,377,Emil Holm,RWB,2023-2024,23.0,Atalanta,Serie A,Wing Back
+672,381,Elseid Hysaj,LB,2023-2024,29.0,Lazio,Serie A,Wing Back
+673,382,Iago,LB,2023-2024,26.0,Augsburg,Bundesliga,Wing Back
+674,383,Iglesias,RB,2023-2024,25.0,Getafe,La Liga,Wing Back
+675,385,Imanol,LB,2023-2024,23.0,Athletic Club,La Liga,Wing Back
+676,387,Ismaily,LB,2023-2024,33.0,Lille,Ligue 1,Inverted Wing Back
+677,391,Diego Iturralde,LB,2023-2024,20.0,Sevilla,La Liga,Wing Back
+678,393,Jérémy Jacquet,RB,2023-2024,18.0,Clermont Foot,Ligue 1,Wing Back
+679,395,Ismail Jakobs,LB,2023-2024,23.0,Monaco,Ligue 1,Inverted Wing Back
+680,396,Reece James,RB,2023-2024,23.0,Chelsea,Premier League,Wing Back
+681,400,Alejandro Jiménez,LB,2023-2024,18.0,Milan,Serie A,Wing Back
+682,401,Ryan John Giles,LB,2023-2024,23.0,Luton Town,Premier League,Wing Back
+683,402,Ben Johnson,RB,2023-2024,23.0,West Ham,Premier League,Wing Back
+684,409,Josip Juranović,RB,2023-2024,27.0,Union Berlin,Bundesliga,Wing Back
+685,410,David Jurásek,LB,2023-2024,22.0,Hoffenheim,Bundesliga,Wing Back
+686,413,Issa Kaboré,RWB,2023-2024,22.0,Luton Town,Premier League,Inverted Wing Back
+687,414,Pavel Kadeřábek,RWB,2023-2024,31.0,Hoffenheim,Bundesliga,Inverted Wing Back
+688,416,Gedeon Kalulu,RB,2023-2024,25.0,Lorient,Ligue 1,Wing Back
+689,418,Waren Kamanzi,RWB,2023-2024,22.0,Toulouse,Ligue 1,Inverted Wing Back
+690,419,Hassane Kamara,LWB,2023-2024,29.0,Udinese,Serie A,Inverted Wing Back
+691,421,Emir Karic,LWB,2023-2024,26.0,Darmstadt 98,Bundesliga,Inverted Wing Back
+692,422,Rick Karsdorp,RB,2023-2024,28.0,Roma,Serie A,Wing Back
+693,423,Panos Katseris,RWB,2023-2024,22.0,Lorient,Ligue 1,Wing Back
+694,424,Michael Kayode,RB,2023-2024,19.0,Fiorentina,Serie A,Inverted Wing Back
+695,430,Milos Kerkez,LB,2023-2024,19.0,Bournemouth,Premier League,Inverted Wing Back
+696,434,Jakub Kiwior,LB,2023-2024,23.0,Arsenal,Premier League,Wing Back
+697,437,Lukas Klostermann,LB,2023-2024,27.0,RB Leipzig,Bundesliga,Wing Back
+698,441,Sead Kolašinac,LB,2023-2024,30.0,Atalanta,Serie A,Inverted Wing Back
+699,442,Cheick Konaté,RB,2023-2024,19.0,Clermont Foot,Ligue 1,Wing Back
+700,444,Abdoul Koné,RB,2023-2024,18.0,Reims,Ligue 1,Wing Back
+701,447,Filip Kostić,LWB,2023-2024,30.0,Juventus,Serie A,Inverted Wing Back
+702,448,Koffi Kouao,RB,2023-2024,25.0,Metz,Ligue 1,Wing Back
+703,449,Therence Koudou,RB,2023-2024,18.0,Reims,Ligue 1,Wing Back
+704,452,Emil Krafth,RB,2023-2024,28.0,Newcastle Utd,Premier League,Wing Back
+705,453,Frans Krätzig,LWB,2023-2024,20.0,Bayern Munich,Bundesliga,Wing Back
+706,454,Rasmus Kristensen,RB,2023-2024,26.0,Roma,Serie A,Full Back
+707,456,Lukas Kübler,LB,2023-2024,30.0,Freiburg,Bundesliga,Full Back
+708,457,Sael Kumbedi,RB,2023-2024,18.0,Lyon,Ligue 1,Wing Back
+709,459,Layvin Kurzawa,LB,2023-2024,30.0,Paris S-G,Ligue 1,Wing Back
+710,460,Giorgos Kyriakopoulos,LWB,2023-2024,27.0,Monza,Serie A,Inverted Wing Back
+711,463,Stefan Lainer,RB,2023-2024,30.0,Gladbach,Bundesliga,Wing Back
+712,464,Kenny Lala,RB,2023-2024,31.0,Brest,Ligue 1,Inverted Wing Back
+713,465,Tariq Lamptey,RB,2023-2024,22.0,Brighton,Premier League,Inverted Wing Back
+714,466,Bruno Langa,LB,2023-2024,25.0,Almería,La Liga,Wing Back
+715,470,Toni Lato,LWB,2023-2024,25.0,Mallorca,La Liga,Wing Back
+716,471,Valentino Lazaro,RWB,2023-2024,27.0,Torino,Serie A,Inverted Wing Back
+717,472,Manuel Lazzari,RB,2023-2024,29.0,Lazio,Serie A,Inverted Wing Back
+718,473,Théo Le Bris,LWB,2023-2024,20.0,Lorient,Ligue 1,Inverted Wing Back
+719,475,Vincent Le Goff,LWB,2023-2024,33.0,Lorient,Ligue 1,Wing Back
+720,481,Iñigo Lekue,LB,2023-2024,30.0,Athletic Club,La Liga,Inverted Wing Back
+721,482,Álvaro Lemos,RB,2023-2024,30.0,Las Palmas,La Liga,Wing Back
+722,485,Christopher Lenz,LB,2023-2024,28.0,RB Leipzig,Bundesliga,Wing Back
+723,486,Rico Lewis,RB,2023-2024,18.0,Manchester City,Premier League,Wing Back
+724,490,Samuel Lino,LWB,2023-2024,23.0,Atlético Madrid,La Liga,Inverted Wing Back
+725,491,Pol Lirola,RB,2023-2024,25.0,Frosinone,Serie A,Inverted Wing Back
+726,492,Valentino Livramento,RB,2023-2024,20.0,Newcastle Utd,Premier League,Inverted Wing Back
+727,495,Bradley Locko,LB,2023-2024,21.0,Brest,Ligue 1,Inverted Wing Back
+728,497,Renan Lodi,LB,2023-2024,25.0,Marseille,Ligue 1,Wing Back
+729,500,Javi López,LB,2023-2024,21.0,Alavés,La Liga,Inverted Wing Back
+730,501,Jordan Lotomba,RB,2023-2024,24.0,Nice,Ligue 1,Inverted Wing Back
+731,504,Max Lowe,LB,2023-2024,26.0,Sheffield Utd,Premier League,Wing Back
+732,505,Lucas,LB,2023-2024,22.0,Cádiz,La Liga,Inverted Wing Back
+733,507,José Luis Gayà,LB,2023-2024,28.0,Valencia,La Liga,Inverted Wing Back
+734,512,Charalambos Lykogiannis,LB,2023-2024,29.0,Bologna,Serie A,Wing Back
+735,513,Ian Maatsen,LB,2023-2024,21.0,Dortmund,Bundesliga,Inverted Wing Back
+736,514,Deiver Machado,LWB,2023-2024,29.0,Lens,Ligue 1,Wing Back
+737,515,Pablo Maffeo,RB,2023-2024,26.0,Mallorca,La Liga,Inverted Wing Back
+738,522,Ainsley Maitland-Niles,RWB,2023-2024,25.0,Lyon,Ligue 1,Inverted Wing Back
+739,523,Jordy Makengo,LB,2023-2024,21.0,Freiburg,Bundesliga,Wing Back
+740,525,Wilson Manafá,RB,2023-2024,29.0,Granada,La Liga,Wing Back
+741,530,Javier Manquillo,LB,2023-2024,29.0,Celta Vigo,La Liga,Wing Back
+742,531,Faitout Maouassa,LB,2023-2024,25.0,Granada,La Liga,Wing Back
+743,533,Riccardo Marchizza,LB,2023-2024,25.0,Frosinone,Serie A,Wing Back
+744,535,Óscar de Marcos,RB,2023-2024,34.0,Athletic Club,La Liga,Inverted Wing Back
+745,542,Aarón Martín,LB,2023-2024,26.0,Genoa,Serie A,Wing Back
+746,544,Arnau Martinez,RB,2023-2024,20.0,Girona,La Liga,Wing Back
+747,548,Adam Marušić,RB,2023-2024,30.0,Lazio,Serie A,Wing Back
+748,551,Clinton Mata,RB,2023-2024,30.0,Lyon,Ligue 1,Wing Back
+749,557,Philipp Max,LB,2023-2024,29.0,Eint Frankfurt,Bundesliga,Wing Back
+750,558,Noussair Mazraoui,RB,2023-2024,25.0,Bayern Munich,Bundesliga,Wing Back
+751,559,Pasquale Mazzocchi,RB,2023-2024,28.0,Napoli,Serie A,Wing Back
+752,560,Joakim Mæhle,RB,2023-2024,26.0,Wolfsburg,Bundesliga,Wing Back
+753,561,Kevin Mbabu,RB,2023-2024,28.0,Augsburg,Bundesliga,Wing Back
+754,568,Birger Meling,LB,2023-2024,28.0,Rennes,Ligue 1,Wing Back
+755,569,Houboulang Mendes,RB,2023-2024,25.0,Almería,La Liga,Wing Back
+756,570,Nuno Mendes,LB,2023-2024,21.0,Paris S-G,Ligue 1,Wing Back
+757,571,Bruno Méndez,RB,2023-2024,23.0,Granada,La Liga,Wing Back
+758,573,Benjamin Mendy,LB,2023-2024,29.0,Lorient,Ligue 1,Wing Back
+759,574,Ferland Mendy,LB,2023-2024,28.0,Real Madrid,La Liga,Wing Back
+760,579,Quentin Merlin,LB,2023-2024,21.0,Marseille,Ligue 1,Wing Back
+761,580,Thomas Meunier,RB,2023-2024,31.0,Dortmund,Bundesliga,Wing Back
+762,586,Lucas Mincarelli,LB,2023-2024,19.0,Montpellier,Ligue 1,Wing Back
+763,590,Juan Miranda,LB,2023-2024,23.0,Betis,La Liga,Wing Back
+764,592,Filippo Missori,RB,2023-2024,19.0,Sassuolo,Serie A,Wing Back
+765,593,Tyrick Mitchell,LB,2023-2024,23.0,Crystal Palace,Premier League,Inverted Wing Back
+766,595,Maximilian Mittelstädt,LB,2023-2024,26.0,Stuttgart,Bundesliga,Inverted Wing Back
+767,596,Johan Mojica,LB,2023-2024,30.0,Osasuna,La Liga,Wing Back
+768,597,Nahuel Molina,RB,2023-2024,25.0,Atlético Madrid,La Liga,Wing Back
+769,598,Enzo Mongo,LB,2023-2024,18.0,Nantes,Ligue 1,Wing Back
+770,601,Gonzalo Montiel,RB,2023-2024,26.0,Sevilla,2 Comps,Wing Back
+771,602,Alberto Moreno,LB,2023-2024,31.0,Villarreal,La Liga,Wing Back
+772,603,Álex Moreno,LB,2023-2024,30.0,Aston Villa,Premier League,Wing Back
+773,604,Jorge Moreno,RB,2023-2024,22.0,Osasuna,La Liga,Wing Back
+774,605,Mateu Morey,RB,2023-2024,23.0,Dortmund,Bundesliga,Wing Back
+775,612,Aihen Muñoz,LB,2023-2024,25.0,Real Sociedad,La Liga,Wing Back
+776,613,Daniel Muñoz,RB,2023-2024,27.0,Crystal Palace,Premier League,Wing Back
+777,615,Alex Murphy,LB,2023-2024,19.0,Newcastle Utd,Premier League,Wing Back
+778,616,Phillipp Mwene,LWB,2023-2024,29.0,Mainz 05,Bundesliga,Wing Back
+779,617,Vitaliy Mykolenko,LB,2023-2024,24.0,Everton,Premier League,Wing Back
+780,619,Stanley N'Soki,LB,2023-2024,24.0,Hoffenheim,Bundesliga,Wing Back
+781,623,Jesús Navas,RB,2023-2024,37.0,Sevilla,La Liga,Wing Back
+782,624,Loïc Nego,RWB,2023-2024,32.0,Le Havre,Ligue 1,Wing Back
+783,625,Luca Netz,LB,2023-2024,20.0,Gladbach,Bundesliga,Wing Back
+784,626,Carlos Neva,LB,2023-2024,27.0,Granada,La Liga,Wing Back
+785,630,Niels Nkounkou,LWB,2023-2024,22.0,Eint Frankfurt,Bundesliga,Wing Back
+786,631,Rhys Norrington-Davies,LWB,2023-2024,24.0,Sheffield Utd,Premier League,Wing Back
+787,634,Fabian Nürnberger,LWB,2023-2024,24.0,Darmstadt 98,Bundesliga,Wing Back
+788,639,Álvaro Odriozola,RB,2023-2024,27.0,Real Sociedad,La Liga,Wing Back
+789,640,Tim Oermann,RB,2023-2024,19.0,Bochum,Bundesliga,Wing Back
+790,641,Odeluga Offiah,RB,2023-2024,20.0,Brighton,Premier League,Wing Back
+791,646,Mathías Olivera,LB,2023-2024,25.0,Napoli,Serie A,Wing Back
+792,650,Christopher Operi,LB,2023-2024,26.0,Le Havre,Ligue 1,Inverted Wing Back
+793,653,Eneko Ortiz,LB,2023-2024,20.0,Alavés,La Liga,Wing Back
+794,655,Kassoum Ouattara,LB,2023-2024,18.0,Monaco,Ligue 1,Wing Back
+795,657,Anthony Oyono,RB,2023-2024,22.0,Frosinone,Serie A,Wing Back
+796,662,Emerson Palmieri,LB,2023-2024,28.0,West Ham,Premier League,Inverted Wing Back
+797,665,Leart Paqarada,LB,2023-2024,28.0,Köln,Bundesliga,Wing Back
+798,667,Fabiano Parisi,LB,2023-2024,22.0,Fiorentina,Serie A,Wing Back
+799,669,Felix Passlack,RB,2023-2024,25.0,Bochum,Bundesliga,Wing Back
+800,671,Nathan Patterson,RB,2023-2024,21.0,Everton,Premier League,Wing Back
+801,674,Mads Pedersen,LB,2023-2024,26.0,Augsburg,Bundesliga,Wing Back
+802,675,Marcus Pedersen,RB,2023-2024,23.0,Sassuolo,Serie A,Wing Back
+803,676,Alfonso Pedraza,LB,2023-2024,27.0,Villarreal,La Liga,Wing Back
+804,677,Adrià Pedrosa,LB,2023-2024,25.0,Sevilla,La Liga,Wing Back
+805,678,Luca Pellegrini,LB,2023-2024,24.0,Lazio,Serie A,Wing Back
+806,682,Rubén Peña,RB,2023-2024,32.0,Osasuna,La Liga,Wing Back
+807,684,Pedro Pereira,RWB,2023-2024,25.0,Monza,Serie A,Wing Back
+808,686,Romain Perraud,LB,2023-2024,25.0,Nice,Ligue 1,Wing Back
+809,689,Giuseppe Pezzella,LWB,2023-2024,25.0,Empoli,Serie A,Wing Back
+810,694,Ronaël Pierre-Gabriel,RB,2023-2024,25.0,Nantes,Ligue 1,Wing Back
+811,698,Pedro Porro,RB,2023-2024,23.0,Tottenham,Premier League,Full Back
+812,699,Stefan Posch,RB,2023-2024,26.0,Bologna,Serie A,Full Back
+813,700,Alejandro Pozo Pozo,RB,2023-2024,24.0,Almería,La Liga,Wing Back
+814,701,Marc Pubill,RB,2023-2024,20.0,Almería,La Liga,Full Back
+815,707,Andrei Ratiu,RB,2023-2024,25.0,Rayo Vallecano,La Liga,Wing Back
+816,708,David Raum,LB,2023-2024,25.0,RB Leipzig,Bundesliga,Full Back
+817,710,Sergio Reguilón,LB,2023-2024,26.0,Brentford,Premier League,Full Back
+818,714,Diego Rico,LB,2023-2024,30.0,Getafe,La Liga,Full Back
+819,716,Rodrigo Riquelme,LWB,2023-2024,23.0,Atlético Madrid,La Liga,Full Back
+820,717,Mihailo Ristić,LB,2023-2024,27.0,Celta Vigo,La Liga,Wing Back
+821,718,Connor Roberts,RB,2023-2024,27.0,Burnley,Premier League,Wing Back
+822,719,Andrew Robertson,LB,2023-2024,29.0,Liverpool,Premier League,Full Back
+823,720,Antonee Robinson,LB,2023-2024,25.0,Fulham,Premier League,Full Back
+824,722,Ricardo Rodríguez,LB,2023-2024,30.0,Torino,Serie A,Full Back
+825,723,Mads Roerslev,RWB,2023-2024,24.0,Brentford,Premier League,Full Back
+826,724,Rogério,LB,2023-2024,25.0,Wolfsburg,Bundesliga,Wing Back
+827,727,Carlos Romero,LB,2023-2024,21.0,Villarreal,La Liga,Wing Back
+828,729,Frank Ronstadt,RWB,2023-2024,26.0,Darmstadt 98,Bundesliga,Wing Back
+829,730,Valentin Rosier,RB,2023-2024,26.0,Nice,Ligue 1,Wing Back
+830,738,Mário Rui,LB,2023-2024,32.0,Napoli,Serie A,Full Back
+831,739,Aitor Ruibal,RB,2023-2024,27.0,Betis,La Liga,Full Back
+832,740,Julian Ryerson,RB,2023-2024,25.0,Dortmund,Bundesliga,Full Back
+833,741,Youssouf Sabaly,RB,2023-2024,30.0,Betis,La Liga,Wing Back
+834,742,Stefano Sabelli,RB,2023-2024,30.0,Genoa,Serie A,Full Back
+835,745,Théo Sainte-Luce,LB,2023-2024,24.0,Montpellier,Ligue 1,Wing Back
+836,751,Junior Sambia,RWB,2023-2024,26.0,Salernitana,Serie A,Wing Back
+837,752,Ricard Sánchez,RB,2023-2024,23.0,Granada,La Liga,Full Back
+838,754,Juanlu Sánchez,RB,2023-2024,19.0,Sevilla,La Liga,Full Back
+839,755,Manu Sánchez,LB,2023-2024,22.0,Celta Vigo,La Liga,Full Back
+840,756,Alex Sandro,LB,2023-2024,32.0,Juventus,Serie A,Wing Back
+841,759,Tiago Santos,RB,2023-2024,21.0,Lille,Ligue 1,Full Back
+842,761,Bouna Sarr,RB,2023-2024,31.0,Bayern Munich,Bundesliga,Wing Back
+843,765,Joe Scally,RB,2023-2024,20.0,Gladbach,Bundesliga,Full Back
+844,771,Benno Schmitz,RB,2023-2024,28.0,Köln,Bundesliga,Wing Back
+845,775,Nélson Semedo,RB,2023-2024,29.0,Wolves,Premier League,Full Back
+846,776,Marvin Senaya,RB,2023-2024,22.0,Strasbourg,Ligue 1,Full Back
+847,778,Luke Shaw,LB,2023-2024,28.0,Manchester Utd,Premier League,Wing Back
+848,780,Kiliann Sildillia,RB,2023-2024,21.0,Freiburg,Bundesliga,Full Back
+849,781,Caio Henrique Oliveira Silva,LWB,2023-2024,26.0,Monaco,Ligue 1,Wing Back
+850,786,Daley Sinkgraven,LB,2023-2024,28.0,Las Palmas,La Liga,Wing Back
+851,791,Adam Smith,RB,2023-2024,32.0,Bournemouth,Premier League,Full Back
+852,793,Cédric Soares,RB,2023-2024,31.0,Arsenal,Premier League,Wing Back
+853,794,Danilo Soares,LB,2023-2024,31.0,Bochum,Bundesliga,Wing Back
+854,795,Eduard Sobol,LB,2023-2024,28.0,Strasbourg,Ligue 1,Wing Back
+855,796,Brandon Soppy,RWB,2023-2024,21.0,Torino,Serie A,Wing Back
+856,799,Djed Spence,RB,2023-2024,22.0,Genoa,Serie A,Wing Back
+857,800,Leonardo Spinazzola,LB,2023-2024,30.0,Roma,Serie A,Full Back
+858,804,Pascal Stenzel,RB,2023-2024,27.0,Stuttgart,Bundesliga,Wing Back
+859,807,Álex Suárez,RB,2023-2024,30.0,Las Palmas,La Liga,Full Back
+860,808,Damián Suárez,RB,2023-2024,35.0,Getafe,La Liga,Full Back
+861,809,Gabriel Suazo,LB,2023-2024,25.0,Toulouse,Ligue 1,Full Back
+862,812,Dembo Sylla,RB,2023-2024,20.0,Lorient,Ligue 1,Wing Back
+863,813,Issiaga Sylla,LB,2023-2024,29.0,Montpellier,Ligue 1,Full Back
+864,815,Nicolás Tagliafico,LB,2023-2024,30.0,Lyon,Ligue 1,Full Back
+865,820,Matt Targett,LB,2023-2024,27.0,Newcastle Utd,Premier League,Wing Back
+866,823,Nuno Tavares,LB,2023-2024,23.0,Nott'ham Forest,Premier League,Wing Back
+867,824,Charlie Taylor,LB,2023-2024,29.0,Burnley,Premier League,Full Back
+868,825,Jackson Tchatchoua,RB,2023-2024,21.0,Hellas Verona,Serie A,Full Back
+869,826,Enzo Tchato,RB,2023-2024,20.0,Montpellier,Ligue 1,Wing Back
+870,827,Nathan Tella,RWB,2023-2024,24.0,Leverkusen,Bundesliga,Wing Back
+871,829,Filippo Terracciano,LB,2023-2024,20.0,Hellas Verona,Serie A,Full Back
+872,830,Kenny Tete,RB,2023-2024,27.0,Fulham,Premier League,Wing Back
+873,833,Luke Thomas,LB,2023-2024,22.0,Sheffield Utd,Premier League,Wing Back
+874,834,Kieran Tierney,LB,2023-2024,26.0,Real Sociedad,La Liga,Full Back
+875,838,Harry Toffolo,LB,2023-2024,27.0,Nott'ham Forest,Premier League,Wing Back
+876,839,Jeremy Toljan,RB,2023-2024,28.0,Sassuolo,Serie A,Wing Back
+877,841,Takehiro Tomiyasu,RB,2023-2024,24.0,Arsenal,Premier League,Wing Back
+878,848,Hamari Traoré,RB,2023-2024,31.0,Real Sociedad,La Liga,Full Back
+879,850,Omar Traoré,RB,2023-2024,25.0,Heidenheim,Bundesliga,Full Back
+880,851,Christopher Trimmel,RWB,2023-2024,36.0,Union Berlin,Bundesliga,Wing Back
+881,852,Kieran Trippier,RB,2023-2024,32.0,Newcastle Utd,Premier League,Full Back
+882,853,Adrien Truffert,LB,2023-2024,21.0,Rennes,Ligue 1,Full Back
+883,855,Kostas Tsimikas,LB,2023-2024,27.0,Liverpool,Premier League,Wing Back
+884,857,Destiny Udogie,LB,2023-2024,20.0,Tottenham,Premier League,Full Back
+885,858,Matthieu Udol,LB,2023-2024,27.0,Metz,Ligue 1,Full Back
+886,859,Lukas Ullrich,LB,2023-2024,19.0,Gladbach,Bundesliga,Wing Back
+887,862,Josha Vagnoman,RB,2023-2024,22.0,Stuttgart,Bundesliga,Wing Back
+888,863,Emanuele Valeri,LWB,2023-2024,24.0,Frosinone,Serie A,Wing Back
+889,868,Vanderson,RB,2023-2024,22.0,Monaco,Ligue 1,Wing Back
+890,871,Jesus Vazquez,LB,2023-2024,20.0,Valencia,La Liga,Wing Back
+891,872,Kevin Vázquez,RB,2023-2024,30.0,Celta Vigo,La Liga,Wing Back
+892,873,Lucas Vázquez,RB,2023-2024,32.0,Real Madrid,La Liga,Wing Back
+893,875,Joël Veltman,RB,2023-2024,31.0,Brighton,Premier League,Wing Back
+894,877,Lorenzo Venuti,RB,2023-2024,28.0,Lecce,Serie A,Wing Back
+895,878,Nacho Vidal,RWB,2023-2024,28.0,Osasuna,La Liga,Wing Back
+896,879,Matías Viña,LB,2023-2024,25.0,Sassuolo,Serie A,Wing Back
+897,880,Rúben Vinagre,LB,2023-2024,24.0,Hellas Verona,Serie A,Wing Back
+898,883,Vitinho,RB,2023-2024,24.0,Burnley,Premier League,Wing Back
+899,887,Mërgim Vojvoda,LWB,2023-2024,28.0,Torino,Serie A,Wing Back
+900,889,Kyle Walker,RB,2023-2024,33.0,Manchester City,Premier League,Wing Back
+901,891,Aaron Wan-Bissaka,RB,2023-2024,25.0,Manchester Utd,Premier League,Wing Back
+902,892,Joel Ward,RB,2023-2024,33.0,Crystal Palace,Premier League,Wing Back
+903,893,Timothy Weah,RWB,2023-2024,23.0,Juventus,Serie A,Wing Back
+904,895,Mitchell Weiser,RWB,2023-2024,29.0,Werder Bremen,Bundesliga,Full Back
+905,896,Noah Weißhaupt,LWB,2023-2024,21.0,Freiburg,Bundesliga,Wing Back
+906,897,Ben White,RB,2023-2024,25.0,Arsenal,Premier League,Full Back
+907,898,Silvan Widmer,RWB,2023-2024,30.0,Mainz 05,Bundesliga,Wing Back
+908,900,Neco Williams,LB,2023-2024,22.0,Nott'ham Forest,Premier League,Wing Back
+909,901,Josh Wilson-Esbrand,LB,2023-2024,20.0,Reims,Ligue 1,Wing Back
+910,903,Maximilian Wittek,LB,2023-2024,27.0,Bochum,Bundesliga,Wing Back
+911,905,Marius Wolf,RB,2023-2024,28.0,Dortmund,Bundesliga,Wing Back
+912,909,Darlin Yongwa,LWB,2023-2024,22.0,Lorient,Ligue 1,Wing Back
+913,911,Ashley Young,LWB,2023-2024,38.0,Everton,Premier League,Wing Back
+914,915,Yoram Zague,RB,2023-2024,17.0,Paris S-G,Ligue 1,Wing Back
+915,916,Joseba Zaldúa,RB,2023-2024,31.0,Cádiz,La Liga,Wing Back
+916,917,Nicola Zalewski,LB,2023-2024,21.0,Roma,Serie A,Wing Back
+917,918,Alessandro Zanoli,RWB,2023-2024,22.0,Salernitana,Serie A,Wing Back
+918,919,Gabriele Zappa,RB,2023-2024,23.0,Cagliari,Serie A,Wing Back
+919,920,Davide Zappacosta,RWB,2023-2024,31.0,Atalanta,Serie A,Wing Back
+920,921,Mehdi Zeffane,RWB,2023-2024,31.0,Clermont Foot,Ligue 1,Wing Back
+921,922,Jordan Zemura,LB,2023-2024,23.0,Udinese,Serie A,Wing Back
+922,927,Oleksandr Zinchenko,LB,2023-2024,26.0,Arsenal,Premier League,Full Back
+923,928,Luc Zogbé,RB,2023-2024,18.0,Brest,Ligue 1,Wing Back
+924,929,Nadir Zortea,RWB,2023-2024,24.0,Frosinone,Serie A,Wing Back
+925,931,Igor Zubeldia,RB,2023-2024,26.0,Real Sociedad,La Liga,Wing Back
+0,0,Brenden Aaronson,CM,2023-2024,22.0,Union Berlin,Bundesliga,Box-to-Box
+1,1,Paxten Aaronson,CM,2023-2024,19.0,Eint Frankfurt,Bundesliga,Classic CM
+2,2,Salis Abdul Samed,CM,2023-2024,23.0,Lens,Ligue 1,Box-to-Box
+3,3,Laurent Abergel,CM,2023-2024,30.0,Lorient,Ligue 1,Box-to-Box
+4,4,Tyler Adams,CM,2023-2024,24.0,Bournemouth,Premier League,Classic CM
+5,8,Lucien Agoume,CM,2023-2024,21.0,Sevilla,La Liga,Classic CM
+6,13,Ebenezer Akinsanmiro,CM,2023-2024,18.0,Inter,Serie A,Classic CM
+7,18,Thiago Alcántara,CM,2023-2024,32.0,Liverpool,Premier League,Classic CM
+8,19,Carlos Alcaraz,CM,2023-2024,20.0,Juventus,Serie A,Classic CM
+9,20,Rubén Alcaraz,CM,2023-2024,32.0,Cádiz,La Liga,Box-to-Box
+10,30,Skelly Alvero,CM,2023-2024,21.0,Werder Bremen,Bundesliga,Classic CM
+11,31,Lorenzo Amatucci,CM,2023-2024,19.0,Fiorentina,Serie A,Classic CM
+12,32,Nadiem Amiri,CM,2023-2024,26.0,2 Teams,Bundesliga,Box-to-Box
+13,34,Sofyan Amrabat,CM,2023-2024,26.0,Fiorentina,Serie A,Classic CM
+14,35,Elliot Anderson,CM,2023-2024,20.0,Newcastle Utd,Premier League,Classic CM
+15,36,Benjamin André,CM,2023-2024,32.0,Lille,Ligue 1,Box-to-Box
+16,37,Robert Andrich,CM,2023-2024,28.0,Leverkusen,Bundesliga,Box-to-Box
+17,38,Houssem Aouar,CM,2023-2024,25.0,Roma,Serie A,Classic CM
+18,39,Mauro Arambarri,CM,2023-2024,27.0,Getafe,La Liga,Classic CM
+19,40,Oliver Arblaster,CM,2023-2024,19.0,Sheffield Utd,Premier League,Classic CM
+20,41,Maximilian Arnold,CM,2023-2024,29.0,Wolfsburg,Bundesliga,Box-to-Box
+21,43,Kristjan Asllani,CM,2023-2024,21.0,Inter,Serie A,Box-to-Box
+22,44,Valentin Atangana Edoa,CM,2023-2024,17.0,Reims,Ligue 1,Classic CM
+23,45,Arthur Atta,CM,2023-2024,20.0,Metz,Ligue 1,Classic CM
+24,46,Neil El Aynaoui,CM,2023-2024,22.0,Lens,Ligue 1,Box-to-Box
+25,50,Milan Badelj,CM,2023-2024,34.0,Genoa,Serie A,Box-to-Box
+26,52,Stefan Bajcetic,CM,2023-2024,18.0,Liverpool,Premier League,Classic CM
+27,54,Tiemoué Bakayoko,CM,2023-2024,28.0,Lorient,Ligue 1,Box-to-Box
+28,58,Daniel Bandeira,CM,2023-2024,23.0,Hellas Verona,Serie A,Classic CM
+29,59,Shandon Baptiste,CM,2023-2024,25.0,Brentford,Premier League,Classic CM
+30,61,Nicolò Barella,CM,2023-2024,26.0,Inter,Serie A,Box-to-Box
+31,62,Ross Barkley,CM,2023-2024,29.0,Luton Town,Premier League,Box-to-Box
+32,64,Leandro Barreiro Martins,CM,2023-2024,23.0,Mainz 05,Bundesliga,Box-to-Box
+33,65,Enzo Barrenechea,CM,2023-2024,22.0,Frosinone,Serie A,Box-to-Box
+34,66,Pablo Barrios,CM,2023-2024,20.0,Atlético Madrid,La Liga,Box-to-Box
+35,67,Toma Bašić,CM,2023-2024,26.0,2 Teams,Serie A,Classic CM
+36,68,Simone Bastoni,CM,2023-2024,26.0,Empoli,Serie A,Classic CM
+37,71,Donny van de Beek,CM,2023-2024,26.0,Eint Frankfurt,Bundesliga,Classic CM
+38,72,Reda Belahyane,CM,2023-2024,19.0,Hellas Verona,Serie A,Classic CM
+39,73,Jean-Ricner Bellegarde,CM,2023-2024,25.0,Wolves,Premier League,Classic CM
+40,74,Jude Bellingham,CM,2023-2024,20.0,Real Madrid,La Liga,Box-to-Box
+41,75,Fran Beltrán,CM,2023-2024,24.0,Celta Vigo,La Liga,Box-to-Box
+42,76,Anis Ben Slimane,CM,2023-2024,22.0,Sheffield Utd,Premier League,Classic CM
+43,82,Sander Berge,CM,2023-2024,25.0,Burnley,Premier League,Box-to-Box
+44,83,Matúš Bero,CM,2023-2024,27.0,Bochum,Bundesliga,Classic CM
+45,84,Luke Berry,CM,2023-2024,31.0,Luton Town,Premier League,Classic CM
+46,85,Philip Billing,CM,2023-2024,27.0,Bournemouth,Premier League,Classic CM
+47,87,Yves Bissouma,CM,2023-2024,26.0,Tottenham,Premier League,Box-to-Box
+48,88,Leonardo Bittencourt,CM,2023-2024,29.0,Werder Bremen,Bundesliga,Box-to-Box
+49,90,Alexis Blin,CM,2023-2024,26.0,Lecce,Serie A,Classic CM
+50,91,Emil Bohinen,CM,2023-2024,24.0,2 Teams,Serie A,Classic CM
+51,93,Giacomo Bonaventura,CM,2023-2024,33.0,Fiorentina,Serie A,Box-to-Box
+52,94,Warren Bondo,CM,2023-2024,19.0,Monza,Serie A,Box-to-Box
+53,97,Hicham Boudaoui,CM,2023-2024,23.0,Nice,Ligue 1,Box-to-Box
+54,100,Edoardo Bove,CM,2023-2024,21.0,Roma,Serie A,Box-to-Box
+55,105,Marco Brescianini,CM,2023-2024,23.0,Frosinone,Serie A,Box-to-Box
+56,106,Andre Brooks,CM,2023-2024,19.0,Sheffield Utd,Premier League,Classic CM
+57,108,Josh Brownhill,CM,2023-2024,27.0,Burnley,Premier League,Box-to-Box
+58,110,Manu Bueno,CM,2023-2024,19.0,Sevilla,La Liga,Classic CM
+59,113,Jens Cajuste,CM,2023-2024,23.0,Napoli,Serie A,Classic CM
+60,114,Hakan Çalhanoğlu,CM,2023-2024,29.0,Inter,Serie A,Box-to-Box
+61,116,Lamine Camara,CM,2023-2024,19.0,Metz,Ligue 1,Box-to-Box
+62,118,Mohamed Camara,CM,2023-2024,23.0,Monaco,Ligue 1,Regista
+63,120,José Campaña,CM,2023-2024,30.0,Las Palmas,La Liga,Classic CM
+64,124,Gino Caoki,CM,2023-2024,19.0,Lorient,Ligue 1,Classic CM
+65,125,Étienne Capoue,CM,2023-2024,35.0,Villarreal,La Liga,Regista
+66,127,Maxence Caqueret,CM,2023-2024,23.0,Lyon,Ligue 1,Regista
+67,132,Marc Casado,CM,2023-2024,19.0,Barcelona,La Liga,Classic CM
+68,134,Cristian Cásseres Jr.,CM,2023-2024,23.0,Toulouse,Ligue 1,Regista
+69,135,Danilo Cataldi,CM,2023-2024,28.0,Lazio,Serie A,Regista
+70,136,Dani Ceballos,CM,2023-2024,26.0,Real Madrid,La Liga,Classic CM
+71,140,Charlys,CM,2023-2024,19.0,Hellas Verona,Serie A,Classic CM
+72,143,Pedro Chirivella,CM,2023-2024,26.0,Nantes,Ligue 1,Regista
+73,148,Carney Chukwuemeka,CM,2023-2024,19.0,Chelsea,Premier League,Classic CM
+74,149,Pathé Ciss,CM,2023-2024,29.0,Rayo Vallecano,La Liga,Regista
+75,150,Djaoui Cissé,CM,2023-2024,19.0,Rennes,Ligue 1,Classic CM
+76,151,Bobby Clark,CM,2023-2024,18.0,Liverpool,Premier League,Classic CM
+77,154,Silvi Clúa,CM,2023-2024,18.0,Girona,La Liga,Classic CM
+78,156,Santi Comesaña,CM,2023-2024,26.0,Villarreal,La Liga,Regista
+79,157,Alois Confais,CM,2023-2024,26.0,Le Havre,Ligue 1,Classic CM
+80,158,Lewis Cook,CM,2023-2024,26.0,Bournemouth,Premier League,Regista
+81,163,Lassana Coulibaly,CM,2023-2024,27.0,Salernitana,Serie A,Regista
+82,168,Josh Cullen,CM,2023-2024,27.0,Burnley,Premier League,Regista
+83,169,Mahmoud Dahoud,CM,2023-2024,27.0,Brighton,Premier League,Classic CM
+84,170,Mikkel Damsgaard,CM,2023-2024,23.0,Brentford,Premier League,Classic CM
+85,172,Sergi Darder,CM,2023-2024,29.0,Mallorca,La Liga,Regista
+86,174,Tom Davies,CM,2023-2024,25.0,Sheffield Utd,Premier League,Classic CM
+87,176,Rodrigo De Paul,CM,2023-2024,29.0,Atlético Madrid,La Liga,Regista
+88,177,Alessandro Deiola,CM,2023-2024,27.0,Cagliari,Serie A,Classic CM
+89,178,Sacha Delaye,CM,2023-2024,21.0,Montpellier,Ligue 1,Classic CM
+90,179,Karamoko Dembélé,CM,2023-2024,20.0,Brest,Ligue 1,Classic CM
+91,180,Jessy Deminguet,CM,2023-2024,25.0,Strasbourg,Ligue 1,Classic CM
+92,183,Samuele Di Benedetto,CM,2023-2024,18.0,Stuttgart,Bundesliga,Classic CM
+93,185,Moussa Diakité,CM,2023-2024,19.0,Cádiz,La Liga,Classic CM
+94,186,Habib Diarra,CM,2023-2024,19.0,Strasbourg,Ligue 1,Regista
+95,187,Mahamadou Diawara,CM,2023-2024,18.0,Lyon,Ligue 1,Classic CM
+96,188,Edan Diop,CM,2023-2024,18.0,Monaco,Ligue 1,Classic CM
+97,189,Andy Diouf,CM,2023-2024,20.0,Lens,Ligue 1,Regista
+98,190,Nicolás Domínguez,CM,2023-2024,25.0,Nott'ham Forest,Premier League,Regista
+99,192,Carlos Dotor,CM,2023-2024,22.0,Celta Vigo,La Liga,Classic CM
+100,193,Cheick Doucouré,CM,2023-2024,23.0,Crystal Palace,Premier League,Classic CM
+101,195,Douglas,CM,2023-2024,26.0,Nantes,Ligue 1,Regista
+102,196,Ismaël Doukouré,CM,2023-2024,20.0,Strasbourg,Ligue 1,Regista
+103,199,Tommy Doyle,CM,2023-2024,21.0,Wolves,Premier League,Regista
+104,200,Ondrej Duda,CM,2023-2024,28.0,Hellas Verona,Serie A,Regista
+105,202,Simon Ebonog,CM,2023-2024,18.0,Le Havre,Ligue 1,Classic CM
+106,203,Éderson,CM,2023-2024,24.0,Atalanta,Serie A,Regista
+107,204,Maximilian Eggestein,CM,2023-2024,26.0,Freiburg,Bundesliga,Regista
+108,206,Harvey Elliott,CM,2023-2024,20.0,Liverpool,Premier League,Regista
+109,209,Wataru Endo,CM,2023-2024,30.0,Liverpool,Premier League,Regista
+110,210,Arne Engels,CM,2023-2024,19.0,Augsburg,Bundesliga,Classic CM
+111,211,Christian Eriksen,CM,2023-2024,31.0,Manchester Utd,Premier League,Regista
+112,212,Gonzalo Escalante,CM,2023-2024,30.0,Cádiz,La Liga,Classic CM
+113,215,Nicolò Fagioli,CM,2023-2024,22.0,Juventus,Serie A,Classic CM
+114,216,Romain Faivre,CM,2023-2024,25.0,Lyon,Ligue 1,Regista
+115,219,Jacopo Fazzini,CM,2023-2024,20.0,Empoli,Serie A,Classic CM
+116,223,Álex Fernández,CM,2023-2024,30.0,Cádiz,La Liga,Classic CM
+117,224,Enzo Fernández,CM,2023-2024,22.0,Chelsea,Premier League,Regista
+118,227,Andrea Ferraris,CM,2023-2024,20.0,Monza,Serie A,Classic CM
+119,229,John Fleck,CM,2023-2024,31.0,Sheffield Utd,Premier League,Classic CM
+120,230,Youssouf Fofana,CM,2023-2024,24.0,Monaco,Ligue 1,Regista
+121,231,Michael Folorunsho,CM,2023-2024,25.0,Hellas Verona,Serie A,Regista
+122,235,Bartol Franjić,CM,2023-2024,23.0,Darmstadt 98,Bundesliga,Classic CM
+123,236,Davide Frattesi,CM,2023-2024,23.0,Inter,Serie A,Classic CM
+124,237,Jean Frederic N'Guessan,CM,2023-2024,20.0,Metz,Ligue 1,Classic CM
+125,238,Morten Frendrup,CM,2023-2024,22.0,Genoa,Serie A,Mezzala
+126,239,Remo Freuler,CM,2023-2024,31.0,Bologna,Serie A,Mezzala
+127,241,Roberto Gagliardini,CM,2023-2024,29.0,Monza,Serie A,Mezzala
+128,243,Pablo Galdames Millán,CM,2023-2024,26.0,Genoa,Serie A,Classic CM
+129,244,Conor Gallagher,CM,2023-2024,23.0,Chelsea,Premier League,Mezzala
+130,246,Aleix García,CM,2023-2024,26.0,Girona,La Liga,Mezzala
+131,249,Johan Gastien,CM,2023-2024,35.0,Clermont Foot,Ligue 1,Mezzala
+132,250,Gavi,CM,2023-2024,18.0,Barcelona,La Liga,Classic CM
+133,252,Dennis Geiger,CM,2023-2024,25.0,Hoffenheim,Bundesliga,Classic CM
+134,253,Francesco Gelli,CM,2023-2024,26.0,Frosinone,Serie A,Mezzala
+135,254,Denis Genreau,CM,2023-2024,24.0,Toulouse,Ligue 1,Classic CM
+136,258,Gvidas Gineitis,CM,2023-2024,19.0,Torino,Serie A,Classic CM
+137,259,André Gomes,CM,2023-2024,30.0,Everton,Premier League,Classic CM
+138,261,João Gomes,CM,2023-2024,22.0,Wolves,Premier League,Mezzala
+139,262,Moi Gómez,CM,2023-2024,29.0,Osasuna,La Liga,Mezzala
+140,264,Maxime Gonalons,CM,2023-2024,34.0,Clermont Foot,Ligue 1,Mezzala
+141,265,Fabio González,CM,2023-2024,26.0,Las Palmas,La Liga,Classic CM
+142,266,Iñaki González,CM,2023-2024,19.0,Las Palmas,La Liga,Classic CM
+143,267,Joan Gonzàlez,CM,2023-2024,21.0,Lecce,Serie A,Classic CM
+144,268,Urko González,CM,2023-2024,22.0,Real Sociedad,La Liga,Classic CM
+145,269,Daniel Gore,CM,2023-2024,18.0,Manchester Utd,Premier League,Classic CM
+146,271,Mario Götze,CM,2023-2024,31.0,Eint Frankfurt,Bundesliga,Mezzala
+147,272,Pablo Gozalbez,CM,2023-2024,22.0,Valencia,La Liga,Classic CM
+148,273,Alberto Grassi,CM,2023-2024,28.0,Empoli,Serie A,Mezzala
+149,274,Ryan Gravenberch,CM,2023-2024,21.0,Liverpool,Premier League,Classic CM
+150,277,Pascal Groß,CM,2023-2024,32.0,Brighton,Premier League,Mezzala
+151,281,Mattéo Guendouzi,CM,2023-2024,24.0,Lazio,Serie A,Mezzala
+152,282,Javier Guerra,CM,2023-2024,20.0,Valencia,La Liga,Mezzala
+153,284,Pape Gueye,CM,2023-2024,24.0,Marseille,Ligue 1,Classic CM
+154,285,Hugo Guillamón,CM,2023-2024,23.0,Valencia,La Liga,Classic CM
+155,286,Bruno Guimarães,CM,2023-2024,25.0,Newcastle Utd,Premier League,Mezzala
+156,287,Gerard Gumbau,CM,2023-2024,28.0,Granada,La Liga,Mezzala
+157,288,İlkay Gündoğan,CM,2023-2024,32.0,Barcelona,La Liga,Mezzala
+158,290,Nicolas Haas,CM,2023-2024,27.0,Empoli,Serie A,Classic CM
+159,291,Janik Haberer,CM,2023-2024,29.0,Union Berlin,Bundesliga,Classic CM
+160,293,Amadou Haidara,CM,2023-2024,25.0,RB Leipzig,Bundesliga,Mezzala
+161,294,Gustavo Hamer,CM,2023-2024,26.0,Sheffield Utd,Premier League,Mezzala
+162,295,Genki Haraguchi,CM,2023-2024,32.0,Stuttgart,Bundesliga,Classic CM
+163,300,Liam Henderson,CM,2023-2024,27.0,Empoli,Serie A,Classic CM
+164,303,Yangel Herrera,CM,2023-2024,25.0,Girona,La Liga,Mezzala
+165,305,Nicolas Höfler,CM,2023-2024,33.0,Freiburg,Bundesliga,Mezzala
+166,307,Fabian Holland,CM,2023-2024,33.0,Darmstadt 98,Bundesliga,Mezzala
+167,308,Martin Hongla,CM,2023-2024,25.0,Granada,La Liga,Mezzala
+168,309,Pierre Højbjerg,CM,2023-2024,27.0,Tottenham,Premier League,Mezzala
+169,310,Will Hughes,CM,2023-2024,28.0,Crystal Palace,Premier League,Mezzala
+170,312,Pablo Ibáñez,CM,2023-2024,24.0,Osasuna,La Liga,Classic CM
+171,313,Ivan Ilić,CM,2023-2024,22.0,Torino,Serie A,Mezzala
+172,316,Tim Iroegbunam,CM,2023-2024,20.0,Aston Villa,Premier League,Classic CM
+173,317,Isco,CM,2023-2024,31.0,Betis,La Liga,Mezzala
+174,320,Filip Jagiełło,CM,2023-2024,25.0,Genoa,Serie A,Classic CM
+175,323,Vitaly Janelt,CM,2023-2024,25.0,Brentford,Premier League,Mezzala
+176,326,Danley Jean-Jacques,CM,2023-2024,23.0,Metz,Ligue 1,Mezzala
+177,327,Mathias Jensen,CM,2023-2024,27.0,Brentford,Premier League,Mezzala
+178,328,Joelinton,CM,2023-2024,26.0,Newcastle Utd,Premier League,Classic CM
+179,329,Curtis Jones,CM,2023-2024,22.0,Liverpool,Premier League,Mezzala
+180,330,Frenkie de Jong,CM,2023-2024,26.0,Barcelona,La Liga,Mezzala
+181,331,Joan Jordán,CM,2023-2024,29.0,Sevilla,La Liga,Classic CM
+182,333,Jorginho,CM,2023-2024,31.0,Arsenal,Premier League,Mezzala
+183,335,Hamed Junior Traorè,CM,2023-2024,23.0,Bournemouth,Premier League,Classic CM
+184,336,Mohamed Kaba,CM,2023-2024,21.0,Lecce,Serie A,Classic CM
+185,337,Yaya Kader Fofana,CM,2023-2024,19.0,Reims,Ligue 1,Classic CM
+186,340,Boubacar Kamara,CM,2023-2024,23.0,Aston Villa,Premier League,Mezzala
+187,341,Kevin Kampl,CM,2023-2024,32.0,RB Leipzig,Bundesliga,Mezzala
+188,346,Ibrahima Kebe,CM,2023-2024,22.0,Girona,La Liga,Classic CM
+189,347,Yassine Kechta,CM,2023-2024,21.0,Le Havre,Ligue 1,Mezzala
+190,348,Habib Keita,CM,2023-2024,21.0,Clermont Foot,Ligue 1,Mezzala
+191,349,Naby Keïta,CM,2023-2024,28.0,Werder Bremen,Bundesliga,Classic CM
+192,350,Thomas Keller,CM,2023-2024,23.0,Heidenheim,Bundesliga,Classic CM
+193,351,Aljoscha Kemlein,CM,2023-2024,18.0,Union Berlin,Bundesliga,Classic CM
+194,352,Tobias Kempe,CM,2023-2024,34.0,Darmstadt 98,Bundesliga,Classic CM
+195,353,Rani Khedira,CM,2023-2024,29.0,Union Berlin,Bundesliga,Classic CM
+196,355,Davy Klaassen,CM,2023-2024,30.0,Inter,Serie A,Classic CM
+197,362,Amadou Koné,CM,2023-2024,18.0,Reims,Ligue 1,Classic CM
+198,363,Manu Koné,CM,2023-2024,22.0,Gladbach,Bundesliga,Classic CM
+199,365,Rominigue Kouamé,CM,2023-2024,26.0,Cádiz,La Liga,Classic CM
+200,366,Cheikhou Kouyaté,CM,2023-2024,33.0,Nott'ham Forest,Premier League,Classic CM
+201,367,Mateo Kovačić,CM,2023-2024,29.0,Manchester City,Premier League,Classic CM
+202,369,Alex Král,CM,2023-2024,25.0,Union Berlin,Bundesliga,Classic CM
+203,371,Christoph Kramer,CM,2023-2024,32.0,Gladbach,Bundesliga,Classic CM
+204,372,Tom Krauß,CM,2023-2024,22.0,Mainz 05,Bundesliga,Classic CM
+205,373,Toni Kroos,CM,2023-2024,33.0,Real Madrid,La Liga,Classic CM
+206,374,Rade Krunić,CM,2023-2024,29.0,Milan,Serie A,Classic CM
+207,376,Daler Kuzyaev,CM,2023-2024,30.0,Le Havre,Ligue 1,Classic CM
+208,377,Luca de la Torre,CM,2023-2024,25.0,Celta Vigo,La Liga,Classic CM
+209,378,Aïssa Laïdouni,CM,2023-2024,26.0,Union Berlin,Bundesliga,Classic CM
+210,379,Adam Lallana,CM,2023-2024,35.0,Brighton,Premier League,Classic CM
+211,380,Hugo Larsson,CM,2023-2024,19.0,Eint Frankfurt,Bundesliga,Classic CM
+212,382,Enzo Le Fée,CM,2023-2024,23.0,Rennes,Ligue 1,Classic CM
+213,384,Thomas Lemar,CM,2023-2024,27.0,Atlético Madrid,La Liga,Classic CM
+214,385,Mario Lemina,CM,2023-2024,29.0,Wolves,Premier League,Classic CM
+215,386,Johann Lepenant,CM,2023-2024,20.0,Lyon,Ligue 1,Classic CM
+216,388,Léo Leroy,CM,2023-2024,23.0,Montpellier,Ligue 1,Classic CM
+217,389,Karol Linetty,CM,2023-2024,28.0,Torino,Serie A,Classic CM
+218,392,Marcos Llorente,CM,2023-2024,28.0,Atlético Madrid,La Liga,Classic CM
+219,394,Stanislav Lobotka,CM,2023-2024,28.0,Napoli,Serie A,Classic CM
+220,397,Enzo Loiodice,CM,2023-2024,22.0,Las Palmas,La Liga,Classic CM
+221,398,Sean Longstaff,CM,2023-2024,25.0,Newcastle Utd,Premier League,Classic CM
+222,400,Fermin López,CM,2023-2024,20.0,Barcelona,La Liga,Classic CM
+223,402,Unai López,CM,2023-2024,27.0,Rayo Vallecano,La Liga,Classic CM
+224,404,Anthony Losilla,CM,2023-2024,37.0,Bochum,Bundesliga,Classic CM
+225,405,Imran Louza,CM,2023-2024,24.0,Lorient,Ligue 1,Classic CM
+226,406,Sandi Lovrić,CM,2023-2024,25.0,Udinese,Serie A,Classic CM
+227,407,Douglas Luiz,CM,2023-2024,25.0,Aston Villa,Premier League,Classic CM
+228,410,Senne Lynen,CM,2023-2024,24.0,Werder Bremen,Bundesliga,Classic CM
+229,411,Mateusz Łęgowski,CM,2023-2024,20.0,Salernitana,Serie A,Classic CM
+230,412,Alexis Mac Allister,CM,2023-2024,24.0,Liverpool,Premier League,Classic CM
+231,415,Giulio Maggiore,CM,2023-2024,25.0,Salernitana,Serie A,Classic CM
+232,417,Yohann Magnin,CM,2023-2024,26.0,Clermont Foot,Ligue 1,Classic CM
+233,418,Arne Maier,CM,2023-2024,24.0,Augsburg,Bundesliga,Classic CM
+234,420,Kobbie Mainoo,CM,2023-2024,18.0,Manchester Utd,Premier League,Classic CM
+235,422,Jean-Victor Makengo,CM,2023-2024,25.0,Lorient,Ligue 1,Classic CM
+236,423,Antoine Makoumbou,CM,2023-2024,25.0,Cagliari,Serie A,Classic CM
+237,424,Nemanja Maksimović,CM,2023-2024,28.0,Getafe,La Liga,Classic CM
+238,426,Youssef Maleh,CM,2023-2024,24.0,2 Teams,Serie A,Classic CM
+239,427,Ruslan Malinovskyi,CM,2023-2024,30.0,Genoa,Serie A,Classic CM
+240,429,Hianga Mananga Mbock,CM,2023-2024,23.0,Brest,Ligue 1,Classic CM
+241,432,Orel Mangala,CM,2023-2024,25.0,Lyon,Ligue 1,Classic CM
+242,433,José Mari,CM,2023-2024,35.0,Cádiz,La Liga,Classic CM
+243,434,Răzvan Marin,CM,2023-2024,27.0,Empoli,Serie A,Classic CM
+244,438,Jonas Martin,CM,2023-2024,33.0,Brest,Ligue 1,Classic CM
+245,439,Mario Martín,CM,2023-2024,19.0,Real Madrid,La Liga,Classic CM
+246,440,Omar Mascarell,CM,2023-2024,30.0,Mallorca,La Liga,Classic CM
+247,441,Han-Noah Massengo,CM,2023-2024,22.0,Burnley,Premier League,Classic CM
+248,445,Alex Matos,CM,2023-2024,18.0,Chelsea,Premier League,Classic CM
+249,447,Azor Matusiwa,CM,2023-2024,25.0,2 Teams,Ligue 1,Classic CM
+250,450,Luca Mazzitelli,CM,2023-2024,27.0,Frosinone,Serie A,Classic CM
+251,451,Noah Mbamba,CM,2023-2024,18.0,Leverkusen,Bundesliga,Classic CM
+252,452,Ethan Mbappé,CM,2023-2024,16.0,Paris S-G,Ligue 1,Classic CM
+253,455,James McConnell,CM,2023-2024,18.0,Liverpool,Premier League,Classic CM
+254,457,Weston McKennie,CM,2023-2024,24.0,Juventus,Serie A,Classic CM
+255,459,Scott McTominay,CM,2023-2024,26.0,Manchester Utd,Premier League,Classic CM
+256,460,Marvin Mehlem,CM,2023-2024,25.0,Darmstadt 98,Bundesliga,Classic CM
+257,462,Óscar Melendo,CM,2023-2024,25.0,Granada,La Liga,Classic CM
+258,465,Tomás Mendes,CM,2023-2024,18.0,Alavés,La Liga,Classic CM
+259,466,Brais Méndez,CM,2023-2024,26.0,Real Sociedad,La Liga,Classic CM
+260,468,Nampalys Mendy,CM,2023-2024,31.0,Lens,Ligue 1,Classic CM
+261,469,Mikel Merino,CM,2023-2024,27.0,Real Sociedad,La Liga,Classic CM
+262,470,Junior Messias,CM,2023-2024,32.0,Genoa,Serie A,Classic CM
+263,471,Omenuke Mfulu,CM,2023-2024,29.0,Las Palmas,La Liga,Classic CM
+264,472,Lewis Miley,CM,2023-2024,17.0,Newcastle Utd,Premier League,Classic CM
+265,473,Luis Milla,CM,2023-2024,28.0,Getafe,La Liga,Classic CM
+266,476,Ignacio Miramon,CM,2023-2024,20.0,Lille,Ligue 1,Classic CM
+267,478,Fabio Miretti,CM,2023-2024,19.0,Juventus,Serie A,Classic CM
+268,479,Henrikh Mkhitaryan,CM,2023-2024,34.0,Inter,Serie A,Regista
+269,480,Jakub Moder,CM,2023-2024,24.0,Brighton,Premier League,Classic CM
+270,481,Luka Modrić,CM,2023-2024,37.0,Real Madrid,La Liga,Regista
+271,483,Jon Moncayola,CM,2023-2024,25.0,Osasuna,La Liga,Regista
+272,484,Ilaix Moriba,CM,2023-2024,20.0,Getafe,La Liga,Classic CM
+273,485,Manu Morlanes,CM,2023-2024,24.0,Mallorca,La Liga,Regista
+274,487,Mason Mount,CM,2023-2024,24.0,Manchester Utd,Premier League,Classic CM
+275,491,Marshall Munetsi,CM,2023-2024,27.0,Reims,Ligue 1,Classic CM
+276,493,Iker Muñoz,CM,2023-2024,20.0,Osasuna,La Liga,Regista
+277,494,Javier Muñoz,CM,2023-2024,28.0,Las Palmas,La Liga,Regista
+278,495,Yunus Musah,CM,2023-2024,20.0,Milan,Serie A,Regista
+279,498,Junior Mwanga,CM,2023-2024,20.0,Strasbourg,Ligue 1,Classic CM
+280,499,Kévin N'Doram,CM,2023-2024,27.0,Metz,Ligue 1,Classic CM
+281,500,Bilal Nadir,CM,2023-2024,19.0,Marseille,Ligue 1,Classic CM
+282,501,Marvelous Nakamba,CM,2023-2024,29.0,Luton Town,Premier League,Classic CM
+283,503,Michel Ndary Adopo,CM,2023-2024,23.0,Atalanta,Serie A,Classic CM
+284,504,Youssouf Ndayishimiye,CM,2023-2024,24.0,Nice,Ligue 1,Regista
+285,505,Rassoul Ndiaye,CM,2023-2024,21.0,Le Havre,Ligue 1,Classic CM
+286,508,Florian Neuhaus,CM,2023-2024,26.0,Gladbach,Bundesliga,Classic CM
+287,509,Hans Nicolussi Caviglia,CM,2023-2024,23.0,Juventus,Serie A,Classic CM
+288,510,Saúl Ñíguez,CM,2023-2024,28.0,Atlético Madrid,La Liga,Classic CM
+289,511,Felix Nmecha,CM,2023-2024,22.0,Dortmund,Bundesliga,Classic CM
+290,512,Oliver Norwood,CM,2023-2024,32.0,Sheffield Utd,Premier League,Regista
+291,513,Christian Nørgaard,CM,2023-2024,29.0,Brentford,Premier League,Regista
+292,514,Matheus Nunes,CM,2023-2024,24.0,2 Teams,Premier League,Classic CM
+293,516,Pedro Obiang,CM,2023-2024,31.0,Sassuolo,Serie A,Classic CM
+294,519,Olasagasti,CM,2023-2024,22.0,Real Sociedad,La Liga,Classic CM
+295,521,Mathias Olesen,CM,2023-2024,22.0,Köln,Bundesliga,Classic CM
+296,523,Amadou Onana,CM,2023-2024,21.0,Everton,Premier League,Regista
+297,524,Jean Onana,CM,2023-2024,23.0,Marseille,Ligue 1,Classic CM
+298,525,Tyler Onyango,CM,2023-2024,20.0,Everton,Premier League,Classic CM
+299,526,Frank Onyeka,CM,2023-2024,25.0,Brentford,Premier League,Classic CM
+300,527,Aimar Oroz,CM,2023-2024,21.0,Osasuna,La Liga,Regista
+301,528,Patrick Osterhage,CM,2023-2024,23.0,Bochum,Bundesliga,Regista
+302,529,Remi Oudin,CM,2023-2024,26.0,Lecce,Serie A,Regista
+303,530,Azzedine Ounahi,CM,2023-2024,23.0,Marseille,Ligue 1,Regista
+304,534,Simone Pafundi,CM,2023-2024,17.0,Udinese,Serie A,Classic CM
+305,535,Riccardo Pagano,CM,2023-2024,18.0,Roma,Serie A,Classic CM
+306,537,Exequiel Palacios,CM,2023-2024,24.0,Leverkusen,Bundesliga,Regista
+307,541,Leandro Paredes,CM,2023-2024,29.0,Roma,Serie A,Regista
+308,542,Daniel Parejo,CM,2023-2024,34.0,Villarreal,La Liga,Regista
+309,544,Mario Pašalić,CM,2023-2024,28.0,Atalanta,Serie A,Regista
+310,546,Martín Payero,CM,2023-2024,24.0,Udinese,Serie A,Classic CM
+311,547,Sydie Peck,CM,2023-2024,18.0,Sheffield Utd,Premier League,Classic CM
+312,548,Pedri,CM,2023-2024,20.0,Barcelona,La Liga,Regista
+313,549,Lorenzo Pellegrini,CM,2023-2024,27.0,Roma,Serie A,Regista
+314,557,Máximo Perrone,CM,2023-2024,20.0,Las Palmas,La Liga,Regista
+315,558,Matteo Pessina,CM,2023-2024,26.0,Monza,Serie A,Regista
+316,559,Njegoš Petrović,CM,2023-2024,24.0,Granada,La Liga,Classic CM
+317,563,Paul Pogba,CM,2023-2024,30.0,Juventus,Serie A,Classic CM
+318,564,Ole Pohlmann,CM,2023-2024,22.0,Dortmund,Bundesliga,Classic CM
+319,569,Matteo Prati,CM,2023-2024,19.0,Cagliari,Serie A,Classic CM
+320,570,Sanjin Prcić,CM,2023-2024,29.0,Strasbourg,Ligue 1,Classic CM
+321,571,Grischa Prömel,CM,2023-2024,28.0,Hoffenheim,Bundesliga,Regista
+322,572,Adrien Rabiot,CM,2023-2024,28.0,Juventus,Serie A,Regista
+323,575,Hamza Rafia,CM,2023-2024,24.0,Lecce,Serie A,Classic CM
+324,577,Ivan Rakitić,CM,2023-2024,35.0,Sevilla,La Liga,Regista
+325,578,Ylber Ramadani,CM,2023-2024,27.0,Lecce,Serie A,Regista
+326,579,Aaron Ramsey,CM,2023-2024,20.0,Burnley,Premier League,Classic CM
+327,580,Filippo Ranocchia,CM,2023-2024,22.0,Empoli,Serie A,Classic CM
+328,582,Tijjani Reijnders,CM,2023-2024,25.0,Milan,Serie A,Regista
+329,584,Rocco Reitz,CM,2023-2024,21.0,Gladbach,Bundesliga,Regista
+330,588,Declan Rice,CM,2023-2024,24.0,Arsenal,Premier League,Segundo Volante
+331,589,Amir Richardson,CM,2023-2024,21.0,Reims,Ligue 1,Segundo Volante
+332,592,Jaïro Riedewald,CM,2023-2024,26.0,Crystal Palace,Premier League,Classic CM
+333,599,Damián Rodríguez,CM,2023-2024,20.0,Celta Vigo,La Liga,Classic CM
+334,600,Dani Rodríguez,CM,2023-2024,35.0,Mallorca,La Liga,Segundo Volante
+335,601,Guido Rodríguez,CM,2023-2024,29.0,Betis,La Liga,Segundo Volante
+336,602,Kirian Rodríguez,CM,2023-2024,27.0,Las Palmas,La Liga,Segundo Volante
+337,607,Valentin Rongier,CM,2023-2024,28.0,Marseille,Ligue 1,Classic CM
+338,610,Pablo Rosario,CM,2023-2024,26.0,Nice,Ligue 1,Segundo Volante
+339,611,Joe Rothwell,CM,2023-2024,28.0,Bournemouth,Premier League,Classic CM
+340,612,Nicolò Rovella,CM,2023-2024,21.0,Lazio,Serie A,Segundo Volante
+341,613,Pelly Ruddock Mpanzu,CM,2023-2024,30.0,Luton Town,Premier League,Classic CM
+342,615,Fabián Ruiz Peña,CM,2023-2024,27.0,Paris S-G,Ligue 1,Segundo Volante
+343,616,Sergio Ruiz,CM,2023-2024,28.0,Granada,La Liga,Segundo Volante
+344,617,Marcel Sabitzer,CM,2023-2024,29.0,Dortmund,Bundesliga,Segundo Volante
+345,620,Lazar Samardzic,CM,2023-2024,21.0,Udinese,Serie A,Segundo Volante
+346,623,Fede San Emeterio,CM,2023-2024,26.0,Cádiz,La Liga,Classic CM
+347,625,Renato Sanches,CM,2023-2024,25.0,Roma,Serie A,Classic CM
+348,626,Antonio Sánchez,CM,2023-2024,26.0,Mallorca,La Liga,Classic CM
+349,628,Morgan Sanson,CM,2023-2024,28.0,Nice,Ligue 1,Segundo Volante
+350,629,Baptiste Santamaria,CM,2023-2024,28.0,Rennes,Ligue 1,Segundo Volante
+351,630,Jesús Santiago,CM,2023-2024,19.0,Getafe,La Liga,Classic CM
+352,631,Andrey Santos,CM,2023-2024,19.0,Strasbourg,Ligue 1,Classic CM
+353,633,Téji Savanier,CM,2023-2024,31.0,Montpellier,Ligue 1,Segundo Volante
+354,634,András Schäfer,CM,2023-2024,24.0,Union Berlin,Bundesliga,Classic CM
+355,635,Xaver Schlager,CM,2023-2024,25.0,RB Leipzig,Bundesliga,Segundo Volante
+356,636,Romano Schmid,CM,2023-2024,23.0,Werder Bremen,Bundesliga,Segundo Volante
+357,637,Niklas Schmidt,CM,2023-2024,25.0,Toulouse,Ligue 1,Segundo Volante
+358,638,Fabian Schnellhardt,CM,2023-2024,29.0,Darmstadt 98,Bundesliga,Classic CM
+359,643,Stefano Sensi,CM,2023-2024,27.0,Inter,Serie A,Classic CM
+360,646,Vincent Sierro,CM,2023-2024,27.0,Toulouse,Ligue 1,Segundo Volante
+361,648,Ayanda Sishuba,CM,2023-2024,18.0,Lens,Ligue 1,Classic CM
+362,649,Ibrahima Sissoko,CM,2023-2024,25.0,Strasbourg,Ligue 1,Segundo Volante
+363,650,Moussa Sissoko,CM,2023-2024,33.0,Nantes,Ligue 1,Classic CM
+364,651,Ellyes Skhiri,CM,2023-2024,28.0,Eint Frankfurt,Bundesliga,Segundo Volante
+365,652,Oliver Skipp,CM,2023-2024,22.0,Tottenham,Premier League,Classic CM
+366,656,Carlos Soler,CM,2023-2024,26.0,Paris S-G,Ligue 1,Segundo Volante
+367,659,Hugo Sotelo,CM,2023-2024,19.0,Celta Vigo,La Liga,Segundo Volante
+368,662,Boubakary Soumaré,CM,2023-2024,24.0,Sevilla,La Liga,Segundo Volante
+369,663,Djibril Sow,CM,2023-2024,26.0,Sevilla,La Liga,Segundo Volante
+370,664,Stijn Spierings,CM,2023-2024,27.0,2 Teams,Ligue 1,Segundo Volante
+371,665,Anton Stach,CM,2023-2024,24.0,2 Teams,Bundesliga,Segundo Volante
+372,666,Jens Stage,CM,2023-2024,26.0,Werder Bremen,Bundesliga,Segundo Volante
+373,669,Kevin Stöger,CM,2023-2024,29.0,Bochum,Bundesliga,Segundo Volante
+374,670,Kevin Strootman,CM,2023-2024,33.0,Genoa,Serie A,Segundo Volante
+375,671,Denis Suárez,CM,2023-2024,29.0,Villarreal,La Liga,Classic CM
+376,672,Ibrahim Sulemana,CM,2023-2024,20.0,Cagliari,Serie A,Classic CM
+377,675,Mattias Svanberg,CM,2023-2024,24.0,Wolfsburg,Bundesliga,Segundo Volante
+378,676,Dominik Szoboszlai,CM,2023-2024,22.0,Liverpool,Premier League,Segundo Volante
+379,677,Renato Tapia,CM,2023-2024,28.0,Celta Vigo,La Liga,Segundo Volante
+380,680,Ramón Terrats,CM,2023-2024,22.0,Villarreal,La Liga,Classic CM
+381,685,Morten Thorsby,CM,2023-2024,27.0,Genoa,Serie A,Classic CM
+382,687,Khéphren Thuram,CM,2023-2024,22.0,Nice,Ligue 1,Segundo Volante
+383,688,Youri Tielemans,CM,2023-2024,26.0,Aston Villa,Premier League,Segundo Volante
+384,689,Umut Tohumcu,CM,2023-2024,18.0,Hoffenheim,Bundesliga,Classic CM
+385,690,Corentin Tolisso,CM,2023-2024,28.0,Lyon,Ligue 1,Segundo Volante
+386,692,Pablo Torre,CM,2023-2024,20.0,Girona,La Liga,Classic CM
+387,694,Lucas Torró,CM,2023-2024,29.0,Osasuna,La Liga,Segundo Volante
+388,695,Abdoulaye Touré,CM,2023-2024,29.0,Le Havre,Ligue 1,Segundo Volante
+389,696,Lucas Tousart,CM,2023-2024,26.0,Union Berlin,Bundesliga,Classic CM
+390,697,Andros Townsend,CM,2023-2024,32.0,Luton Town,Premier League,Classic CM
+391,699,Boubacar Traoré,CM,2023-2024,21.0,Wolves,Premier League,Classic CM
+392,702,Beñat Turrientes,CM,2023-2024,21.0,Real Sociedad,La Liga,Segundo Volante
+393,704,Lesley Ugochukwu,CM,2023-2024,19.0,Chelsea,Premier League,Classic CM
+394,706,Óscar Valentín,CM,2023-2024,28.0,Rayo Vallecano,La Liga,Segundo Volante
+395,707,Federico Valverde,CM,2023-2024,25.0,Real Madrid,La Liga,Box-to-Box
+396,709,José Luis García Vayá,CM,2023-2024,24.0,Valencia,La Liga,Classic CM
+397,710,Matías Vecino,CM,2023-2024,31.0,Lazio,Serie A,Classic CM
+398,711,Jordan Veretout,CM,2023-2024,30.0,Marseille,Ligue 1,Classic CM
+399,714,Fabio Vieira,CM,2023-2024,23.0,Arsenal,Premier League,Classic CM
+400,717,Gonzalo Villar,CM,2023-2024,25.0,Granada,La Liga,Classic CM
+401,719,Vitinha,CM,2023-2024,23.0,Paris S-G,Ligue 1,Classic CM
+402,721,Aster Vranckx,CM,2023-2024,20.0,Wolfsburg,Bundesliga,Classic CM
+403,722,Walace,CM,2023-2024,28.0,Udinese,Serie A,Classic CM
+404,724,James Ward-Prowse,CM,2023-2024,28.0,West Ham,Premier League,Classic CM
+405,728,Joe White,CM,2023-2024,20.0,Newcastle Utd,Premier League,Classic CM
+406,729,Joe Willock,CM,2023-2024,23.0,Newcastle Utd,Premier League,Classic CM
+407,733,Yehor Yarmoliuk,CM,2023-2024,19.0,Brentford,Premier League,Classic CM
+408,736,Warren Zaïre-Emery,CM,2023-2024,17.0,Paris S-G,Ligue 1,Classic CM
+409,737,Denis Zakaria,CM,2023-2024,26.0,Monaco,Ligue 1,Classic CM
+410,738,Arsen Zakharyan,CM,2023-2024,20.0,Real Sociedad,La Liga,Classic CM
+411,741,Oier Zarraga,CM,2023-2024,24.0,Udinese,Serie A,Classic CM
+412,742,Piotr Zieliński,CM,2023-2024,29.0,Napoli,Serie A,Classic CM
+413,743,Martín Zubimendi,CM,2023-2024,24.0,Real Sociedad,La Liga,Classic CM
+414,6,Yacine Adli,DM,2023-2024,23.0,Milan,Serie A,Deep Lying Playmaker
+415,7,Michel Aebischer,DM,2023-2024,26.0,Bologna,Serie A,Deep Lying Playmaker
+416,15,Paul Akouokou,DM,2023-2024,25.0,Lyon,Ligue 1,Deep Lying Playmaker
+417,16,Jean-Daniel Akpa-Akpro,DM,2023-2024,30.0,Monza,Serie A,Deep Lying Playmaker
+418,27,Sergi Altimira,DM,2023-2024,21.0,Betis,La Liga,Deep Lying Playmaker
+419,28,Edson Álvarez,DM,2023-2024,25.0,West Ham,Premier League,Deep Lying Playmaker
+420,33,Kofi Amoako,DM,2023-2024,18.0,Wolfsburg,Bundesliga,Deep Lying Playmaker
+421,47,Oussama El Azzouzi,DM,2023-2024,22.0,Bologna,Serie A,Deep Lying Playmaker
+422,49,Iddrisu Baba,DM,2023-2024,27.0,Almería,La Liga,Deep Lying Playmaker
+423,56,Carlos Baleba,DM,2023-2024,19.0,Brighton,Premier League,Deep Lying Playmaker
+424,63,Aymen Barkok,DM,2023-2024,25.0,Mainz 05,Bundesliga,Deep Lying Playmaker
+425,77,Carlos Benavídez,DM,2023-2024,25.0,Alavés,La Liga,Deep Lying Playmaker
+426,78,Ismaël Bennacer,DM,2023-2024,25.0,Milan,Serie A,Deep Lying Playmaker
+427,79,Nabil Bentaleb,DM,2023-2024,28.0,Lille,Ligue 1,Deep Lying Playmaker
+428,80,Rodrigo Bentancur,DM,2023-2024,26.0,Tottenham,Premier League,Deep Lying Playmaker
+429,89,Antonio Blanco,DM,2023-2024,23.0,Alavés,La Liga,Deep Lying Playmaker
+430,92,Daniel Boloca,DM,2023-2024,24.0,Sassuolo,Serie A,Deep Lying Playmaker
+431,95,Ayyoub Bouaddi,DM,2023-2024,15.0,Lille,Ligue 1,Deep Lying Playmaker
+432,98,Mehdi Bourabia,DM,2023-2024,31.0,Frosinone,Serie A,Deep Lying Playmaker
+433,102,Darko Brašanac,DM,2023-2024,31.0,Osasuna,La Liga,Deep Lying Playmaker
+434,103,Tim Breithaupt,DM,2023-2024,21.0,Augsburg,Bundesliga,Deep Lying Playmaker
+435,111,Moisés Caicedo,DM,2023-2024,21.0,Chelsea,Premier League,Deep Lying Playmaker
+436,112,Tom Cairney,DM,2023-2024,32.0,Fulham,Premier League,Deep Lying Playmaker
+437,119,Eduardo Camavinga,DM,2023-2024,20.0,Real Madrid,La Liga,Anchor Man
+438,121,Emre Can,DM,2023-2024,29.0,Dortmund,Bundesliga,Anchor Man
+439,129,Johnny Cardoso,DM,2023-2024,21.0,Betis,La Liga,Deep Lying Playmaker
+440,131,William Carvalho,DM,2023-2024,31.0,Betis,La Liga,Deep Lying Playmaker
+441,133,Casemiro,DM,2023-2024,31.0,Manchester Utd,Premier League,Anchor Man
+442,145,Joris Chotard,DM,2023-2024,21.0,Montpellier,Ligue 1,Anchor Man
+443,146,Jacob Christensen,DM,2023-2024,22.0,Köln,Bundesliga,Deep Lying Playmaker
+444,147,Ryan Christie,DM,2023-2024,28.0,Bournemouth,Premier League,Anchor Man
+445,159,Francis Coquelin,DM,2023-2024,32.0,Villarreal,La Liga,Deep Lying Playmaker
+446,162,Samu Costa,DM,2023-2024,22.0,Mallorca,La Liga,Anchor Man
+447,167,Bryan Cristante,DM,2023-2024,28.0,Roma,Serie A,Anchor Man
+448,171,Danilo,DM,2023-2024,22.0,Nott'ham Forest,Premier League,Anchor Man
+449,181,Diego Demme,DM,2023-2024,31.0,Napoli,Serie A,Deep Lying Playmaker
+450,182,Leander Dendoncker,DM,2023-2024,28.0,Aston Villa,Premier League,Deep Lying Playmaker
+451,191,Niklas Dorsch,DM,2023-2024,25.0,Augsburg,Bundesliga,Deep Lying Playmaker
+452,201,Alfred Duncan,DM,2023-2024,30.0,Fiorentina,Serie A,Anchor Man
+453,205,Lilian Egloff,DM,2023-2024,20.0,Stuttgart,Bundesliga,Deep Lying Playmaker
+454,207,Mohamed Elneny,DM,2023-2024,31.0,Arsenal,Premier League,Deep Lying Playmaker
+455,226,Fernando,DM,2023-2024,36.0,Sevilla,La Liga,Deep Lying Playmaker
+456,228,Jordan Ferri,DM,2023-2024,31.0,Montpellier,Ligue 1,Anchor Man
+457,242,Iñigo Ruiz de Galarreta,DM,2023-2024,29.0,Athletic Club,La Liga,Deep Lying Playmaker
+458,245,Idrissa Gana Gueye,DM,2023-2024,33.0,Everton,Premier League,Deep Lying Playmaker
+459,247,Dani García,DM,2023-2024,33.0,Athletic Club,La Liga,Deep Lying Playmaker
+460,248,James Garner,DM,2023-2024,22.0,Everton,Premier League,Deep Lying Playmaker
+461,257,Billy Gilmour,DM,2023-2024,22.0,Brighton,Premier League,Deep Lying Playmaker
+462,270,Leon Goretzka,DM,2023-2024,28.0,Bayern Munich,Bundesliga,Deep Lying Playmaker
+463,279,Ilia Gruev,DM,2023-2024,23.0,Werder Bremen,Bundesliga,Deep Lying Playmaker
+464,280,Andrés Guardado,DM,2023-2024,36.0,Betis,La Liga,Deep Lying Playmaker
+465,283,Ander Guevara,DM,2023-2024,26.0,Alavés,La Liga,Deep Lying Playmaker
+466,301,Matheus Henrique,DM,2023-2024,25.0,Sassuolo,Serie A,Deep Lying Playmaker
+467,302,Ander Herrera,DM,2023-2024,33.0,Athletic Club,La Liga,Deep Lying Playmaker
+468,311,Denis Huseinbasic,DM,2023-2024,22.0,Köln,Bundesliga,Deep Lying Playmaker
+469,315,Bonke Innocent,DM,2023-2024,27.0,Lorient,Ligue 1,Deep Lying Playmaker
+470,321,Kristijan Jakić,DM,2023-2024,26.0,2 Teams,Bundesliga,Deep Lying Playmaker
+471,324,Jakub Jankto,DM,2023-2024,27.0,Cagliari,Serie A,Deep Lying Playmaker
+472,343,Atakan Karazor,DM,2023-2024,26.0,Stuttgart,Bundesliga,Deep Lying Playmaker
+473,354,Joshua Kimmich,DM,2023-2024,28.0,Bayern Munich,Bundesliga,Ball Winning Midfielder
+474,358,Koke,DM,2023-2024,31.0,Atlético Madrid,La Liga,Ball Winning Midfielder
+475,361,Geoffrey Kondogbia,DM,2023-2024,30.0,Marseille,Ligue 1,Ball Winning Midfielder
+476,368,Viktor Kovalenko,DM,2023-2024,27.0,Empoli,Serie A,Deep Lying Playmaker
+477,375,Berkan Kutlu,DM,2023-2024,25.0,Genoa,Serie A,Deep Lying Playmaker
+478,381,Roméo Lavia,DM,2023-2024,19.0,Chelsea,Premier League,Deep Lying Playmaker
+479,383,Pierre Lees-Melou,DM,2023-2024,30.0,Brest,Ligue 1,Ball Winning Midfielder
+480,387,Jefferson Lerma,DM,2023-2024,28.0,Crystal Palace,Premier League,Ball Winning Midfielder
+481,390,Luca Lipani,DM,2023-2024,18.0,Sassuolo,Serie A,Deep Lying Playmaker
+482,391,Dejan Ljubicic,DM,2023-2024,25.0,Köln,Bundesliga,Ball Winning Midfielder
+483,395,Manuel Locatelli,DM,2023-2024,25.0,Juventus,Serie A,Ball Winning Midfielder
+484,401,Maxime Lopez,DM,2023-2024,25.0,2 Teams,Serie A,Ball Winning Midfielder
+485,403,Dion Lopy,DM,2023-2024,21.0,Almería,La Liga,Ball Winning Midfielder
+486,408,Saša Lukić,DM,2023-2024,26.0,Fulham,Premier League,Deep Lying Playmaker
+487,409,Karlo Lulić,DM,2023-2024,27.0,Frosinone,Serie A,Deep Lying Playmaker
+488,416,Hugo Magnetti,DM,2023-2024,25.0,Brest,Ligue 1,Ball Winning Midfielder
+489,419,Habib Maïga,DM,2023-2024,27.0,Metz,Ligue 1,Deep Lying Playmaker
+490,428,Lennard Maloney,DM,2023-2024,23.0,Heidenheim,Bundesliga,Ball Winning Midfielder
+491,431,Rolando Mandragora,DM,2023-2024,26.0,Fiorentina,Serie A,Ball Winning Midfielder
+492,435,Agustín Martegani,DM,2023-2024,23.0,Salernitana,Serie A,Deep Lying Playmaker
+493,436,Eric Martel,DM,2023-2024,21.0,Köln,Bundesliga,Ball Winning Midfielder
+494,442,Pape Matar Sarr,DM,2023-2024,20.0,Tottenham,Premier League,Ball Winning Midfielder
+495,443,Eliot Matazo,DM,2023-2024,21.0,Monaco,Ligue 1,Deep Lying Playmaker
+496,444,Nemanja Matić,DM,2023-2024,34.0,2 Teams,Ligue 1,Ball Winning Midfielder
+497,453,Nolan Mbemba,DM,2023-2024,28.0,Le Havre,Ligue 1,Deep Lying Playmaker
+498,464,Arthur Melo,DM,2023-2024,26.0,Fiorentina,Serie A,Ball Winning Midfielder
+499,467,Diego Méndez,DM,2023-2024,19.0,Rayo Vallecano,La Liga,Deep Lying Playmaker
+500,486,Nikola Moro,DM,2023-2024,25.0,Bologna,Serie A,Deep Lying Playmaker
+501,488,Samuel Moutoussamy,DM,2023-2024,26.0,Nantes,Ligue 1,Deep Lying Playmaker
+502,506,Cher Ndour,DM,2023-2024,19.0,Paris S-G,Ligue 1,Deep Lying Playmaker
+503,507,Joseph Nduquidi,DM,2023-2024,18.0,Metz,Ligue 1,Deep Lying Playmaker
+504,515,Rabby Nzingoula,DM,2023-2024,17.0,Strasbourg,Ligue 1,Deep Lying Playmaker
+505,531,Salih Özcan,DM,2023-2024,25.0,Dortmund,Bundesliga,Deep Lying Playmaker
+506,532,David Ozoh,DM,2023-2024,18.0,Crystal Palace,Premier League,Deep Lying Playmaker
+507,539,João Palhinha,DM,2023-2024,28.0,Fulham,Premier League,Anchor Man
+508,540,Merveille Papela,DM,2023-2024,22.0,Mainz 05,Bundesliga,Deep Lying Playmaker
+509,543,Thomas Partey,DM,2023-2024,30.0,Arsenal,Premier League,Deep Lying Playmaker
+510,545,Aleksandar Pavlovic,DM,2023-2024,19.0,Bayern Munich,Bundesliga,Anchor Man
+511,550,Marcos Peña,DM,2023-2024,18.0,Almería,La Liga,Deep Lying Playmaker
+512,561,Kalvin Phillips,DM,2023-2024,27.0,2 Teams,Premier League,Deep Lying Playmaker
+513,568,Beñat Prados,DM,2023-2024,22.0,Athletic Club,La Liga,Deep Lying Playmaker
+514,573,Uroš Račić,DM,2023-2024,25.0,Sassuolo,Serie A,Deep Lying Playmaker
+515,581,Harrison Reed,DM,2023-2024,28.0,Fulham,Premier League,Deep Lying Playmaker
+516,586,Elvis Rexhbeçaj,DM,2023-2024,25.0,Augsburg,Bundesliga,Deep Lying Playmaker
+517,587,Samuele Ricci,DM,2023-2024,21.0,Torino,Serie A,Deep Lying Playmaker
+518,594,Lucas Robertone,DM,2023-2024,26.0,Almería,La Liga,Deep Lying Playmaker
+519,595,Marc Roca,DM,2023-2024,26.0,Betis,La Liga,Deep Lying Playmaker
+520,596,Sebastian Rode,DM,2023-2024,32.0,Eint Frankfurt,Bundesliga,Deep Lying Playmaker
+521,597,Rodri,DM,2023-2024,27.0,Manchester City,Premier League,Deep Lying Playmaker
+522,606,Oriol Romeu,DM,2023-2024,31.0,Barcelona,La Liga,Deep Lying Playmaker
+523,608,Marten de Roon,DM,2023-2024,32.0,Atalanta,Serie A,Deep Lying Playmaker
+524,614,Fabian Rüdlin,DM,2023-2024,26.0,Freiburg,Bundesliga,Deep Lying Playmaker
+525,622,Albert Sambi Lokonga,DM,2023-2024,23.0,Luton Town,Premier League,Deep Lying Playmaker
+526,627,Ibrahim Sangaré,DM,2023-2024,25.0,Nott'ham Forest,Premier League,Deep Lying Playmaker
+527,639,Jan Schöppner,DM,2023-2024,24.0,Heidenheim,Bundesliga,Deep Lying Playmaker
+528,640,Alex Scott,DM,2023-2024,19.0,Bournemouth,Premier League,Deep Lying Playmaker
+529,642,Nicolas Seiwald,DM,2023-2024,22.0,RB Leipzig,Bundesliga,Deep Lying Playmaker
+530,644,Suat Serdar,DM,2023-2024,26.0,Hellas Verona,Serie A,Deep Lying Playmaker
+531,657,Jhon Solis,DM,2023-2024,18.0,Girona,La Liga,Deep Lying Playmaker
+532,661,Tomáš Souček,DM,2023-2024,28.0,West Ham,Premier League,Deep Lying Playmaker
+533,667,Benjamin Stambouli,DM,2023-2024,32.0,Reims,Ligue 1,Deep Lying Playmaker
+534,668,Angelo Stiller,DM,2023-2024,22.0,2 Teams,Bundesliga,Deep Lying Playmaker
+535,678,Oussama Targhalline,DM,2023-2024,21.0,Le Havre,Ligue 1,Deep Lying Playmaker
+536,679,Aurélien Tchouaméni,DM,2023-2024,23.0,Real Madrid,La Liga,Deep Lying Playmaker
+537,682,Norman Theuerkauf,DM,2023-2024,36.0,Heidenheim,Bundesliga,Deep Lying Playmaker
+538,691,Sandro Tonali,DM,2023-2024,23.0,Newcastle Utd,Premier League,Deep Lying Playmaker
+539,703,Manuel Ugarte Ribeiro,DM,2023-2024,22.0,Paris S-G,Ligue 1,Deep Lying Playmaker
+540,712,Arthur Vermeeren,DM,2023-2024,18.0,Atlético Madrid,La Liga,Deep Lying Playmaker
+541,713,Mikel Vesga,DM,2023-2024,30.0,Athletic Club,La Liga,Deep Lying Playmaker
+542,725,Kjell-Arik Wätjen,DM,2023-2024,17.0,Dortmund,Bundesliga,Deep Lying Playmaker
+543,726,Julian Weigl,DM,2023-2024,27.0,Gladbach,Bundesliga,Deep Lying Playmaker
+544,727,Adam Wharton,DM,2023-2024,19.0,Crystal Palace,Premier League,Deep Lying Playmaker
+545,732,Granit Xhaka,DM,2023-2024,30.0,Leverkusen,Bundesliga,Deep Lying Playmaker
+546,734,Ryan Yates,DM,2023-2024,25.0,Nott'ham Forest,Premier League,Deep Lying Playmaker
+547,739,Andre-Frank Zambo Anguissa,DM,2023-2024,27.0,Napoli,Serie A,Deep Lying Playmaker
+548,5,Amine Adli,AM,2023-2024,23.0,Leverkusen,Bundesliga,Attacking Midfielder
+549,11,Tosin Aiyegun,AM,2023-2024,25.0,Lorient,Ligue 1,Attacking Midfielder
+550,14,Maghnes Akliouche,AM,2023-2024,21.0,Monaco,Ligue 1,Attacking Midfielder
+551,17,Luis Alberto,AM,2023-2024,30.0,Lazio,Serie A,Attacking Midfielder
+552,24,Nabil Alioui,AM,2023-2024,24.0,Le Havre,Ligue 1,Attacking Midfielder
+553,26,Jim Allevinah,AM,2023-2024,28.0,Clermont Foot,Ligue 1,Attacking Midfielder
+554,42,Sergio Arribas,AM,2023-2024,21.0,Almería,La Liga,Attacking Midfielder
+555,48,Abdellah Baallal,AM,2023-2024,18.0,Clermont Foot,Ligue 1,Attacking Midfielder
+556,53,Nedim Bajrami,AM,2023-2024,24.0,Sassuolo,Serie A,Attacking Midfielder
+557,55,Tommaso Baldanzi,AM,2023-2024,20.0,2 Teams,Serie A,Attacking Midfielder
+558,60,Antonín Barák,AM,2023-2024,28.0,Fiorentina,Serie A,Attacking Midfielder
+559,69,Christoph Baumgartner,AM,2023-2024,23.0,RB Leipzig,Bundesliga,Attacking Midfielder
+560,70,Adrian Beck,AM,2023-2024,26.0,Heidenheim,Bundesliga,Attacking Midfielder
+561,86,Tom Bischof,AM,2023-2024,18.0,Hoffenheim,Bundesliga,Attacking Midfielder
+562,96,Badredine Bouanani,AM,2023-2024,18.0,Lorient,Ligue 1,Attacking Midfielder
+563,101,Julian Brandt,AM,2023-2024,27.0,Dortmund,Bundesliga,Attacking Midfielder
+564,104,Brenner,AM,2023-2024,23.0,Udinese,Serie A,Attacking Midfielder
+565,107,Jacob Brown,AM,2023-2024,25.0,Luton Town,Premier League,Attacking Midfielder
+566,117,Mahdi Camara,AM,2023-2024,25.0,Brest,Ligue 1,Attacking Midfielder
+567,122,Antonio Candreva,AM,2023-2024,36.0,Salernitana,Serie A,Attacking Midfielder
+568,126,Gianluca Caprari,AM,2023-2024,30.0,Monza,Serie A,Attacking Midfielder
+569,128,Valentin Carboni,AM,2023-2024,18.0,Monza,Serie A,Attacking Midfielder
+570,130,Fabio Carvalho,AM,2023-2024,20.0,RB Leipzig,Bundesliga,Attacking Midfielder
+571,138,Muhammed Cham,AM,2023-2024,22.0,Clermont Foot,Ligue 1,Attacking Midfielder
+572,141,Rayan Cherki,AM,2023-2024,19.0,Lyon,Ligue 1,Attacking Midfielder
+573,142,Tawanda Chirewa,AM,2023-2024,19.0,Wolves,Premier League,Attacking Midfielder
+574,144,Tahith Chong,AM,2023-2024,23.0,Luton Town,Premier League,Attacking Midfielder
+575,152,Jordan Clark,AM,2023-2024,29.0,Luton Town,Premier League,Attacking Midfielder
+576,153,Alexis Claude-Maurice,AM,2023-2024,25.0,Nice,Ligue 1,Attacking Midfielder
+577,155,Andrea Colpani,AM,2023-2024,24.0,Monza,Serie A,Attacking Midfielder
+578,161,David Pereira da Costa,AM,2023-2024,22.0,Lens,Ligue 1,Attacking Midfielder
+579,164,Mamadou Coulibaly,AM,2023-2024,19.0,Monaco,Ligue 1,Attacking Midfielder
+580,165,Philippe Coutinho,AM,2023-2024,31.0,Aston Villa,Premier League,Attacking Midfielder
+581,173,Lukas Daschner,AM,2023-2024,24.0,Bochum,Bundesliga,Attacking Midfielder
+582,175,Kevin De Bruyne,AM,2023-2024,32.0,Manchester City,Premier League,Attacking Midfielder
+583,184,Lamine Diack,AM,2023-2024,22.0,Nantes,Ligue 1,Attacking Midfielder
+584,197,Kamory Doumbia,AM,2023-2024,20.0,2 Teams,Ligue 1,Attacking Midfielder
+585,198,Nikola Dovedan,AM,2023-2024,29.0,Heidenheim,Bundesliga,Attacking Midfielder
+586,208,Julio Enciso,AM,2023-2024,19.0,Brighton,Premier League,Attacking Midfielder
+587,213,Eberechi Eze,AM,2023-2024,25.0,Crystal Palace,Premier League,Attacking Midfielder
+588,214,Giovanni Fabbian,AM,2023-2024,20.0,Bologna,Serie A,Attacking Midfielder
+589,217,Ilhan Fakili,AM,2023-2024,17.0,Clermont Foot,Ligue 1,Attacking Midfielder
+590,220,Nabil Fekir,AM,2023-2024,30.0,Betis,La Liga,Attacking Midfielder
+591,221,Lewis Ferguson,AM,2023-2024,23.0,Bologna,Serie A,Attacking Midfielder
+592,222,Bruno Fernandes,AM,2023-2024,28.0,Manchester Utd,Premier League,Attacking Midfielder
+593,232,Pablo Fornals,AM,2023-2024,27.0,Real Betis,La Liga,Attacking Midfielder
+594,234,Philipp Förster,AM,2023-2024,28.0,Bochum,Bundesliga,Attacking Midfielder
+595,240,Angelo Fulgini,AM,2023-2024,26.0,Lens,Ligue 1,Advanced Playmaker
+596,251,Yann Gboho,AM,2023-2024,22.0,Toulouse,Ligue 1,Attacking Midfielder
+597,255,Yannick Gerhardt,AM,2023-2024,29.0,Wolfsburg,Bundesliga,Advanced Playmaker
+598,256,Morgan Gibbs-White,AM,2023-2024,23.0,Nott'ham Forest,Premier League,Advanced Playmaker
+599,260,Angel Gomes,AM,2023-2024,22.0,Lille,Ligue 1,Advanced Playmaker
+600,263,Unai Gómez,AM,2023-2024,20.0,Athletic Club,La Liga,Attacking Midfielder
+601,278,Brajan Gruda,AM,2023-2024,19.0,Mainz 05,Bundesliga,Advanced Playmaker
+602,289,Jon Guridi,AM,2023-2024,28.0,Alavés,La Liga,Advanced Playmaker
+603,292,Ianis Hagi,AM,2023-2024,24.0,Alavés,La Liga,Attacking Midfielder
+604,296,Amine Harit,AM,2023-2024,26.0,Marseille,Ligue 1,Advanced Playmaker
+605,297,Luke Harris,AM,2023-2024,18.0,Fulham,Premier League,Attacking Midfielder
+606,299,Abdou Harroui,AM,2023-2024,25.0,Frosinone,Serie A,Attacking Midfielder
+607,304,Adam Hložek,AM,2023-2024,21.0,Leverkusen,Bundesliga,Attacking Midfielder
+608,306,Jonas Hofmann,AM,2023-2024,31.0,Leverkusen,Bundesliga,Advanced Playmaker
+609,319,Lee Jae-sung,AM,2023-2024,30.0,Mainz 05,Bundesliga,Advanced Playmaker
+610,325,Mikel Jauregizar,AM,2023-2024,19.0,Athletic Club,La Liga,Attacking Midfielder
+611,338,Florian Kainz,AM,2023-2024,30.0,Köln,Bundesliga,Advanced Playmaker
+612,339,Daichi Kamada,AM,2023-2024,26.0,Lazio,Serie A,Advanced Playmaker
+613,344,Ayman Kari,AM,2023-2024,18.0,Lorient,Ligue 1,Attacking Midfielder
+614,345,Grigoris Kastanos,AM,2023-2024,25.0,Salernitana,Serie A,Advanced Playmaker
+615,356,Justin Kluivert,AM,2023-2024,24.0,Bournemouth,Premier League,Attacking Midfielder
+616,357,Ansgar Knauff,AM,2023-2024,21.0,Eint Frankfurt,Bundesliga,Attacking Midfielder
+617,360,Mert Kömür,AM,2023-2024,18.0,Augsburg,Bundesliga,Attacking Midfielder
+618,364,Teun Koopmeiners,AM,2023-2024,25.0,Atalanta,Serie A,Attacking Midfielder
+619,370,Andrej Kramarić,AM,2023-2024,32.0,Hoffenheim,Bundesliga,Attacking Midfielder
+620,393,Giovani Lo Celso,AM,2023-2024,27.0,Tottenham,Premier League,Attacking Midfielder
+621,396,Ruben Loftus-Cheek,AM,2023-2024,27.0,Milan,Serie A,Attacking Midfielder
+622,414,James Maddison,AM,2023-2024,26.0,Tottenham,Premier League,Attacking Midfielder
+623,421,Lovro Majer,AM,2023-2024,25.0,Wolfsburg,Bundesliga,Attacking Midfielder
+624,425,Daniel Maldini,AM,2023-2024,21.0,2 Teams,Serie A,Attacking Midfielder
+625,430,Marco Mancosu,AM,2023-2024,34.0,Cagliari,Serie A,Attacking Midfielder
+626,437,Iván Martín,AM,2023-2024,24.0,Girona,La Liga,Attacking Midfielder
+627,449,Eric Maxim Choupo-Moting,AM,2023-2024,34.0,Bayern Munich,Bundesliga,Attacking Midfielder
+628,454,James Mcatee,AM,2023-2024,20.0,2 Teams,Premier League,Attacking Midfielder
+629,461,Hannibal Mejbri,AM,2023-2024,20.0,Sevilla,La Liga,Attacking Midfielder
+630,463,Gonzalo Melero,AM,2023-2024,29.0,Almería,La Liga,Attacking Midfielder
+631,474,Enzo Millot,AM,2023-2024,21.0,Stuttgart,Bundesliga,Attacking Midfielder
+632,475,Takumi Minamino,AM,2023-2024,28.0,Monaco,Ligue 1,Attacking Midfielder
+633,477,Aleksei Miranchuk,AM,2023-2024,27.0,Atalanta,Serie A,Attacking Midfielder
+634,482,Dion Moise Sahi,AM,2023-2024,21.0,Strasbourg,Ligue 1,Attacking Midfielder
+635,490,Thomas Müller,AM,2023-2024,33.0,Bayern Munich,Bundesliga,Attacking Midfielder
+636,492,Iker Muniain,AM,2023-2024,30.0,Athletic Club,La Liga,Attacking Midfielder
+637,496,Jamal Musiala,AM,2023-2024,20.0,Bayern Munich,Bundesliga,Attacking Midfielder
+638,497,Florent Muslija,AM,2023-2024,25.0,Freiburg,Bundesliga,Attacking Midfielder
+639,520,Finn Ole Becker,AM,2023-2024,23.0,Hoffenheim,Bundesliga,Attacking Midfielder
+640,533,Martin Ødegaard,AM,2023-2024,24.0,Arsenal,Premier League,Attacking Midfielder
+641,536,Pablo Pagis,AM,2023-2024,20.0,Lorient,Ligue 1,Attacking Midfielder
+642,551,Pepín,AM,2023-2024,26.0,Monza,Serie A,Attacking Midfielder
+643,553,Andreas Pereira,AM,2023-2024,27.0,Fulham,Premier League,Attacking Midfielder
+644,556,Kike Pérez,AM,2023-2024,26.0,Rayo Vallecano,La Liga,Attacking Midfielder
+645,562,Tommaso Pobega,AM,2023-2024,24.0,Milan,Serie A,Attacking Midfielder
+646,565,Julien Ponceau,AM,2023-2024,22.0,Lorient,Ligue 1,Attacking Midfielder
+647,566,Portu,AM,2023-2024,31.0,Girona,La Liga,Attacking Midfielder
+648,567,José Pozo,AM,2023-2024,27.0,Rayo Vallecano,La Liga,Attacking Midfielder
+649,574,Nemanja Radonjić,AM,2023-2024,27.0,Mallorca,La Liga,Attacking Midfielder
+650,583,Reinier,AM,2023-2024,21.0,Frosinone,Serie A,Attacking Midfielder
+651,585,Marco Reus,AM,2023-2024,34.0,Dortmund,Bundesliga,Attacking Midfielder
+652,590,Marco Richter,AM,2023-2024,25.0,Mainz 05,Bundesliga,Attacking Midfielder
+653,591,Fabian Rieder,AM,2023-2024,21.0,Rennes,Ligue 1,Attacking Midfielder
+654,593,Alberto Risco,AM,2023-2024,17.0,Getafe,La Liga,Attacking Midfielder
+655,598,Óscar Rodríguez Arnaiz,AM,2023-2024,25.0,Getafe,La Liga,Attacking Midfielder
+656,604,Morgan Rogers,AM,2023-2024,21.0,Aston Villa,Premier League,Attacking Midfielder
+657,605,Merlin Röhl,AM,2023-2024,21.0,Freiburg,Bundesliga,Attacking Midfielder
+658,609,Unai Ropero,AM,2023-2024,21.0,Alavés,La Liga,Attacking Midfielder
+659,618,Roland Sallai,AM,2023-2024,26.0,Freiburg,Bundesliga,Attacking Midfielder
+660,624,Oihan Sancet,AM,2023-2024,23.0,Athletic Club,La Liga,Attacking Midfielder
+661,641,Demba Seck,AM,2023-2024,22.0,2 Teams,Serie A,Attacking Midfielder
+662,645,Kevin Sessa,AM,2023-2024,23.0,Heidenheim,Bundesliga,Attacking Midfielder
+663,653,Emile Smith Rowe,AM,2023-2024,23.0,Arsenal,Premier League,Attacking Midfielder
+664,660,Florian Sotoca,AM,2023-2024,32.0,Lens,Ligue 1,Attacking Midfielder
+665,673,Tomáš Suslov,AM,2023-2024,21.0,Hellas Verona,Serie A,Attacking Midfielder
+666,681,Teddy Teuma,AM,2023-2024,29.0,Reims,Ligue 1,Attacking Midfielder
+667,683,Denis Thomalla,AM,2023-2024,30.0,Heidenheim,Bundesliga,Attacking Midfielder
+668,684,Adrien Thomasson,AM,2023-2024,29.0,Lens,Ligue 1,Attacking Midfielder
+669,686,Kristian Thorstvedt,AM,2023-2024,24.0,Sassuolo,Serie A,Attacking Midfielder
+670,693,Óliver Torres,AM,2023-2024,28.0,Sevilla,La Liga,Attacking Midfielder
+671,700,Manu Trigueros,AM,2023-2024,31.0,Villarreal,La Liga,Attacking Midfielder
+672,705,Mark Uth,AM,2023-2024,31.0,Köln,Bundesliga,Attacking Midfielder
+673,708,Ruben Vargas,AM,2023-2024,24.0,Augsburg,Bundesliga,Attacking Midfielder
+674,715,Emanuel Vignato,AM,2023-2024,22.0,Salernitana,Serie A,Attacking Midfielder
+675,718,Nicolas Viola,AM,2023-2024,33.0,Cagliari,Serie A,Attacking Midfielder
+676,720,Nikola Vlašić,AM,2023-2024,25.0,Torino,Serie A,Attacking Midfielder
+677,723,Luca Waldschmidt,AM,2023-2024,27.0,Köln,Bundesliga,Attacking Midfielder
+678,730,Florian Wirtz,AM,2023-2024,20.0,Leverkusen,Bundesliga,Attacking Midfielder
+679,731,Jeong Woo-yeong,AM,2023-2024,23.0,Stuttgart,Bundesliga,Attacking Midfielder
+680,735,Yusuf Yazıcı,AM,2023-2024,26.0,Lille,Ligue 1,Attacking Midfielder
+681,744,Szymon Żurkowski,AM,2023-2024,25.0,Empoli,Serie A,Attacking Midfielder
+682,9,Felix Agu,LM,2023-2024,23.0,Werder Bremen,Bundesliga,Wide Playmaker
+683,10,Naouirou Ahamada,LM,2023-2024,21.0,Crystal Palace,Premier League,Wide Playmaker
+684,12,Ilias Akhomach,RM,2023-2024,19.0,Villarreal,La Liga,Wide Playmaker
+685,21,Iván Alejo,RM,2023-2024,28.0,Cádiz,La Liga,Wide Playmaker
+686,22,Carles Aleñá,RM,2023-2024,25.0,Getafe,La Liga,Wide Playmaker
+687,23,Aboubacar Ali,LM,2023-2024,17.0,Strasbourg,Ligue 1,Wide Playmaker
+688,25,Tadeo Allende,RM,2023-2024,24.0,Celta Vigo,La Liga,Wide Playmaker
+689,29,Hugo Álvarez,LM,2023-2024,20.0,Celta Vigo,La Liga,Wide Playmaker
+690,51,Alex Baena,LM,2023-2024,22.0,Villarreal,La Liga,Wide Playmaker
+691,57,Jonathan Bamba,LM,2023-2024,27.0,Celta Vigo,La Liga,Wide Playmaker
+692,81,Jóhann Berg Guðmundsson,RM,2023-2024,32.0,Burnley,Premier League,Wide Playmaker
+693,99,Benjamin Bourigeaud,RM,2023-2024,29.0,Rennes,Ligue 1,Wide Playmaker
+694,109,Jacob Bruun Larsen,LM,2023-2024,24.0,Burnley,Premier League,Wide Playmaker
+695,115,José Callejón,RM,2023-2024,36.0,Granada,La Liga,Wide Playmaker
+696,123,Sergi Canós,LM,2023-2024,26.0,Valencia,La Liga,Wide Playmaker
+697,137,Franco Cervi,LM,2023-2024,29.0,Celta Vigo,La Liga,Wide Playmaker
+698,139,Timothy Chandler,LM,2023-2024,33.0,Eint Frankfurt,Bundesliga,Wide Playmaker
+699,160,Jesús Corona,RM,2023-2024,30.0,Sevilla,La Liga,Wide Playmaker
+700,166,Crespo,LM,2023-2024,26.0,Rayo Vallecano,La Liga,Wide Playmaker
+701,194,Désiré Doué,LM,2023-2024,18.0,Rennes,Ligue 1,Wide Playmaker
+702,218,Ansu Fati,LM,2023-2024,20.0,Brighton,Premier League,Wide Playmaker
+703,225,Valery Fernández,LM,2023-2024,23.0,Girona,La Liga,Wide Playmaker
+704,233,Emil Forsberg,LM,2023-2024,31.0,RB Leipzig,Bundesliga,Wide Playmaker
+705,275,Mason Greenwood,RM,2023-2024,21.0,Getafe,La Liga,Wide Midfielder
+706,276,Vincenzo Grifo,LM,2023-2024,30.0,Freiburg,Bundesliga,Wide Midfielder
+707,298,Jack Harrison,RM,2023-2024,26.0,Everton,Premier League,Wide Midfielder
+708,314,Gino Infantino,RM,2023-2024,20.0,Fiorentina,Serie A,Wide Playmaker
+709,322,Ablie Jallow,RM,2023-2024,24.0,Metz,Ligue 1,Wide Midfielder
+710,332,Jordi,LM,2023-2024,22.0,Getafe,La Liga,Wide Playmaker
+711,334,Kamil Jóźwiak,LM,2023-2024,25.0,Granada,La Liga,Wide Playmaker
+712,342,Yann Karamoh,LM,2023-2024,25.0,Montpellier,Ligue 1,Wide Playmaker
+713,359,Luca Koleosho,LM,2023-2024,18.0,Burnley,Premier League,Wide Playmaker
+714,399,Diego López,LM,2023-2024,21.0,Valencia,La Liga,Wide Playmaker
+715,413,Darwin Machís,LM,2023-2024,30.0,Cádiz,La Liga,Wide Playmaker
+716,446,Jean Mattéo Bahoya,LM,2023-2024,18.0,Eint Frankfurt,Bundesliga,Wide Playmaker
+717,448,Aïman Maurer,LM,2023-2024,18.0,Clermont Foot,Ligue 1,Wide Playmaker
+718,456,John McGinn,RM,2023-2024,28.0,Aston Villa,Premier League,Wide Playmaker
+719,458,Dwight McNeil,LM,2023-2024,23.0,Everton,Premier League,Wide Playmaker
+720,489,François Mughe,RM,2023-2024,19.0,Marseille,Ligue 1,Wide Playmaker
+721,502,Roberto Navarro,LM,2023-2024,21.0,2 Teams,La Liga,Wide Midfielder
+722,517,Wilson Odobert,LM,2023-2024,18.0,Burnley,Premier League,Wide Midfielder
+723,518,Chiedozie Ogbene,RM,2023-2024,26.0,Luton Town,Premier League,Wide Midfielder
+724,522,Dani Olmo,RM,2023-2024,25.0,RB Leipzig,Bundesliga,Wide Midfielder
+725,538,Isaac Palazón Camacho,RM,2023-2024,28.0,Rayo Vallecano,La Liga,Wide Midfielder
+726,552,Alberto Perea,LM,2023-2024,32.0,Granada,La Liga,Wide Playmaker
+727,554,Carles Pérez,RM,2023-2024,25.0,Celta Vigo,La Liga,Wide Playmaker
+728,555,Francisco Perez,RM,2023-2024,20.0,Valencia,La Liga,Wide Playmaker
+729,560,Jens Petter Hauge,LM,2023-2024,23.0,Eint Frankfurt,Bundesliga,Wide Playmaker
+730,576,Jesurun Rak Sakyi,RM,2023-2024,20.0,Crystal Palace,Premier League,Wide Playmaker
+731,603,Miguel Rodríguez,RM,2023-2024,20.0,Celta Vigo,La Liga,Wide Playmaker
+732,619,Salvi,RM,2023-2024,32.0,Rayo Vallecano,La Liga,Wide Playmaker
+733,632,Pablo Sarabia,RM,2023-2024,31.0,Wolves,Premier League,Wide Playmaker
+734,647,Xavi Simons,LM,2023-2024,20.0,RB Leipzig,Bundesliga,Wide Playmaker
+735,654,Rubén Sobrino,LM,2023-2024,31.0,Cádiz,La Liga,Wide Playmaker
+736,655,Emran Soglo,LM,2023-2024,18.0,Marseille,Ligue 1,Wide Playmaker
+737,658,Alberto Soro,LM,2023-2024,24.0,Granada,La Liga,Wide Playmaker
+738,674,Suso,RM,2023-2024,29.0,Sevilla,La Liga,Wide Playmaker
+739,698,Bertrand Traoré,RM,2023-2024,27.0,Villarreal,La Liga,Wide Playmaker
+740,701,Viktor Tsyhankov,RM,2023-2024,25.0,Girona,La Liga,Wide Playmaker
+741,740,Bryan Zaragoza,LM,2023-2024,22.0,Granada,La Liga,Wide Playmaker
+0,0,Keyliane Abdallah,RW,2023-2024,17.0,Marseille,Ligue 1,Classic Winger
+1,2,Zakaria Aboukhlal,RW,2023-2024,23.0,Toulouse,Ligue 1,Classic Winger
+2,4,Bénie Adama Traore,LW,2023-2024,20.0,2 Teams,2 Comps,Classic Winger
+3,9,Karim Adeyemi,LW,2023-2024,21.0,Dortmund,Bundesliga,Classic Winger
+4,10,Simon Adingra,RW,2023-2024,21.0,Brighton,Premier League,Inverted Winger
+5,11,Brandon Aguilera,RW,2023-2024,20.0,Nott'ham Forest,Premier League,Classic Winger
+6,13,Marley Aké,LW,2023-2024,22.0,Udinese,Serie A,Classic Winger
+7,15,Mohamed Ali Cho,LW,2023-2024,19.0,2 Teams,2 Comps,Inverted Winger
+8,16,Faride Alidou,RW,2023-2024,22.0,Köln,Bundesliga,Inverted Winger
+9,18,Miguel Almirón,RW,2023-2024,29.0,Newcastle Utd,Premier League,Inverted Winger
+10,19,Pontus Almqvist,RW,2023-2024,24.0,Lecce,Serie A,Inverted Winger
+11,20,Papa Amadou Diallo,LW,2023-2024,19.0,Metz,Ligue 1,Classic Winger
+12,22,Amath,RW,2023-2024,27.0,Mallorca,La Liga,Classic Winger
+13,24,Felipe Anderson,RW,2023-2024,30.0,Lazio,Serie A,Inverted Winger
+14,26,Jaidon Anthony,LW,2023-2024,23.0,Bournemouth,Premier League,Classic Winger
+15,28,Antony,RW,2023-2024,23.0,Manchester Utd,Premier League,Inverted Winger
+16,29,Christopher Antwi-Adjei,LW,2023-2024,29.0,Bochum,Bundesliga,Inverted Winger
+17,30,Stredair Appuah,LW,2023-2024,19.0,Nantes,Ligue 1,Classic Winger
+18,32,Adu Ares,RW,2023-2024,21.0,Athletic Club,La Liga,Classic Winger
+19,34,José Arnaiz,LW,2023-2024,28.0,Osasuna,La Liga,Classic Winger
+20,35,Hákon Arnar Haraldsson,LW,2023-2024,20.0,Lille,Ligue 1,Inverted Winger
+21,37,Takuma Asano,RW,2023-2024,28.0,Bochum,Bundesliga,Inverted Winger
+22,38,Marco Asensio,RW,2023-2024,27.0,Paris S-G,Ligue 1,Inverted Winger
+23,39,Joel Asoro,RW,2023-2024,24.0,Metz,Ligue 1,Classic Winger
+24,42,Ezequiel Ávila,RW,2023-2024,29.0,2 Teams,La Liga,Inverted Winger
+25,45,Jordan Ayew,LW,2023-2024,31.0,Crystal Palace,Premier League,Inverted Winger
+26,48,Jaime Báez,LW,2023-2024,28.0,Frosinone,Serie A,Classic Winger
+27,49,Leon Bailey,RW,2023-2024,25.0,Aston Villa,Premier League,Inverted Winger
+28,51,Dilane Bakwa,RW,2023-2024,20.0,Strasbourg,Ligue 1,Inverted Winger
+29,52,Aliou Baldé,RW,2023-2024,20.0,Nice,Ligue 1,Classic Winger
+30,55,Samuel Bamba,LW,2023-2024,19.0,Dortmund,Bundesliga,Classic Winger
+31,56,Lameck Banda,LW,2023-2024,22.0,Lecce,Serie A,Inverted Winger
+32,57,Mamady Bangré,RW,2023-2024,22.0,Toulouse,Ligue 1,Classic Winger
+33,58,Léo Baptistão,RW,2023-2024,30.0,Almería,La Liga,Inverted Winger
+34,59,Bradley Barcola,LW,2023-2024,20.0,2 Teams,Ligue 1,Inverted Winger
+35,60,Kike Barja,LW,2023-2024,26.0,Osasuna,La Liga,Classic Winger
+36,61,Harvey Barnes,LW,2023-2024,25.0,Newcastle Utd,Premier League,Classic Winger
+37,62,Ander Barrenetxea,LW,2023-2024,21.0,Real Sociedad,La Liga,Inverted Winger
+38,73,Saïd Benrahma,LW,2023-2024,27.0,2 Teams,2 Comps,Inverted Winger
+39,74,Domenico Berardi,RW,2023-2024,28.0,Sassuolo,Serie A,Inverted Winger
+40,75,Álex Berenguer,LW,2023-2024,28.0,Athletic Club,La Liga,Inverted Winger
+41,76,Mergim Berisha,RW,2023-2024,25.0,2 Teams,Bundesliga,Classic Winger
+42,77,Jan-Niklas Beste,LW,2023-2024,24.0,Heidenheim,Bundesliga,Inverted Winger
+43,80,Ludovic Blas,RW,2023-2024,25.0,Rennes,Ligue 1,Inverted Winger
+44,82,Benicio Boaitey,LW,2023-2024,19.0,Brighton,Premier League,Classic Winger
+45,83,Oscar Bobb,RW,2023-2024,20.0,Manchester City,Premier League,Classic Winger
+46,84,Jeremie Boga,LW,2023-2024,26.0,Nice,Ligue 1,Inverted Winger
+47,88,Ângelo Borges,RW,2023-2024,18.0,Strasbourg,Ligue 1,Inverted Winger
+48,93,Bilal Boutobba,RW,2023-2024,24.0,Clermont Foot,Ligue 1,Inverted Winger
+49,94,Jarrod Bowen,RW,2023-2024,26.0,West Ham,Premier League,Inverted Winger
+50,96,Bilal Brahimi,RW,2023-2024,23.0,2 Teams,Ligue 1,Classic Winger
+51,97,Josip Brekalo,LW,2023-2024,25.0,Fiorentina,Serie A,Classic Winger
+52,102,David Brooks,RW,2023-2024,26.0,Bournemouth,Premier League,Classic Winger
+53,105,Facundo Buonanotte,RW,2023-2024,18.0,Brighton,Premier League,Inverted Winger
+54,107,Oliver Burke,RW,2023-2024,26.0,Werder Bremen,Bundesliga,Classic Winger
+55,118,Luigi Canotto,RW,2023-2024,29.0,Frosinone,Serie A,Classic Winger
+56,121,Josué Casimir,RW,2023-2024,21.0,Le Havre,Ligue 1,Inverted Winger
+57,122,Giuseppe Caso,LW,2023-2024,24.0,Frosinone,Serie A,Classic Winger
+58,124,Samu Castillejo,RW,2023-2024,28.0,Sassuolo,Serie A,Classic Winger
+59,126,Gaetano Castrovilli,LW,2023-2024,26.0,Fiorentina,Serie A,Classic Winger
+60,127,Ivan Cavaleiro,LW,2023-2024,29.0,Lille,Ligue 1,Classic Winger
+61,128,Emil Ceide,LW,2023-2024,21.0,Sassuolo,Serie A,Classic Winger
+62,129,Václav Černý,RW,2023-2024,25.0,Wolfsburg,Bundesliga,Classic Winger
+63,134,Federico Chiesa,RW,2023-2024,25.0,Juventus,Serie A,Inverted Winger
+64,136,Samuel Chukwueze,RW,2023-2024,24.0,Milan,Serie A,Classic Winger
+65,137,Ibrahim Cissoko,LW,2023-2024,20.0,Toulouse,Ligue 1,Classic Winger
+66,139,Kingsley Coman,RW,2023-2024,27.0,Bayern Munich,Bundesliga,Classic Winger
+67,140,Jeppe Corfitzen,RW,2023-2024,18.0,Lecce,Serie A,Classic Winger
+68,144,Oscar Cortés,LW,2023-2024,19.0,Lens,Ligue 1,Classic Winger
+69,145,Tanguy Coulibaly,LW,2023-2024,22.0,Montpellier,Ligue 1,Classic Winger
+70,146,Juan Cruz,RW,2023-2024,23.0,Betis,La Liga,Classic Winger
+71,153,Mohammed Daramy,LW,2023-2024,21.0,Reims,Ligue 1,Classic Winger
+72,159,Romain Del Castillo,RW,2023-2024,27.0,Brest,Ligue 1,Classic Winger
+73,162,Federico Di Francesco,LW,2023-2024,29.0,Lecce,Serie A,Classic Winger
+74,164,Moussa Diaby,RW,2023-2024,24.0,Aston Villa,Premier League,Classic Winger
+75,165,Mamadou Diakhon,RW,2023-2024,17.0,Reims,Ligue 1,Classic Winger
+76,167,Amad Diallo,RW,2023-2024,21.0,Manchester Utd,Premier League,Classic Winger
+77,168,Assane Diao,RW,2023-2024,17.0,Betis,La Liga,Classic Winger
+78,170,Luis Díaz,LW,2023-2024,26.0,Liverpool,Premier League,Classic Winger
+79,172,Justin Diehl,LW,2023-2024,18.0,Köln,Bundesliga,Classic Winger
+80,175,Eren Dinkçi,RW,2023-2024,21.0,Heidenheim,Bundesliga,Classic Winger
+81,176,Sofiane Diop,LW,2023-2024,23.0,Nice,Ligue 1,Classic Winger
+82,177,Ben Doak,RW,2023-2024,17.0,Liverpool,Premier League,Classic Winger
+83,178,Jeremy Doku,RW,2023-2024,21.0,2 Teams,2 Comps,Classic Winger
+84,185,Aron Dønnum,RW,2023-2024,25.0,Toulouse,Ligue 1,Classic Winger
+85,189,Julien Duranville,RW,2023-2024,17.0,Dortmund,Bundesliga,Classic Winger
+86,195,Emmanuel Ekong,RW,2023-2024,21.0,Empoli,Serie A,Classic Winger
+87,197,Anthony Elanga,RW,2023-2024,21.0,Nott'ham Forest,Premier League,Classic Winger
+88,199,Elif Elmas,LW,2023-2024,23.0,2 Teams,2 Comps,Classic Winger
+89,200,Adri Embarba,LW,2023-2024,31.0,Almería,La Liga,Classic Winger
+90,205,Abde Ezzalzouli,LW,2023-2024,21.0,2 Teams,La Liga,Classic Winger
+91,207,Khalil Fayad,LW,2023-2024,19.0,Montpellier,Ligue 1,Classic Winger
+92,211,Ichem Ferrah,RW,2023-2024,17.0,Lille,Ligue 1,Classic Winger
+93,214,Phil Foden,LW,2023-2024,23.0,Manchester City,Premier League,Classic Winger
+94,215,Tiago Fonseca Morais,LW,2023-2024,19.0,Lille,Ligue 1,Classic Winger
+95,216,Omari Forson,RW,2023-2024,19.0,Manchester Utd,Premier League,Classic Winger
+96,219,Jorge de Frutos,RW,2023-2024,26.0,Rayo Vallecano,La Liga,Classic Winger
+97,220,Chris Führich,LW,2023-2024,25.0,Stuttgart,Bundesliga,Classic Winger
+98,225,Cody Gakpo,LW,2023-2024,24.0,Liverpool,Premier League,Classic Winger
+99,228,Álvaro García,LW,2023-2024,30.0,Rayo Vallecano,La Liga,Classic Winger
+100,229,Francisco Jesús Crespo García,LW,2023-2024,27.0,Las Palmas,La Liga,Classic Winger
+101,230,Gonzalo García,RW,2023-2024,19.0,Real Madrid,La Liga,Classic Winger
+102,231,Jastin García,LW,2023-2024,19.0,Girona,La Liga,Classic Winger
+103,233,Rubén García,RW,2023-2024,30.0,Osasuna,La Liga,Classic Winger
+104,234,Alejandro Garnacho,LW,2023-2024,19.0,Manchester Utd,Premier League,Classic Winger
+105,235,Farés Ghedjemis,RW,2023-2024,20.0,Frosinone,Serie A,Classic Winger
+106,236,Bryan Gil,LW,2023-2024,22.0,Tottenham,Premier League,Classic Winger
+107,238,Jamie Gittens,LW,2023-2024,18.0,Dortmund,Bundesliga,Classic Winger
+108,239,Serge Gnabry,RW,2023-2024,28.0,Bayern Munich,Bundesliga,Classic Winger
+109,241,Sergio Gómez,LW,2023-2024,22.0,Manchester City,Premier League,Classic Winger
+110,242,Nicolás González,RW,2023-2024,25.0,Fiorentina,Serie A,Classic Winger
+111,243,Anthony Gordon,LW,2023-2024,22.0,Newcastle Utd,Premier League,Classic Winger
+112,244,Kaide Gordon,RW,2023-2024,18.0,Liverpool,Premier League,Classic Winger
+113,247,Jack Grealish,LW,2023-2024,27.0,Manchester City,Premier League,Classic Winger
+114,252,Gonçalo Guedes,LW,2023-2024,26.0,Villarreal,La Liga,Classic Winger
+115,254,Morgan Guilavogui,RW,2023-2024,25.0,Lens,Ligue 1,Classic Winger
+116,257,Arda Güler,RW,2023-2024,18.0,Real Madrid,La Liga,Classic Winger
+117,260,Robin Hack,LW,2023-2024,24.0,Gladbach,Bundesliga,Classic Winger
+118,265,Luis Henrique,LW,2023-2024,21.0,Marseille,Ligue 1,Classic Winger
+119,266,Luiz Henrique,RW,2023-2024,22.0,Betis,La Liga,Classic Winger
+120,268,Cristian Herrera,LW,2023-2024,32.0,Las Palmas,La Liga,Classic Winger
+121,269,Patrick Herrmann,LW,2023-2024,32.0,Gladbach,Bundesliga,Classic Winger
+122,270,Son Heung-min,LW,2023-2024,31.0,Tottenham,Premier League,Inside Forward
+123,274,Mathias Honsak,LW,2023-2024,26.0,Darmstadt 98,Bundesliga,Classic Winger
+124,278,Callum Hudson-Odoi,LW,2023-2024,22.0,Nott'ham Forest,Premier League,Inside Forward
+125,279,Arijon Ibrahimović,LW,2023-2024,17.0,Frosinone,Serie A,Classic Winger
+126,281,Jonathan Ikone,RW,2023-2024,25.0,Fiorentina,Serie A,Classic Winger
+127,288,Gustav Isaksen,RW,2023-2024,22.0,Lazio,Serie A,Classic Winger
+128,289,Junya Ito,RW,2023-2024,30.0,Reims,Ligue 1,Inside Forward
+129,290,Alex Iwobi,LW,2023-2024,27.0,Fulham,Premier League,Inside Forward
+130,292,Adnan Januzaj,RW,2023-2024,28.0,Sevilla,La Liga,Classic Winger
+131,298,Brennan Johnson,RW,2023-2024,22.0,2 Teams,Premier League,Inside Forward
+132,299,Jeremy Jorge,LW,2023-2024,20.0,Getafe,La Liga,Classic Winger
+133,304,Antoine Joujou,LW,2023-2024,20.0,Le Havre,Ligue 1,Classic Winger
+134,308,Vinicius Júnior,LW,2023-2024,23.0,Real Madrid,La Liga,Inside Forward
+135,309,Julian Justvan,RW,2023-2024,25.0,2 Teams,Bundesliga,Classic Winger
+136,311,Abdoul Kader Bamba,LW,2023-2024,29.0,Nantes,Ligue 1,Classic Winger
+137,312,Tino Kadewere,RW,2023-2024,27.0,2 Teams,Ligue 1,Classic Winger
+138,315,Yayah Kallon,RW,2023-2024,22.0,Hellas Verona,Serie A,Classic Winger
+139,316,Jakub Kamiński,LW,2023-2024,21.0,Wolfsburg,Bundesliga,Classic Winger
+140,318,Lee Kang-in,RW,2023-2024,22.0,Paris S-G,Ligue 1,Inside Forward
+141,319,Jesper Karlsson,LW,2023-2024,25.0,Bologna,Serie A,Classic Winger
+142,320,Silas Katompa,RW,2023-2024,24.0,Stuttgart,Bundesliga,Classic Winger
+143,329,Christian Kouamé,LW,2023-2024,25.0,Fiorentina,Serie A,Classic Winger
+144,332,Takefusa Kubo,RW,2023-2024,22.0,Real Sociedad,La Liga,Inside Forward
+145,333,Mohammed Kudus,RW,2023-2024,22.0,West Ham,Premier League,Inside Forward
+146,334,Dejan Kulusevski,RW,2023-2024,23.0,Tottenham,Premier League,Inside Forward
+147,335,Khvicha Kvaratskhelia,LW,2023-2024,22.0,Napoli,Serie A,Inside Forward
+148,337,Moritz-Broni Kwarteng,LW,2023-2024,25.0,Bochum,Bundesliga,Classic Winger
+149,339,Gaëtan Laborde,RW,2023-2024,29.0,Nice,Ligue 1,Inside Forward
+150,342,Érik Lamela,RW,2023-2024,31.0,Sevilla,La Liga,Classic Winger
+151,344,Didier Lamkel Zé,LW,2023-2024,26.0,Metz,Ligue 1,Classic Winger
+152,348,Armand Lauriente,RW,2023-2024,24.0,Sassuolo,Serie A,Inside Forward
+153,349,Lázaro,RW,2023-2024,21.0,Almería,La Liga,Classic Winger
+154,350,Darko Lazović,LW,2023-2024,32.0,Hellas Verona,Serie A,Inside Forward
+155,351,Jérémy Le Douaron,LW,2023-2024,25.0,Brest,Ligue 1,Classic Winger
+156,352,Rafael Leão,LW,2023-2024,24.0,Milan,Serie A,Inside Forward
+157,354,Jamie Leweling,RW,2023-2024,22.0,Stuttgart,Bundesliga,Inside Forward
+158,355,Keane Lewis-Potter,LW,2023-2024,22.0,Brentford,Premier League,Classic Winger
+159,356,Jesper Lindstrøm,RW,2023-2024,23.0,2 Teams,2 Comps,Classic Winger
+160,362,Dodi Lukebakio,LW,2023-2024,25.0,Sevilla,La Liga,Classic Winger
+161,364,Othmane Maamma,RW,2023-2024,17.0,Montpellier,Ligue 1,Classic Winger
+162,365,Noni Madueke,RW,2023-2024,21.0,Chelsea,Premier League,Classic Winger
+163,368,Linton Maina,LW,2023-2024,24.0,Köln,Bundesliga,Inside Forward
+164,369,Donyell Malen,RW,2023-2024,24.0,Dortmund,Bundesliga,Inside Forward
+165,370,Aaron Malouda,LW,2023-2024,17.0,Lille,Ligue 1,Classic Winger
+166,371,David Mamutovic,RW,2023-2024,22.0,Mainz 05,Bundesliga,Classic Winger
+167,372,Solly March,RW,2023-2024,29.0,Brighton,Premier League,Classic Winger
+168,377,Marquinhos,RW,2023-2024,20.0,Nantes,Ligue 1,Classic Winger
+169,380,Gabriel Martinelli,LW,2023-2024,22.0,Arsenal,Premier League,Inside Forward
+170,382,Marvin,RW,2023-2024,23.0,Las Palmas,La Liga,Classic Winger
+171,388,Kylian Mbappé,LW,2023-2024,24.0,Paris S-G,Ligue 1,Inside Forward
+172,389,Bryan Mbeumo,RW,2023-2024,23.0,Brentford,Premier League,Inside Forward
+173,390,Jordi Mboula,RW,2023-2024,24.0,Hellas Verona,Serie A,Classic Winger
+174,391,Nathanael Mbuku,RW,2023-2024,21.0,Augsburg,Bundesliga,Classic Winger
+175,394,Lucas Michal,LW,2023-2024,18.0,Monaco,Ligue 1,Classic Winger
+176,401,Kaoru Mitoma,LW,2023-2024,26.0,Brighton,Premier League,Inside Forward
+177,403,Stefan Mitrović,LW,2023-2024,20.0,Hellas Verona,Serie A,Classic Winger
+178,409,Diego Moreira,LW,2023-2024,18.0,Lyon,Ligue 1,Classic Winger
+179,417,Mykhailo Mudryk,LW,2023-2024,22.0,Chelsea,Premier League,Classic Winger
+180,422,Jacob Murphy,RW,2023-2024,28.0,Newcastle Utd,Premier League,Inside Forward
+181,424,Nathan N'Goumou,LW,2023-2024,23.0,Gladbach,Bundesliga,Classic Winger
+182,425,Keito Nakamura,LW,2023-2024,23.0,Reims,Ligue 1,Classic Winger
+183,429,Dan Ndoye,RW,2023-2024,22.0,Bologna,Serie A,Classic Winger
+184,431,Reiss Nelson,RW,2023-2024,23.0,Arsenal,Premier League,Classic Winger
+185,432,Pedro Neto,RW,2023-2024,23.0,Wolves,Premier League,Inside Forward
+186,434,Cyril Ngonge,RW,2023-2024,23.0,2 Teams,Serie A,Classic Winger
+187,441,Lukas Nmecha,LW,2023-2024,24.0,Wolfsburg,Bundesliga,Classic Winger
+188,442,Arnaud Nordin,RW,2023-2024,25.0,Montpellier,Ligue 1,Classic Winger
+189,443,Tijjani Noslin,RW,2023-2024,24.0,Hellas Verona,Serie A,Classic Winger
+190,445,Ernest Nuamah,RW,2023-2024,19.0,Lyon,Ligue 1,Inside Forward
+191,451,Lucas Ocampos,LW,2023-2024,29.0,Sevilla,La Liga,Inside Forward
+192,452,Jens Odgaard,RW,2023-2024,24.0,Bologna,Serie A,Classic Winger
+193,456,Michael Olise,RW,2023-2024,21.0,Crystal Palace,Premier League,Inside Forward
+194,461,Royce Openda Owaga,LW,2023-2024,21.0,Lorient,Ligue 1,Classic Winger
+195,462,Leon Opitz,LW,2023-2024,18.0,Werder Bremen,Bundesliga,Classic Winger
+196,466,Riccardo Orsolini,RW,2023-2024,26.0,Bologna,Serie A,Inside Forward
+197,469,Dango Ouattara,LW,2023-2024,21.0,Bournemouth,Premier League,Classic Winger
+198,470,Adam Ounas,LW,2023-2024,26.0,Lille,Ligue 1,Classic Winger
+199,472,Mikel Oyarzabal,LW,2023-2024,26.0,Real Sociedad,La Liga,Classic Winger
+200,474,Cole Palmer,RW,2023-2024,21.0,Chelsea,Premier League,Inside Forward
+201,476,Lucas Paquetá,LW,2023-2024,25.0,West Ham,Premier League,Inside Forward
+202,477,Kevin Paredes,LW,2023-2024,20.0,Wolfsburg,Bundesliga,Classic Winger
+203,480,Pedro,LW,2023-2024,36.0,Lazio,Serie A,Classic Winger
+204,484,Facundo Pellistri,RW,2023-2024,21.0,2 Teams,2 Comps,Classic Winger
+205,486,Mathias Pereira Lage,LW,2023-2024,26.0,Brest,Ligue 1,Classic Winger
+206,487,Roberto Pereyra,RW,2023-2024,32.0,Udinese,Serie A,Classic Winger
+207,488,Ayoze Pérez,RW,2023-2024,30.0,Betis,La Liga,Inside Forward
+208,489,Ivan Perišić,LW,2023-2024,34.0,Tottenham,Premier League,Classic Winger
+209,493,Jaden Philogene Bidace,LW,2023-2024,21.0,Aston Villa,Premier League,Classic Winger
+210,497,Matteo Politano,RW,2023-2024,29.0,Napoli,Serie A,Inside Forward
+211,502,Arnau Puigmal,RW,2023-2024,22.0,Almería,La Liga,Classic Winger
+212,503,Christian Pulisic,RW,2023-2024,24.0,Milan,Serie A,Inside Forward
+213,505,Largie Ramazani,LW,2023-2024,22.0,Almería,La Liga,Classic Winger
+214,506,Benito Ramírez,LW,2023-2024,28.0,Las Palmas,La Liga,Classic Winger
+215,510,Jacob Ramsey,LW,2023-2024,22.0,Aston Villa,Premier League,Classic Winger
+216,511,Raphinha,LW,2023-2024,26.0,Barcelona,La Liga,Inside Forward
+217,512,Marcus Rashford,LW,2023-2024,25.0,Manchester Utd,Premier League,Inside Forward
+218,515,Abderrahman Rebbach,LW,2023-2024,24.0,Alavés,La Liga,Classic Winger
+219,516,Nathan Redmond,RW,2023-2024,29.0,Burnley,Premier League,Classic Winger
+220,517,Bobby Reid,RW,2023-2024,30.0,Fulham,Premier League,Classic Winger
+221,519,Gio Reyna,RW,2023-2024,20.0,2 Teams,2 Comps,Classic Winger
+222,521,Luis Rioja,LW,2023-2024,29.0,Alavés,La Liga,Inside Forward
+223,522,Matt Ritchie,RW,2023-2024,33.0,Newcastle Utd,Premier League,Classic Winger
+224,523,Sergio Rodelas,LW,2023-2024,18.0,Granada,La Liga,Classic Winger
+225,524,Rodri,RW,2023-2024,23.0,Betis,La Liga,Classic Winger
+226,527,Rodrygo,RW,2023-2024,22.0,Real Madrid,La Liga,Inside Forward
+227,529,Luka Romero,RW,2023-2024,18.0,2 Teams,2 Comps,Classic Winger
+228,531,Emmanuel Sabbi,LW,2023-2024,25.0,Le Havre,Ligue 1,Classic Winger
+229,535,Bukayo Saka,RW,2023-2024,21.0,Arsenal,Premier League,Inside Forward
+230,536,Ibrahim Salah,LW,2023-2024,21.0,Rennes,Ligue 1,Classic Winger
+231,537,Mohamed Salah,RW,2023-2024,31.0,Liverpool,Premier League,Inside Forward
+232,538,Amine Salama,LW,2023-2024,23.0,Reims,Ligue 1,Classic Winger
+233,542,Jadon Sancho,RW,2023-2024,23.0,2 Teams,2 Comps,Classic Winger
+234,543,Leroy Sané,LW,2023-2024,27.0,Bayern Munich,Bundesliga,Inside Forward
+235,544,Nicola Sansone,LW,2023-2024,31.0,Lecce,Serie A,Classic Winger
+236,545,Riccardo Saponara,LW,2023-2024,31.0,Hellas Verona,Serie A,Classic Winger
+237,546,Amin Sarr,RW,2023-2024,22.0,2 Teams,2 Comps,Classic Winger
+238,547,Ismaila Sarr,RW,2023-2024,25.0,Marseille,Ligue 1,Classic Winger
+239,549,Sávio,LW,2023-2024,19.0,Girona,La Liga,Inside Forward
+240,552,Kevin Schade,LW,2023-2024,21.0,Brentford,Premier League,Classic Winger
+241,554,Jeffrey Schlupp,LW,2023-2024,30.0,Crystal Palace,Premier League,Classic Winger
+242,556,Demba Seck,LW,2023-2024,22.0,Frosinone,Serie A,Classic Winger
+243,559,Antoine Semenyo,RW,2023-2024,23.0,Bournemouth,Premier League,Inside Forward
+244,562,Stephan El Shaarawy,LW,2023-2024,30.0,Roma,Serie A,Inside Forward
+245,570,Luis Sinisterra,LW,2023-2024,24.0,Bournemouth,Premier League,Classic Winger
+246,572,Alex Sola,RW,2023-2024,24.0,Alavés,La Liga,Classic Winger
+247,574,Ola Solbakken,LW,2023-2024,24.0,Roma,Serie A,Classic Winger
+248,575,Manor Solomon,RW,2023-2024,24.0,Tottenham,Premier League,Classic Winger
+249,576,Riccardo Sottil,LW,2023-2024,24.0,Fiorentina,Serie A,Classic Winger
+250,577,Matìas Soulé,RW,2023-2024,20.0,2 Teams,Serie A,Inside Forward
+251,578,Issa Soumaré,LW,2023-2024,22.0,Le Havre,Ligue 1,Classic Winger
+252,580,Raheem Sterling,LW,2023-2024,28.0,Chelsea,Premier League,Inside Forward
+253,584,Gabriel Strefezza,RW,2023-2024,26.0,Lecce,Serie A,Classic Winger
+254,588,Williot Swedberg,LW,2023-2024,19.0,Celta Vigo,La Liga,Classic Winger
+255,591,Musa Al-Taamari,RW,2023-2024,26.0,Montpellier,Ligue 1,Classic Winger
+256,592,Yassin Tallal,LW,2023-2024,18.0,Getafe,La Liga,Classic Winger
+257,593,Marcus Tavernier,LW,2023-2024,24.0,Bournemouth,Premier League,Inside Forward
+258,595,Mathys Tel,LW,2023-2024,18.0,Bayern Munich,Bundesliga,Classic Winger
+259,599,Jan Thielmann,RW,2023-2024,21.0,Köln,Bundesliga,Classic Winger
+260,601,Cheikh Tidiane Sabaly,LW,2023-2024,24.0,Metz,Ligue 1,Classic Winger
+261,605,Tiago Tomás,LW,2023-2024,21.0,Wolfsburg,Bundesliga,Classic Winger
+262,607,Ferrán Torres,LW,2023-2024,23.0,Barcelona,La Liga,Classic Winger
+263,609,Adama Traoré,RW,2023-2024,27.0,Fulham,Premier League,Classic Winger
+264,610,Chaka Traorè,LW,2023-2024,18.0,Milan,Serie A,Classic Winger
+265,612,Mike Trésor,RW,2023-2024,24.0,Burnley,Premier League,Classic Winger
+266,613,Leandro Trossard,LW,2023-2024,28.0,Arsenal,Premier League,Inside Forward
+267,617,Kévin Van Den Kerkhof,RW,2023-2024,27.0,Metz,Ligue 1,Classic Winger
+268,620,Simone Verdi,RW,2023-2024,31.0,Torino,Serie A,Classic Winger
+269,621,Yorbe Vertessen,LW,2023-2024,22.0,Union Berlin,Bundesliga,Classic Winger
+270,622,Carlos Vicente,RW,2023-2024,24.0,Alavés,La Liga,Classic Winger
+271,624,Toni Villa,LW,2023-2024,28.0,Girona,La Liga,Classic Winger
+272,627,Alan Virginius,RW,2023-2024,20.0,2 Teams,Ligue 1,Classic Winger
+273,640,Nico Williams,LW,2023-2024,21.0,Athletic Club,La Liga,Inside Forward
+274,641,Willian,LW,2023-2024,34.0,Fulham,Premier League,Inside Forward
+275,643,Harry Wilson,RW,2023-2024,26.0,Fulham,Premier League,Inside Forward
+276,644,Patrick Wimmer,LW,2023-2024,22.0,Wolfsburg,Bundesliga,Classic Winger
+277,650,Xeber,RW,2023-2024,26.0,Alavés,La Liga,Classic Winger
+278,651,Lamine Yamal,RW,2023-2024,16.0,Barcelona,La Liga,Inside Forward
+279,655,Kenan Yıldız,LW,2023-2024,18.0,Juventus,Serie A,Classic Winger
+280,656,Mattia Zaccagni,LW,2023-2024,28.0,Lazio,Serie A,Inside Forward
+281,659,Anass Zaroury,LW,2023-2024,22.0,Burnley,Premier League,Classic Winger
+282,660,Edon Zhegrova,RW,2023-2024,24.0,Lille,Ligue 1,Inside Forward
+283,1,Matthis Abline,ST,2023-2024,20.0,2 Teams,Ligue 1,Complete Forward
+284,3,Tammy Abraham,ST,2023-2024,25.0,Roma,Serie A,Complete Forward
+285,5,Akor Adams,ST,2023-2024,23.0,Montpellier,Ligue 1,Target Man
+286,6,Junior Adamu,ST,2023-2024,22.0,Freiburg,Bundesliga,Complete Forward
+287,7,Sargis Adamyan,ST,2023-2024,30.0,Köln,Bundesliga,Complete Forward
+288,8,Elijah Adebayo,ST,2023-2024,25.0,Luton Town,Premier League,Complete Forward
+289,12,Ludovic Ajorque,ST,2023-2024,29.0,Mainz 05,Bundesliga,Complete Forward
+290,14,David Akpan Ankeye,ST,2023-2024,21.0,Genoa,Serie A,Complete Forward
+291,17,Domingos André Ribeiro Almeida,ST,2023-2024,23.0,Valencia,La Liga,Complete Forward
+292,23,Zeki Amdouni,ST,2023-2024,22.0,Burnley,Premier League,Complete Forward
+293,25,Komnen Andrić,ST,2023-2024,28.0,Clermont Foot,Ligue 1,Complete Forward
+294,27,Michail Antonio,ST,2023-2024,33.0,West Ham,Premier League,Complete Forward
+295,31,Cameron Archer,ST,2023-2024,22.0,Sheffield Utd,Premier League,Complete Forward
+296,33,Matias Arezo,ST,2023-2024,20.0,Granada,La Liga,Complete Forward
+297,36,Marko Arnautović,ST,2023-2024,34.0,Inter,Serie A,Complete Forward
+298,40,Iago Aspas,ST,2023-2024,35.0,Celta Vigo,La Liga,Target Man
+299,41,Pierre-Emerick Aubameyang,ST,2023-2024,34.0,Marseille,Ligue 1,Target Man
+300,43,Taiwo Awoniyi,ST,2023-2024,25.0,Nott'ham Forest,Premier League,Complete Forward
+301,44,André Ayew,ST,2023-2024,33.0,Le Havre,Ligue 1,Complete Forward
+302,46,Sardar Azmoun,ST,2023-2024,28.0,Roma,Serie A,Complete Forward
+303,47,Shavy Babicka,ST,2023-2024,23.0,Toulouse,Ligue 1,Complete Forward
+304,50,Cédric Bakambu,ST,2023-2024,32.0,Betis,La Liga,Complete Forward
+305,53,Folarin Balogun,ST,2023-2024,22.0,Monaco,Ligue 1,Target Man
+306,54,Mohamed Bamba,ST,2023-2024,21.0,Lorient,Ligue 1,Complete Forward
+307,63,Ihlas Bebou,ST,2023-2024,29.0,Hoffenheim,Bundesliga,Target Man
+308,64,Mohamed Bechikh,ST,2023-2024,18.0,Strasbourg,Ligue 1,Complete Forward
+309,65,Sheraldo Becker,ST,2023-2024,28.0,2 Teams,2 Comps,Target Man
+310,66,Chris Bedia,ST,2023-2024,27.0,Union Berlin,Bundesliga,Complete Forward
+311,67,Yanis Begraoui,ST,2023-2024,22.0,Toulouse,Ligue 1,Complete Forward
+312,68,Kevin Behrens,ST,2023-2024,32.0,2 Teams,Bundesliga,Target Man
+313,69,Maximilian Beier,ST,2023-2024,20.0,Hoffenheim,Bundesliga,Target Man
+314,70,Andrea Belotti,ST,2023-2024,29.0,2 Teams,Serie A,Complete Forward
+315,72,Wissam Ben Yedder,ST,2023-2024,32.0,Monaco,Ligue 1,Target Man
+316,78,Beto,ST,2023-2024,25.0,2 Teams,2 Comps,Complete Forward
+317,79,El Bilal Touré,ST,2023-2024,21.0,Atalanta,Serie A,Complete Forward
+318,81,Myron Boadu,ST,2023-2024,22.0,Monaco,Ligue 1,Complete Forward
+319,85,Adama Bojang,ST,2023-2024,19.0,Reims,Ligue 1,Complete Forward
+320,86,Federico Bonazzoli,ST,2023-2024,26.0,Hellas Verona,Serie A,Complete Forward
+321,87,Victor Boniface,ST,2023-2024,22.0,Leverkusen,Bundesliga,Target Man
+322,89,Rafael Borré,ST,2023-2024,27.0,Werder Bremen,Bundesliga,Complete Forward
+323,90,Gennaro Borrelli,ST,2023-2024,23.0,Frosinone,Serie A,Complete Forward
+324,91,Erik Botheim,ST,2023-2024,23.0,Salernitana,Serie A,Complete Forward
+325,95,Lucas Boyé,ST,2023-2024,27.0,Granada,La Liga,Target Man
+326,98,Ben Brereton,ST,2023-2024,24.0,2 Teams,2 Comps,Complete Forward
+327,99,Maximilian Breunig,ST,2023-2024,22.0,Freiburg,Bundesliga,Complete Forward
+328,100,Rhian Brewster,ST,2023-2024,23.0,Sheffield Utd,Premier League,Complete Forward
+329,101,Armando Broja,ST,2023-2024,21.0,2 Teams,Premier League,Complete Forward
+330,103,Moritz Broschinski,ST,2023-2024,22.0,Bochum,Bundesliga,Complete Forward
+331,104,Ante Budimir,ST,2023-2024,32.0,Osasuna,La Liga,Target Man
+332,106,Jonathan Burkardt,ST,2023-2024,23.0,Mainz 05,Bundesliga,Target Man
+333,108,Rareș-Cătălin Burnete,ST,2023-2024,19.0,Lecce,Serie A,Complete Forward
+334,109,Mason Burstow,ST,2023-2024,19.0,Chelsea,Premier League,Complete Forward
+335,112,Dominic Calvert-Lewin,ST,2023-2024,26.0,Everton,Premier League,Target Man
+336,113,Francesco Camarda,ST,2023-2024,15.0,Milan,Serie A,Complete Forward
+337,115,Sergio Camello,ST,2023-2024,22.0,Rayo Vallecano,La Liga,Complete Forward
+338,117,Thomas Cannon,ST,2023-2024,20.0,Everton,Premier League,Complete Forward
+339,119,Francesco Caputo,ST,2023-2024,35.0,Empoli,Serie A,Complete Forward
+340,120,Marc Cardona,ST,2023-2024,28.0,Las Palmas,La Liga,Complete Forward
+341,123,Valentín Castellanos,ST,2023-2024,24.0,Lazio,Serie A,Target Man
+342,125,Santiago Castro,ST,2023-2024,18.0,Bologna,Serie A,Complete Forward
+343,130,Alberto Cerri,ST,2023-2024,27.0,Empoli,Serie A,Complete Forward
+344,132,Walid Cheddira,ST,2023-2024,25.0,Frosinone,Serie A,Complete Forward
+345,133,Youssef Chermiti,ST,2023-2024,19.0,Everton,Premier League,Complete Forward
+346,135,Leon Chiwome,ST,2023-2024,17.0,Wolves,Premier League,Complete Forward
+347,138,Lorenzo Colombo,ST,2023-2024,21.0,2 Teams,Serie A,Complete Forward
+348,141,Giacomo Corona,ST,2023-2024,19.0,Empoli,Serie A,Complete Forward
+349,143,Joaquín Correa,ST,2023-2024,28.0,2 Teams,2 Comps,Complete Forward
+350,147,Matheus Cunha,ST,2023-2024,24.0,Wolves,Premier League,Complete Forward
+351,148,Marvin Cuni,ST,2023-2024,22.0,Frosinone,Serie A,Complete Forward
+352,149,Tomáš Čvančara,ST,2023-2024,22.0,Gladbach,Bundesliga,Complete Forward
+353,150,Trévis Dago,ST,2023-2024,18.0,Lille,Ligue 1,Complete Forward
+354,151,Thijs Dallinga,ST,2023-2024,22.0,Toulouse,Ligue 1,Complete Forward
+355,152,Jayden Danns,ST,2023-2024,17.0,Liverpool,Premier League,Complete Forward
+356,154,David Datro Fofana,ST,2023-2024,20.0,2 Teams,2 Comps,Complete Forward
+357,155,Jonathan David,ST,2023-2024,23.0,Lille,Ligue 1,Target Man
+358,156,Keinan Davis,ST,2023-2024,25.0,Udinese,Serie A,Complete Forward
+359,158,Grégoire Defrel,ST,2023-2024,32.0,Sassuolo,Serie A,Complete Forward
+360,160,Ermedin Demirović,ST,2023-2024,25.0,Augsburg,Bundesliga,Target Man
+361,161,Mattia Destro,ST,2023-2024,32.0,Empoli,Serie A,Complete Forward
+362,163,Boulaye Dia,ST,2023-2024,26.0,Salernitana,Serie A,Complete Forward
+363,166,Oumar Diakité,ST,2023-2024,19.0,Reims,Ligue 1,Complete Forward
+364,171,Famara Diedhiou,ST,2023-2024,30.0,Granada,La Liga,Complete Forward
+365,173,Bamba Dieng,ST,2023-2024,23.0,Lorient,Ligue 1,Complete Forward
+366,174,Florian Dietz,ST,2023-2024,24.0,Köln,Bundesliga,Complete Forward
+367,179,Mario Dominguez,ST,2023-2024,19.0,Valencia,La Liga,Complete Forward
+368,181,Siriné Doucouré,ST,2023-2024,21.0,Lorient,Ligue 1,Complete Forward
+369,182,Anastasios Douvikas,ST,2023-2024,23.0,Celta Vigo,La Liga,Complete Forward
+370,183,Artem Dovbyk,ST,2023-2024,26.0,Girona,La Liga,Target Man
+371,184,Damion Downs,ST,2023-2024,19.0,Köln,Bundesliga,Complete Forward
+372,186,Dion Drena Beljo,ST,2023-2024,21.0,Augsburg,Bundesliga,Complete Forward
+373,187,Marvin Ducksch,ST,2023-2024,29.0,Werder Bremen,Bundesliga,Target Man
+374,188,Jhon Durán,ST,2023-2024,19.0,Aston Villa,Premier League,Complete Forward
+375,190,Hugo Duro,ST,2023-2024,23.0,Valencia,La Liga,Complete Forward
+376,193,Odsonne Édouard,ST,2023-2024,25.0,Crystal Palace,Premier League,Complete Forward
+377,194,Hugo Ekitike,ST,2023-2024,21.0,2 Teams,2 Comps,Complete Forward
+378,196,Caleb Ekuban,ST,2023-2024,29.0,Genoa,Serie A,Complete Forward
+379,198,Simon Elisor,ST,2023-2024,24.0,Metz,Ligue 1,Complete Forward
+380,201,Breel Embolo,ST,2023-2024,26.0,Monaco,Ligue 1,Complete Forward
+381,202,Emanuel Emegha,ST,2023-2024,20.0,Strasbourg,Ligue 1,Complete Forward
+382,203,Youssef En-Nesyri,ST,2023-2024,26.0,Sevilla,La Liga,Target Man
+383,204,Oscar Estupiñan,ST,2023-2024,26.0,Metz,Ligue 1,Complete Forward
+384,206,Radamel Falcao,ST,2023-2024,37.0,Rayo Vallecano,La Liga,Complete Forward
+385,209,Evan Ferguson,ST,2023-2024,18.0,Brighton,Premier League,Complete Forward
+386,210,Carlos Fernández,ST,2023-2024,27.0,Real Sociedad,La Liga,Complete Forward
+387,212,Nacho Ferri,ST,2023-2024,18.0,Eint Frankfurt,Bundesliga,Complete Forward
+388,213,Rachad Fettal,ST,2023-2024,18.0,Almería,La Liga,Complete Forward
+389,217,Lyle Foster,ST,2023-2024,22.0,Burnley,Premier League,Complete Forward
+390,218,Nathan Fraser,ST,2023-2024,18.0,Wolves,Premier League,Complete Forward
+391,221,Shiō Fukuda,ST,2023-2024,19.0,Gladbach,Bundesliga,Complete Forward
+392,222,Niclas Füllkrug,ST,2023-2024,30.0,2 Teams,Bundesliga,Complete Forward
+393,223,Gerardo Fusco,ST,2023-2024,18.0,Salernitana,Serie A,Complete Forward
+394,227,Ignatius Ganago,ST,2023-2024,24.0,Nantes,Ligue 1,Complete Forward
+395,232,Raúl García,ST,2023-2024,37.0,Athletic Club,La Liga,Complete Forward
+396,237,Olivier Giroud,ST,2023-2024,36.0,Milan,Serie A,Target Man
+397,240,Maxi Gómez,ST,2023-2024,26.0,Cádiz,La Liga,Complete Forward
+398,245,Amine Gouiri,ST,2023-2024,23.0,Rennes,Ligue 1,Complete Forward
+399,246,Adrian Grbić,ST,2023-2024,26.0,Lorient,Ligue 1,Complete Forward
+400,248,Michael Gregoritsch,ST,2023-2024,29.0,Freiburg,Bundesliga,Complete Forward
+401,250,Sergi Guardiola,ST,2023-2024,32.0,Cádiz,La Liga,Complete Forward
+402,251,Albert Guðmundsson,ST,2023-2024,26.0,Genoa,Serie A,Target Man
+403,253,Evann Guessand,ST,2023-2024,22.0,Nice,Ligue 1,Complete Forward
+404,255,Serhou Guirassy,ST,2023-2024,27.0,Stuttgart,Bundesliga,Target Man
+405,256,Marc Guiu,ST,2023-2024,17.0,Barcelona,La Liga,Complete Forward
+406,258,Gorka Guruzeta,ST,2023-2024,26.0,Athletic Club,La Liga,Target Man
+407,259,Erling Haaland,ST,2023-2024,23.0,Manchester City,Premier League,Target Man
+408,261,Antwoine Hackford,ST,2023-2024,19.0,Sheffield Utd,Premier League,Complete Forward
+409,262,Munir El Haddadi,ST,2023-2024,27.0,Las Palmas,La Liga,Complete Forward
+410,263,Sébastien Haller,ST,2023-2024,29.0,Dortmund,Bundesliga,Complete Forward
+411,264,Hwang Hee-chan,ST,2023-2024,27.0,Wolves,Premier League,Target Man
+412,267,Thomas Henry,ST,2023-2024,28.0,Hellas Verona,Serie A,Complete Forward
+413,271,Philipp Hofmann,ST,2023-2024,30.0,Bochum,Bundesliga,Target Man
+414,272,Lucas Höler,ST,2023-2024,29.0,Freiburg,Bundesliga,Target Man
+415,273,Benedict Hollerbach,ST,2023-2024,22.0,Union Berlin,Bundesliga,Target Man
+416,275,Sydney van Hooijdonk,ST,2023-2024,23.0,Bologna,Serie A,Complete Forward
+417,276,Fraser Hornby,ST,2023-2024,23.0,Darmstadt 98,Bundesliga,Complete Forward
+418,277,Rasmus Højlund,ST,2023-2024,20.0,Manchester Utd,Premier League,Target Man
+419,280,Borja Iglesias,ST,2023-2024,30.0,2 Teams,2 Comps,Complete Forward
+420,282,Chukwubuikem Ikwuemesi,ST,2023-2024,21.0,Salernitana,Serie A,Complete Forward
+421,283,Andrej Ilic,ST,2023-2024,23.0,Lille,Ligue 1,Complete Forward
+422,284,Joel Imasuen,ST,2023-2024,18.0,Werder Bremen,Bundesliga,Complete Forward
+423,285,Ciro Immobile,ST,2023-2024,33.0,Lazio,Serie A,Target Man
+424,286,Danny Ings,ST,2023-2024,31.0,West Ham,Premier League,Complete Forward
+425,287,Alexander Isak,ST,2023-2024,23.0,Newcastle Utd,Premier League,Target Man
+426,291,Nicolas Jackson,ST,2023-2024,22.0,Chelsea,Premier League,Target Man
+427,293,Luis Javier Suárez,ST,2023-2024,25.0,Almería,La Liga,Complete Forward
+428,294,Daniel Jebbison,ST,2023-2024,19.0,Sheffield Utd,Premier League,Complete Forward
+429,295,Gabriel Jesus,ST,2023-2024,26.0,Arsenal,Premier League,Target Man
+430,296,Raúl Jiménez,ST,2023-2024,32.0,Fulham,Premier League,Target Man
+431,300,Kaio Jorge,ST,2023-2024,21.0,Frosinone,Serie A,Complete Forward
+432,301,Willian José,ST,2023-2024,31.0,Betis,La Liga,Target Man
+433,302,Joselu,ST,2023-2024,33.0,Real Madrid,La Liga,Target Man
+434,305,Luka Jović,ST,2023-2024,25.0,2 Teams,Serie A,Complete Forward
+435,306,Juanmi,ST,2023-2024,30.0,Cádiz,La Liga,Complete Forward
+436,307,Eli Junior Kroupi,ST,2023-2024,17.0,Lorient,Ligue 1,Target Man
+437,310,Sory Kaba,ST,2023-2024,28.0,Las Palmas,La Liga,Complete Forward
+438,313,Sasa Kalajdzic,ST,2023-2024,26.0,2 Teams,2 Comps,Complete Forward
+439,314,Arnaud Kalimuendo,ST,2023-2024,21.0,Rennes,Ligue 1,Target Man
+440,317,Harry Kane,ST,2023-2024,30.0,Bayern Munich,Bundesliga,Target Man
+441,321,Mikkel Kaufmann,ST,2023-2024,22.0,Union Berlin,Bundesliga,Complete Forward
+442,322,Moise Kean,ST,2023-2024,23.0,Juventus,Serie A,Complete Forward
+443,323,Omari Kellyman,ST,2023-2024,17.0,Aston Villa,Premier League,Complete Forward
+444,324,Wahbi Khazri,ST,2023-2024,32.0,Montpellier,Ligue 1,Complete Forward
+445,325,Kiké,ST,2023-2024,33.0,Alavés,La Liga,Target Man
+446,326,Tim Kleindienst,ST,2023-2024,27.0,Heidenheim,Bundesliga,Target Man
+447,327,Randal Kolo Muani,ST,2023-2024,24.0,2 Teams,2 Comps,Target Man
+448,328,Ibrahima Koné,ST,2023-2024,24.0,2 Teams,2 Comps,Complete Forward
+449,330,Dawid Kownacki,ST,2023-2024,26.0,Werder Bremen,Bundesliga,Complete Forward
+450,331,Nikola Krstović,ST,2023-2024,23.0,Lecce,Serie A,Target Man
+451,336,Giorgi Kvernadze,ST,2023-2024,20.0,Frosinone,Serie A,Complete Forward
+452,338,Grejohn Kyei,ST,2023-2024,27.0,Clermont Foot,Ligue 1,Complete Forward
+453,340,Alexandre Lacazette,ST,2023-2024,32.0,Lyon,Ligue 1,Target Man
+454,341,Mathis Lambourde,ST,2023-2024,17.0,Rennes,Ligue 1,Complete Forward
+455,343,Mohamed Lamine Bayo,ST,2023-2024,25.0,Le Havre,Ligue 1,Target Man
+456,345,Gianluca Lapadula,ST,2023-2024,33.0,Cagliari,Serie A,Complete Forward
+457,347,Juanmi Latasa,ST,2023-2024,22.0,Getafe,La Liga,Target Man
+458,353,Robert Lewandowski,ST,2023-2024,34.0,Barcelona,La Liga,Target Man
+459,357,Andy Logbo,ST,2023-2024,19.0,Le Havre,Ligue 1,Complete Forward
+460,359,Lorenzo Lucca,ST,2023-2024,22.0,Udinese,Serie A,Target Man
+461,360,José Luis Morales,ST,2023-2024,36.0,Villarreal,La Liga,Complete Forward
+462,361,Romelu Lukaku,ST,2023-2024,30.0,Roma,Serie A,Target Man
+463,363,Zito Luvumbo,ST,2023-2024,21.0,Cagliari,Serie A,Target Man
+464,366,Frank Magri,ST,2023-2024,23.0,Toulouse,Ligue 1,Target Man
+465,367,Jon Magunacelaya,ST,2023-2024,23.0,Real Sociedad,La Liga,Complete Forward
+466,373,Alberto Marí,ST,2023-2024,22.0,Valencia,La Liga,Complete Forward
+467,374,Mariano,ST,2023-2024,29.0,Sevilla,La Liga,Complete Forward
+468,375,Mirko Marić,ST,2023-2024,28.0,Monza,Serie A,Complete Forward
+469,376,Omar Marmoush,ST,2023-2024,24.0,Eint Frankfurt,Bundesliga,Target Man
+470,378,Roger Martí,ST,2023-2024,32.0,Cádiz,La Liga,Complete Forward
+471,379,Anthony Martial,ST,2023-2024,27.0,Manchester Utd,Premier League,Complete Forward
+472,381,Lautaro Martínez,ST,2023-2024,25.0,Inter,Serie A,Target Man
+473,383,Jaime Mata,ST,2023-2024,34.0,Getafe,La Liga,Target Man
+474,384,Jean-Philippe Mateta,ST,2023-2024,26.0,Crystal Palace,Premier League,Target Man
+475,385,Neal Maupay,ST,2023-2024,26.0,2 Teams,Premier League,Target Man
+476,386,Borja Mayoral,ST,2023-2024,26.0,Getafe,La Liga,Target Man
+477,392,Oliver McBurnie,ST,2023-2024,27.0,Sheffield Utd,Premier League,Target Man
+478,393,Memphis,ST,2023-2024,29.0,Atlético Madrid,La Liga,Target Man
+479,396,Georges Mikautadze,ST,2023-2024,22.0,Metz,Ligue 1,Target Man
+480,397,Arkadiusz Milik,ST,2023-2024,29.0,Juventus,Serie A,Complete Forward
+481,398,Jovan Milošević,ST,2023-2024,18.0,Stuttgart,Bundesliga,Complete Forward
+482,399,Marko Milovanović,ST,2023-2024,19.0,Almería,La Liga,Complete Forward
+483,400,Rafa Mir,ST,2023-2024,26.0,Sevilla,La Liga,Complete Forward
+484,402,Aleksandar Mitrović,ST,2023-2024,28.0,Fulham,Premier League,Complete Forward
+485,404,Terem Moffi,ST,2023-2024,24.0,Nice,Ligue 1,Target Man
+486,405,Mostafa Mohamed,ST,2023-2024,25.0,Nantes,Ligue 1,Target Man
+487,406,Alberto Moleiro,ST,2023-2024,19.0,Las Palmas,La Liga,Target Man
+488,407,Kieffer Moore,ST,2023-2024,30.0,Bournemouth,Premier League,Complete Forward
+489,408,Álvaro Morata,ST,2023-2024,30.0,Atlético Madrid,La Liga,Target Man
+490,410,Gerard Moreno,ST,2023-2024,31.0,Villarreal,La Liga,Target Man
+491,411,Carlton Morris,ST,2023-2024,27.0,Luton Town,Premier League,Target Man
+492,413,Lebo Mothiba,ST,2023-2024,27.0,Strasbourg,Ligue 1,Complete Forward
+493,414,Youssoufa Moukoko,ST,2023-2024,18.0,Dortmund,Bundesliga,Complete Forward
+494,415,Steve Mounié,ST,2023-2024,28.0,Brest,Ligue 1,Target Man
+495,416,Divin Mubama,ST,2023-2024,18.0,West Ham,Premier League,Complete Forward
+496,418,Samuele Mulattieri,ST,2023-2024,22.0,Sassuolo,Serie A,Complete Forward
+497,419,Rodrigo Muniz,ST,2023-2024,22.0,Fulham,Premier League,Target Man
+498,420,Luis Muriel,ST,2023-2024,32.0,Atalanta,Serie A,Target Man
+499,421,Vedat Muriqi,ST,2023-2024,29.0,Mallorca,La Liga,Target Man
+500,423,Kingstone Mutandwa,ST,2023-2024,20.0,Cagliari,Serie A,Complete Forward
+501,426,Bassirou Ndiaye,ST,2023-2024,21.0,Lorient,Ligue 1,Complete Forward
+502,428,Michael Ndiweni,ST,2023-2024,19.0,Newcastle Utd,Premier League,Complete Forward
+503,430,Álvaro Negredo,ST,2023-2024,37.0,Cádiz,La Liga,Complete Forward
+504,433,Jessic Ngankam,ST,2023-2024,23.0,2 Teams,Bundesliga,Complete Forward
+505,435,Steve Ngoura,ST,2023-2024,18.0,Le Havre,Ligue 1,Complete Forward
+506,436,M'Baye Niang,ST,2023-2024,28.0,Empoli,Serie A,Complete Forward
+507,437,Shamar Nicholson,ST,2023-2024,26.0,Clermont Foot,Ligue 1,Target Man
+508,438,Justin Njinmah,ST,2023-2024,22.0,Werder Bremen,Bundesliga,Complete Forward
+509,439,Eddie Nketiah,ST,2023-2024,24.0,Arsenal,Premier League,Complete Forward
+510,446,Darwin Núñez,ST,2023-2024,24.0,Liverpool,Premier League,Target Man
+511,447,Simeon Nwankwo,ST,2023-2024,31.0,Salernitana,Serie A,Complete Forward
+512,448,M'Bala Nzola,ST,2023-2024,26.0,Fiorentina,Serie A,Target Man
+513,449,Mark O'Mahony,ST,2023-2024,18.0,Brighton,Premier League,Complete Forward
+514,450,Michael Obafemi,ST,2023-2024,23.0,Burnley,Premier League,Complete Forward
+515,453,Noah Okafor,ST,2023-2024,23.0,Milan,Serie A,Complete Forward
+516,454,David Okereke,ST,2023-2024,25.0,Torino,Serie A,Complete Forward
+517,457,Samu Omorodion,ST,2023-2024,19.0,2 Teams,La Liga,Target Man
+518,458,Ryan One,ST,2023-2024,17.0,Sheffield Utd,Premier League,Complete Forward
+519,459,Karim Onisiwo,ST,2023-2024,31.0,Mainz 05,Bundesliga,Target Man
+520,460,Loïs Openda,ST,2023-2024,23.0,RB Leipzig,Bundesliga,Target Man
+521,463,Gift Orban,ST,2023-2024,21.0,Lyon,Ligue 1,Complete Forward
+522,464,Divock Origi,ST,2023-2024,28.0,Nott'ham Forest,Premier League,Complete Forward
+523,467,Victor Osimhen,ST,2023-2024,24.0,Napoli,Serie A,Target Man
+524,468,William Osula,ST,2023-2024,19.0,Sheffield Utd,Premier League,Complete Forward
+525,471,Patrick Ouotro,ST,2023-2024,17.0,Strasbourg,Ligue 1,Complete Forward
+526,473,Gonçalo Paciência,ST,2023-2024,28.0,2 Teams,2 Comps,Complete Forward
+527,475,Joaquín Panichelli,ST,2023-2024,20.0,Alavés,La Liga,Complete Forward
+528,478,Ben Parkinson,ST,2023-2024,18.0,Newcastle Utd,Premier League,Complete Forward
+529,479,Leonardo Pavoletti,ST,2023-2024,34.0,Cagliari,Serie A,Complete Forward
+530,481,Jordan Pefok,ST,2023-2024,27.0,2 Teams,Bundesliga,Target Man
+531,482,Dženan Pejčinović,ST,2023-2024,18.0,Wolfsburg,Bundesliga,Complete Forward
+532,483,Pietro Pellegri,ST,2023-2024,22.0,Torino,Serie A,Complete Forward
+533,485,Faris Pemi Moumbagna,ST,2023-2024,23.0,Marseille,Ligue 1,Complete Forward
+534,490,Andrea Petagna,ST,2023-2024,28.0,2 Teams,Serie A,Complete Forward
+535,491,Luca Pfeiffer,ST,2023-2024,26.0,Darmstadt 98,Bundesliga,Target Man
+536,492,Maximilian Philipp,ST,2023-2024,29.0,Freiburg,Bundesliga,Complete Forward
+537,494,Roberto Piccoli,ST,2023-2024,22.0,2 Teams,Serie A,Complete Forward
+538,495,Andrea Pinamonti,ST,2023-2024,24.0,Sassuolo,Serie A,Target Man
+539,496,Alassane Pléa,ST,2023-2024,30.0,Gladbach,Bundesliga,Target Man
+540,498,Sebastian Polter,ST,2023-2024,32.0,Darmstadt 98,Bundesliga,Complete Forward
+541,500,Yussuf Poulsen,ST,2023-2024,29.0,RB Leipzig,Bundesliga,Complete Forward
+542,501,Abdón Prats,ST,2023-2024,30.0,Mallorca,La Liga,Complete Forward
+543,504,George Pușcaș,ST,2023-2024,27.0,Genoa,Serie A,Complete Forward
+544,507,Sandro Ramírez,ST,2023-2024,28.0,Las Palmas,La Liga,Target Man
+545,508,Chris Ramos,ST,2023-2024,26.0,Cádiz,La Liga,Target Man
+546,509,Gonçalo Ramos,ST,2023-2024,22.0,Paris S-G,Ligue 1,Target Man
+547,513,Giacomo Raspadori,ST,2023-2024,23.0,Napoli,Serie A,Target Man
+548,514,Raúl,ST,2023-2024,22.0,Osasuna,La Liga,Complete Forward
+549,518,Mateo Retegui,ST,2023-2024,24.0,Genoa,Serie A,Target Man
+550,520,Richarlison,ST,2023-2024,26.0,Tottenham,Premier League,Target Man
+551,525,Álvaro Rodríguez,ST,2023-2024,19.0,Real Madrid,La Liga,Complete Forward
+552,526,Jay Rodriguez,ST,2023-2024,34.0,Burnley,Premier League,Complete Forward
+553,528,Isaac Romero,ST,2023-2024,23.0,Sevilla,La Liga,Complete Forward
+554,530,Vitor Roque,ST,2023-2024,18.0,Barcelona,La Liga,Complete Forward
+555,532,Umar Sadiq,ST,2023-2024,26.0,Real Sociedad,La Liga,Complete Forward
+556,533,Alexis Saelemaekers,ST,2023-2024,24.0,Bologna,Serie A,Target Man
+557,534,Wesley Saïd,ST,2023-2024,28.0,Lens,Ligue 1,Complete Forward
+558,539,Mama Samba Baldé,ST,2023-2024,27.0,Lyon,Ligue 1,Complete Forward
+559,540,Antonio Sanabria,ST,2023-2024,27.0,Torino,Serie A,Poacher
+560,541,Alexis Sánchez,ST,2023-2024,34.0,Inter,Serie A,Poacher
+561,548,Martin Satriano,ST,2023-2024,22.0,Brest,Ligue 1,Poacher
+562,550,Gianluca Scamacca,ST,2023-2024,24.0,Atalanta,Serie A,Poacher
+563,551,Dane Scarlett,ST,2023-2024,19.0,Tottenham,Premier League,Complete Forward
+564,553,Patrik Schick,ST,2023-2024,27.0,Leverkusen,Bundesliga,Complete Forward
+565,557,Davie Selke,ST,2023-2024,28.0,Köln,Bundesliga,Complete Forward
+566,558,Vivaldo Semedo,ST,2023-2024,18.0,Udinese,Serie A,Complete Forward
+567,560,Benjamin Šeško,ST,2023-2024,20.0,RB Leipzig,Bundesliga,Poacher
+568,561,Aaron Seydel,ST,2023-2024,27.0,Darmstadt 98,Bundesliga,Complete Forward
+569,563,Eldor Shomurodov,ST,2023-2024,28.0,Cagliari,Serie A,Complete Forward
+570,564,Steven Shpendi,ST,2023-2024,20.0,Empoli,Serie A,Complete Forward
+571,565,André Silva,ST,2023-2024,27.0,Real Sociedad,La Liga,Complete Forward
+572,567,Giovanni Simeone,ST,2023-2024,28.0,Napoli,Serie A,Complete Forward
+573,571,Tim Skarke,ST,2023-2024,26.0,Darmstadt 98,Bundesliga,Poacher
+574,573,Dominic Solanke,ST,2023-2024,25.0,Bournemouth,Premier League,Poacher
+575,579,Alexander Sørloth,ST,2023-2024,27.0,Villarreal,La Liga,Poacher
+576,581,Trivante Stewart,ST,2023-2024,23.0,Salernitana,Serie A,Complete Forward
+577,582,Filip Stojilković,ST,2023-2024,23.0,Darmstadt 98,Bundesliga,Complete Forward
+578,583,Jørgen Strand Larsen,ST,2023-2024,23.0,Celta Vigo,La Liga,Poacher
+579,585,Cristhian Stuani,ST,2023-2024,36.0,Girona,La Liga,Complete Forward
+580,586,Isaac Success,ST,2023-2024,27.0,Udinese,Serie A,Complete Forward
+581,587,Max Svensson,ST,2023-2024,0.0,Osasuna,La Liga,Complete Forward
+582,589,Karol Świderski,ST,2023-2024,26.0,Hellas Verona,Serie A,Complete Forward
+583,590,Mamadou Sylla,ST,2023-2024,29.0,Alavés,La Liga,Complete Forward
+584,597,Benjamin Tetteh,ST,2023-2024,26.0,Metz,Ligue 1,Complete Forward
+585,600,Marcus Thuram,ST,2023-2024,25.0,Inter,Serie A,Poacher
+586,602,Phillip Tietz,ST,2023-2024,26.0,Augsburg,Bundesliga,Poacher
+587,603,Steffen Tigges,ST,2023-2024,25.0,Köln,Bundesliga,Complete Forward
+588,604,Raúl de Tomás,ST,2023-2024,28.0,Rayo Vallecano,La Liga,Poacher
+589,606,Ivan Toney,ST,2023-2024,27.0,Brentford,Premier League,Poacher
+590,608,Fabio Torsiello,ST,2023-2024,18.0,Darmstadt 98,Bundesliga,Complete Forward
+591,614,Enes Ünal,ST,2023-2024,26.0,2 Teams,2 Comps,Complete Forward
+592,615,Deniz Undav,ST,2023-2024,27.0,Stuttgart,Bundesliga,Poacher
+593,616,Myrto Uzuni,ST,2023-2024,28.0,Granada,La Liga,Poacher
+594,618,Borja Vázquez,ST,2023-2024,18.0,Cádiz,La Liga,Complete Forward
+595,619,Alejo Véliz,ST,2023-2024,19.0,2 Teams,2 Comps,Complete Forward
+596,623,Oscar Vilhelmsson,ST,2023-2024,19.0,Darmstadt 98,Bundesliga,Complete Forward
+597,625,Asier Villalibre,ST,2023-2024,25.0,Athletic Club,La Liga,Complete Forward
+598,626,Carlos Vinícius,ST,2023-2024,28.0,Fulham,Premier League,Complete Forward
+599,628,Vitinha,ST,2023-2024,23.0,2 Teams,2 Comps,Poacher
+600,629,Dušan Vlahović,ST,2023-2024,23.0,Juventus,Serie A,Poacher
+601,630,Kevin Volland,ST,2023-2024,31.0,2 Teams,2 Comps,Poacher
+602,631,Elye Wahi,ST,2023-2024,20.0,2 Teams,Ligue 1,Poacher
+603,632,Ollie Watkins,ST,2023-2024,27.0,Aston Villa,Premier League,Poacher
+604,633,Wout Weghorst,ST,2023-2024,30.0,Hoffenheim,Bundesliga,Poacher
+605,634,Nelson Weiper,ST,2023-2024,18.0,Mainz 05,Bundesliga,Complete Forward
+606,635,Shon Weissman,ST,2023-2024,27.0,2 Teams,2 Comps,Complete Forward
+607,636,Danny Welbeck,ST,2023-2024,32.0,Brighton,Premier League,Poacher
+608,637,Timo Werner,ST,2023-2024,27.0,2 Teams,2 Comps,Poacher
+609,638,Ethan Wheatley,ST,2023-2024,17.0,Manchester Utd,Premier League,Complete Forward
+610,639,Iñaki Williams,ST,2023-2024,29.0,Athletic Club,La Liga,Poacher
+611,642,Callum Wilson,ST,2023-2024,31.0,Newcastle Utd,Premier League,Complete Forward
+612,645,Jonas Wind,ST,2023-2024,24.0,Wolfsburg,Bundesliga,Poacher
+613,646,Yoane Wissa,ST,2023-2024,26.0,Brentford,Premier League,Poacher
+614,648,Chris Wood,ST,2023-2024,31.0,Nott'ham Forest,Premier League,Poacher
+615,649,Cauley Woodrow,ST,2023-2024,28.0,Luton Town,Premier League,Complete Forward
+616,652,Roman Yaremchuk,ST,2023-2024,27.0,Valencia,La Liga,Complete Forward
+617,653,Kelvin Yeboah,ST,2023-2024,23.0,Montpellier,Ligue 1,Complete Forward
+618,654,Bertuğ Yıldırım,ST,2023-2024,21.0,Rennes,Ligue 1,Complete Forward
+619,658,Duván Zapata,ST,2023-2024,32.0,2 Teams,Serie A,Poacher
+620,661,Joshua Zirkzee,ST,2023-2024,22.0,Bologna,Serie A,Poacher
+621,662,Simon Zoller,ST,2023-2024,32.0,Bochum,Bundesliga,Complete Forward
+622,21,Selim Amallah,SS,2023-2024,26.0,Valencia,La Liga,False Nine
+623,71,Lucas Beltrán,SS,2023-2024,22.0,Fiorentina,Serie A,False Nine
+624,92,Badredine Bouanani,SS,2023-2024,18.0,Nice,Ligue 1,Second Striker
+625,110,Maxime Busi,SS,2023-2024,23.0,Reims,Ligue 1,False Nine
+626,111,Rémy Cabella,SS,2023-2024,33.0,Lille,Ligue 1,False Nine
+627,114,Nicolò Cambiaghi,SS,2023-2024,22.0,Empoli,Serie A,False Nine
+628,116,Matteo Cancellieri,SS,2023-2024,21.0,Empoli,Serie A,False Nine
+629,131,Fares Chaïbi,SS,2023-2024,20.0,2 Teams,2 Comps,False Nine
+630,142,Ángel Correa,SS,2023-2024,28.0,Atlético Madrid,La Liga,False Nine
+631,157,Charles De Ketelaere,SS,2023-2024,22.0,Atalanta,Serie A,False Nine
+632,169,Brahim Díaz,SS,2023-2024,23.0,Real Madrid,La Liga,False Nine
+633,180,Jamie Donley,SS,2023-2024,18.0,Tottenham,Premier League,False Nine
+634,191,Paulo Dybala,SS,2023-2024,29.0,Roma,Serie A,False Nine
+635,192,George Earthy,SS,2023-2024,18.0,West Ham,Premier League,Second Striker
+636,208,João Félix,SS,2023-2024,23.0,2 Teams,La Liga,False Nine
+637,224,Gianluca Gaetano,SS,2023-2024,23.0,Cagliari,Serie A,False Nine
+638,226,Kévin Gameiro,SS,2023-2024,36.0,Strasbourg,Ligue 1,False Nine
+639,249,Antoine Griezmann,SS,2023-2024,32.0,Atlético Madrid,La Liga,False Nine
+640,297,João Pedro,SS,2023-2024,21.0,Brighton,Premier League,Second Striker
+641,303,Diogo Jota,SS,2023-2024,26.0,Liverpool,Premier League,Second Striker
+642,358,Ademola Lookman,SS,2023-2024,25.0,Atalanta,Serie A,Second Striker
+643,395,Sven Michel,SS,2023-2024,33.0,Augsburg,Bundesliga,Second Striker
+644,412,Dany Mota,SS,2023-2024,25.0,Monza,Serie A,False Nine
+645,427,Iliman Ndiaye,SS,2023-2024,23.0,Marseille,Ligue 1,False Nine
+646,440,Christopher Nkunku,SS,2023-2024,25.0,Chelsea,Premier League,False Nine
+647,444,Randy Nteka,SS,2023-2024,25.0,Rayo Vallecano,La Liga,False Nine
+648,455,Masaya Okugawa,SS,2023-2024,27.0,Augsburg,Bundesliga,False Nine
+649,465,Gaetano Oristanio,SS,2023-2024,20.0,Cagliari,Serie A,False Nine
+650,499,Portu,SS,2023-2024,31.0,2 Teams,La Liga,False Nine
+651,555,Jérémy Sebas,SS,2023-2024,20.0,Strasbourg,Ligue 1,Second Striker
+652,594,Loum Tchaouna,SS,2023-2024,19.0,Salernitana,Serie A,Second Striker
+653,596,Martin Terrier,SS,2023-2024,26.0,Rennes,Ligue 1,Second Striker
+654,598,Florian Thauvin,SS,2023-2024,30.0,Udinese,Serie A,Second Striker
+655,611,Óscar Trejo,SS,2023-2024,35.0,Rayo Vallecano,La Liga,Second Striker
+656,647,Nick Woltemade,SS,2023-2024,21.0,Werder Bremen,Bundesliga,Second Striker
+657,657,Nicolò Zaniolo,SS,2023-2024,24.0,Aston Villa,Premier League,Second Striker
+658,663,Lovro Zvonarek,SS,2023-2024,18.0,Bayern Munich,Bundesliga,Second Striker

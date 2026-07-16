@@ -1,0 +1,51 @@
+** Defending Data Dictionary **
+-------------------------------
+Player: Player name
+Season: Season
+Age: Current age
+Nation: National Team
+Competition: Top 5 League (Premier League, Ligue 1, Bundesliga, Serie A, La Liga)
+MP: Matches Played
+Min: Total Minutes Across the Season
+90s: # of full 90 min games
+Starts: # of times in starting lineup
+Subs: # of substitutions
+Carries: # of times the player controlled the ball with their feet
+TotDist: Total distance, in yards, a player moved the ball while controlling it with their feet, in any direction
+PrgDist: Total distance player moved ball while controlling it with their feet towards the opponent's goal
+Short Cmp: # of short passes completed
+Short Att: # of short passes attempted
+Short Cmp%: % of short passes completed
+Medium Cmp: # of medium passes completed
+Medium Att: # of medium passes attempted
+Medium Cmp%: % of medium passes completed
+Long Cmp: # of long passes completed
+Long Att: # of long passes attempted
+Long Cmp%: % of long passes completed
+PrgC: Carries that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any carry into the penalty area. Excludes carries which end in the defending 50% of the pitch
+1/3_C: Carries that enter final third
+CPA: Carries into 18 yard box
+Mis: # of failed ball controls
+Dis: # of times player loses control of the ball after being tackled by opposing player
+Rec: # of times player successfully received a pass
+PrgR: Progressive Passes received
+Won: Headers won
+Lost: Headers lost
+Won%: % of headers won
+Tkl: # of tackles
+TklW: # of tackles won
+Def 3rd: Tackles in defensive third
+Mid 3rd: Tackles in middle third
+Att 3rd: Tackles in final (attacking) third
+Challenges: # of challenges of dribblers
+Challenges Att: # of dribbler challenges attempted
+Challenge %: % of successful challenges attempted
+Challenges Lost: # of challenges lost
+Blocks: # of Blocks
+Sh: # of shots blocked
+Pass: # of passes blocked
+Tkl+Int: # of tackles and interceptions
+Clr: # of clearances
+Err: # of errors leading to shots
+
+

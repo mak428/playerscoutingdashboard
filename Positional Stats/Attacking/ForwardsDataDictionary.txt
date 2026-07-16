@@ -1,0 +1,75 @@
+** Forwards Data Dictionary **
+
+Filters:
+- xG > 0
+- Passes > 0
+- Touches > 0
+- Carries > 0
+- Passes Completed > 0
+- Shots Total > 0
+- Live Ball Passes > 0
+
+--------------------------
+Player: Player name
+Season: Season
+Age: Current age
+Nation: National Team
+Competition: Top 5 League (Premier League, Ligue 1, Bundesliga, Serie A, La Liga)
+MP: Matches Played
+Min: Total Minutes Across the Season
+90s: # of full 90 min games
+Starts: # of times in starting lineup
+Subs: # of substitutions
+Gls: # of goals scored
+Ast: # of assists
+G+A: # goals and assists
+G-PK: Non-penalty goals
+PK: # of penalty kicks made
+PKatt: Penatly kicks attempted
+PKm: Penatly kicks missed
+xG: Expected goals
+npxG: Non-penalty expected goals
+xA: Expected Assists
+G-xG: Goals minus expected goals
+Sh: Total # of shots
+G/Sh: Goals per shot
+G/SoT: Goals per shot on target
+SoT: Shots on target
+SoT%: Percentage of shots on target
+Sh Dist: Average distance from goal of all shots taken, in yards
+FK: Shots from free kicks
+Def 3rd Touch: Touches in the defensive 3rd
+Mid 3rd Touch: Touches in the midfield 3rd
+Att 3rd Touch: Touches in the attacking 3rd
+Cmp: Passes completed
+Cmp%: Pass completion %
+KP: Key passes (passes that lead directly to a shot)
+PPA: Completed passes into 18-yard box
+CrsPA: Completed crosses into 18-yard box
+PrgP: Progressive passes
+Short Cmp: # of short passes completed
+Short Att: # of short passes attempted
+Short Cmp%: % of short passes completed
+Medium Cmp: # of medium passes completed
+Medium Att: # of medium passes attempted
+Medium Cmp%: % of medium passes completed
+Long Cmp: # of long passes completed
+Long Att: # of long passes attempted
+Long Cmp%: % of long passes completed
+Carries: # of times the player controlled the ball with their feet
+TotDist: Total distance, in yards, a player moved the ball while controlling it with their feet, in any direction
+PrgDist: Total distance player moved ball while controlling it with their feet towards the opponent's goal
+PrgC: Carries that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any carry into the penalty area. Excludes carries which end in the defending 50% of the pitch
+1/3C: Carries that enter final third
+CPA: Carries into 18 yard box
+Mis: # of failed ball controls
+Dis: # of times player loses control of the ball after being tackled by opposing player
+Live: Live-ball passes
+Dead: Dead-ball passes
+Sw: # of switches (passes that travel more than 40 yards wide)
+Crs: Crosses
+TI: # of throw ins
+CK: # of corner kicks
+Head Won: # of headers Won
+Head Lost: # of headers Lost
+Head Won%: % of headers won

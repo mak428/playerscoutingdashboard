@@ -1,0 +1,9 @@
+Interactive Soccer Player Scouting Dashboard
+- Make bot to scrape info from FBRef.com and transfermarkt.com
+
+App Page Ideas
+- Home Page: contains a list of all the features that the website offers
+- Player Archetype Page: allows users to see evey player's ideal archetype found using k-means clustering algorithm along with a visual of a miniature football pitch with a moving dot that moves according to how the archetype plays
+- Transfer Market Value Prediction: allows users to see every player's 5-yr transfer market value prediction using an ensemble time series model (Exponential Smoothing, Linear Regression, SARIMA, Prophet)
+- Tactical System Fit: allows users to see a 'fit score' that estimates how well a player fits different tactical systems using mutli-label classification and rule based scoring
+- Shortlist Page: users add players they're interested in to a personal shortlist

@@ -1,19 +1,36 @@
-# 🎈 Blank app template
+# Interactive Soccer Dashboard
 
-A simple Streamlit app template for you to modify!
+A full-stack analytics dashboard for Top 5 European League players.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Stack
+- **Frontend**: Next.js 15 · React · TypeScript · Tailwind CSS · Plotly.js
+- **Backend**: FastAPI · pandas
 
-### How to run it on your own machine
+## Pages
+| Page | Description |
+|------|-------------|
+| Home | Feature overview |
+| Archetypes | K-Means player archetypes by position |
+| Market Value | 5-year transfer value forecasts |
+| Tactical Fit | Fit scores for 4 tactical systems |
+| Shortlist | Personal player shortlist + comparison |
 
-1. Install the requirements
+## Running the App
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+### 1. Backend
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload --port 8000
+```
 
-2. Run the app
+### 2. Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+Open [http://localhost:3000](http://localhost:3000).
+
+The API docs are available at [http://localhost:8000/docs](http://localhost:8000/docs).

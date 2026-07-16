@@ -1,0 +1,33 @@
+** Goalkeeping Data Dictionary **
+-------------------------------
+Player: Player name
+Season: Season
+Age: Current age
+Nation: National Team
+Competition: Top 5 League (Premier League, Ligue 1, Bundesliga, Serie A, La Liga)
+MP: Matches Played
+Min: Total Minutes Across the Season
+90s: # of full 90 min games
+Starts: # of times in starting lineup
+Subs: # of substitutions
+PSxG: Post Shot Expected Goals (how likely the keeper is to save the shot)
+PSxG / SoT: Post Shot Expected Goals per Shot on Target
+PSxG +/-: Post Shot Expected Goals Minus Goals Allowed
+Opp: # of opponent attempted crosses
+Stp: # of crosses stopped by keeper
+Stp%: % of stopped crosses
+#OPA: # of defensive actions outside of penalty area
+AvgDist: Average distance from goal of all defensive actions
+Att: Goal Kicks Attempted
+Launch%: Percentage of goal kicks that were launched
+AvgLen: Average Length of goal kicks (in yards)
+GA: Goals Against
+SoTA: Shots on Target Against
+Saves: # of saves
+Save%: Save Percentage
+W: Wins
+D: Draws
+L: Losses
+CS: # of clean sheets
+CS%: clean sheet percentage
+PKSave%: Penalty kick save percentage

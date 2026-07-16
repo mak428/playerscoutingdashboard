@@ -1,0 +1,21 @@
+Passion Project Data Dictionary
+
+Description of all features within the dataset
+
+Gls: # of goals
+xG: expected goals
+Tkl: # of tackles
+Nation: National team represented
+Team: Club
+Comp: One of Top 5 Leagues (Premier League, Ligue 1, Bundesliga, Serie A, La Liga)
+MP: Matches played
+Min: # of minutes played
+90s: # of full 90 minute games completed
+Starts: # of matches started
+Subs: # of times coming off the bench as a substitute
+Cmp: Completed Passes
+Att: passes attempted
+KP: # of key passes (passes that lead to goal scoring chances)
+1/3: # of passes in opposing third of the field
+
+
