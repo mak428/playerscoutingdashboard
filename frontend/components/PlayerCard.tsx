@@ -8,7 +8,11 @@ interface PlayerCardProps {
 }
 
 export default function PlayerCard({ entry, onRemove }: PlayerCardProps) {
-  async function handleRemove() {
+  async function handleRemove(e: React.MouseEvent) {
+    // Stop the click from bubbling up to the parent card's toggleSelect handler.
+    // Without this, clicking "Remove" would simultaneously remove the player AND
+    // toggle their selection, causing conflicting state updates and UI glitching.
+    e.stopPropagation();
     try {
       await removeFromShortlist(entry.player);
       onRemove(entry.player);
